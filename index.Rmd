@@ -50,7 +50,7 @@ sarracenia_df <- my_plants %>%
 ```{r}
 datatable(sarracenia_df %>% select(scientificName, county, state))
 ```
-```{r sarracenia map}
+```{r sarracenia function, include = FALSE}
 
 map_sarracenia <- function(species,
                            subspecies = NA,
@@ -181,15 +181,15 @@ jsCode <- paste0('
   
 }
 
+
+```
+
+```{r sarracenia map}
 map_sarracenia(species = "Sarracenia leucophylla",
                #subspecies = "alabamensis",
                df = sarracenia_df,
                l2_global = l2)
-
 ```
-
-
-
 
 ## R Markdown
 
