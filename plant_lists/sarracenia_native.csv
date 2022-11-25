@@ -1,0 +1,1213 @@
+gbifID,genus,species,subspecies,county,state,country,elevation,elevationAccuracy,decimalLatitude,decimalLongitude,coordinateUncertaintyInMeters,scientificName,year,source
+2234383981,Sarracenia,alata,NA,Baldwin County,Alabama,United States,NA,NA,30.524871,-87.583595,1362,Sarracenia alata,1996,3_distribution
+2234383680,Sarracenia,alata,NA,Mobile County,Alabama,United States,3,NA,30.470833,-88.395833,100,Sarracenia alata,1989,3_distribution
+2234383130,Sarracenia,alata,NA,Washington County,Alabama,United States,NA,NA,31.153323,-88.301174,9308,Sarracenia alata,1961,3_distribution
+1135528552,Sarracenia,alata,NA,Allen Parish,Louisiana,United States,NA,NA,30.855402,-92.883582,29304,Sarracenia alata,2015,3_distribution
+2234382272,Sarracenia,alata,NA,Beauregard Parish,Louisiana,United States,34,NA,30.649444,-93.198333,100,Sarracenia alata,1988,3_distribution
+3335359320,Sarracenia,alata,NA,Calcasieu Parish,Louisiana,United States,NA,NA,30.478582,-93.394141,29356,Sarracenia alata,2021,3_distribution
+1586946339,Sarracenia,alata,NA,East Baton Rouge Parish,Louisiana,United States,NA,NA,30.514893,-91.123315,29343,Sarracenia alata,2017,3_distribution
+2234383535,Sarracenia,alata,NA,Natchitoches Parish,Louisiana,United States,65.5,1.5,32.112778,-92.989167,100,Sarracenia alata,1988,3_distribution
+3902713202,Sarracenia,alata,NA,Rapides Parish,Louisiana,United States,NA,NA,31.123272,-92.823748,29278,Sarracenia alata,2022,3_distribution
+3344484168,Sarracenia,alata,NA,St. Tammany Parish,Louisiana,United States,NA,NA,30.618101,-89.898746,1205,Sarracenia alata,1967,3_distribution
+2234383276,Sarracenia,alata,NA,Vernon Parish,Louisiana,United States,74.5,4.5,31.043333,-93.402222,100,Sarracenia alata,1988,3_distribution
+2234383341,Sarracenia,alata,NA,Washington Parish,Louisiana,United States,37,NA,30.711389,-90.101111,100,Sarracenia alata,1988,3_distribution
+3698358073,Sarracenia,alata,NA,Winn Parish,Louisiana,United States,NA,NA,32.107759,-92.815091,29146,Sarracenia alata,2017,3_distribution
+2234384369,Sarracenia,alata,NA,Forrest County,Mississippi,United States,NA,NA,30.982228,-89.248837,852,Sarracenia alata,1971,3_distribution
+2234383010,Sarracenia,alata,NA,George County,Mississippi,United States,NA,NA,30.871578,-88.806979,3036,Sarracenia alata,1954,3_distribution
+3707732968,Sarracenia,alata,NA,Greene County,Mississippi,United States,NA,NA,31.33185,-88.4481,400,Sarracenia alata,1981,3_distribution
+2234382894,Sarracenia,alata,NA,Hancock County,Mississippi,United States,NA,NA,30.308808,-89.330046,3036,Sarracenia alata,1952,3_distribution
+2234382766,Sarracenia,alata,NA,Harrison County,Mississippi,United States,NA,NA,30.36742,-89.092816,10545,Sarracenia alata,1956,3_distribution
+1990000835,Sarracenia,alata,NA,Jackson County,Mississippi,United States,NA,NA,30.41111,-88.82778,865,Sarracenia alata,1950,3_distribution
+2294671174,Sarracenia,alata,NA,Jones County,Mississippi,United States,NA,NA,31.498404,-89.069497,29226,Sarracenia alata,2019,3_distribution
+2236246170,Sarracenia,alata,NA,Lamar County,Mississippi,United States,NA,NA,31.380019,-89.489174,29252,Sarracenia alata,2019,3_distribution
+3707765680,Sarracenia,alata,NA,Marion County,Mississippi,United States,NA,NA,31.1841,-89.71189,10,Sarracenia alata,2012,3_distribution
+2234382068,Sarracenia,alata,NA,Pearl River County,Mississippi,United States,NA,NA,30.545835,-89.668263,1243,Sarracenia alata,1976,3_distribution
+3344484150,Sarracenia,alata,NA,Perry County,Mississippi,United States,NA,NA,31.122659,-89.017662,300,Sarracenia alata,1987,3_distribution
+3707759013,Sarracenia,alata,NA,Stone County,Mississippi,United States,NA,NA,30.72813,-88.92499,100,Sarracenia alata,1969,3_distribution
+1847551217,Sarracenia,alata,NA,Wayne County,Mississippi,United States,NA,NA,31.582815,-88.808356,29226,Sarracenia alata,2018,3_distribution
+2234383737,Sarracenia,alata,NA,Anderson County,Texas,United States,122,3,31.935278,-95.758333,100,Sarracenia alata,1988,3_distribution
+2234384538,Sarracenia,alata,NA,Angelina County,Texas,United States,73,3,31.069167,-94.280278,100,Sarracenia alata,1988,3_distribution
+3772851099,Sarracenia,alata,NA,Freestone County,Texas,United States,NA,NA,31.770967,-96.056022,29199,Sarracenia alata,2022,3_distribution
+2873715380,Sarracenia,alata,NA,Galveston County,Texas,United States,NA,NA,29.513953,-95.033241,29483,Sarracenia alata,2019,3_distribution
+1143567929,Sarracenia,alata,NA,Hardin County,Texas,United States,NA,NA,30.389597,-94.224896,10000,Sarracenia alata,2013,3_distribution
+2244209014,Sarracenia,alata,NA,Henderson County,Texas,United States,NA,NA,32.23003,-95.821317,29120,Sarracenia alata,2019,3_distribution
+2234385139,Sarracenia,alata,NA,Jasper County,Texas,United States,33.5,3.5,31.065,-94.168333,100,Sarracenia alata,1988,3_distribution
+2234382340,Sarracenia,alata,NA,Leon County,Texas,United States,130,NA,31.083333,-96.198611,100,Sarracenia alata,1988,3_distribution
+2234384232,Sarracenia,alata,NA,Newton County,Texas,United States,99,8,31.1375,-93.785278,100,Sarracenia alata,1988,3_distribution
+923911446,Sarracenia,alata,NA,Polk County,Texas,United States,NA,NA,30.728832,-94.604566,912,Sarracenia alata,2009,3_distribution
+2234385190,Sarracenia,alata,NA,Robertson County,Texas,United States,119,3,31.013889,-96.350833,100,Sarracenia alata,1988,3_distribution
+1838035744,Sarracenia,alata,NA,Sabine County,Texas,United States,NA,NA,31.197491,-94.003238,29278,Sarracenia alata,2018,3_distribution
+1323020917,Sarracenia,alata,NA,San Augustine County,Texas,United States,NA,NA,31.174967,-94.060027,29265,Sarracenia alata,2016,3_distribution
+891141979,Sarracenia,alata,NA,Tyler County,Texas,United States,NA,NA,30.535155,-94.310735,500,Sarracenia alata,2002,3_distribution
+3090973713,Sarracenia,alata,NA,Van Zandt County,Texas,United States,NA,NA,32.355071,-95.759979,29120,Sarracenia alata,2021,3_distribution
+3759752145,Sarracenia,alata,NA,Wood County,Texas,United States,NA,NA,32.733292,-95.375291,29066,Sarracenia alata,2022,3_distribution
+3301940789,Sarracenia,flava,rubricorpora,Franklin County,Florida,United States,NA,NA,29.945901,-84.821805,29433,Sarracenia flava,2021,3_distribution
+3124602049,Sarracenia,flava,rubricorpora,Gulf County,Florida,United States,NA,NA,30.159102,-85.166814,29407,Sarracenia flava,2021,3_distribution
+3399304231,Sarracenia,flava,rubricorpora,Liberty County,Florida,United States,NA,NA,30.061035,-84.841345,29407,Sarracenia flava,2015,3_distribution
+3118207332,Sarracenia,flava,rubricorpora,Okaloosa County,Florida,United States,NA,NA,30.854528,-86.633266,29304,Sarracenia flava,2021,3_distribution
+3759987997,Sarracenia,flava,rugelii,Covington County,Alabama,United States,NA,NA,31.260173,-86.470344,29252,Sarracenia flava,2022,3_distribution
+3070463198,Sarracenia,flava,rugelii,Escambia County,Alabama,United States,NA,NA,31.041766,-86.915083,29278,Sarracenia flava,2021,3_distribution
+3399285197,Sarracenia,flava,rugelii,Calhoun County,Florida,United States,NA,NA,30.346767,-85.061891,29382,Sarracenia flava,2021,3_distribution
+3873478331,Sarracenia,flava,rugelii,Franklin County,Florida,United States,NA,NA,29.837028,-84.857617,29433,Sarracenia flava,2018,3_distribution
+3698318971,Sarracenia,flava,rugelii,Gulf County,Florida,United States,NA,NA,30.178538,-85.191922,29407,Sarracenia flava,2018,3_distribution
+3109076683,Sarracenia,flava,rugelii,Holmes County,Florida,United States,NA,NA,30.76443,-85.869096,29330,Sarracenia flava,2021,3_distribution
+3859473361,Sarracenia,flava,rugelii,Leon County,Florida,United States,NA,NA,30.369125,-84.414032,29382,Sarracenia flava,2021,3_distribution
+3457026084,Sarracenia,flava,rugelii,Liberty County,Florida,United States,NA,NA,30.249016,-84.95564,29382,Sarracenia flava,2010,3_distribution
+3698254448,Sarracenia,flava,rugelii,Okaloosa County,Florida,United States,NA,NA,30.951182,-86.639233,29304,Sarracenia flava,2018,3_distribution
+3399353381,Sarracenia,flava,rugelii,Santa Rosa County,Florida,United States,NA,NA,30.813371,-86.919321,29304,Sarracenia flava,2021,3_distribution
+3456407716,Sarracenia,flava,rugelii,Wakulla County,Florida,United States,NA,NA,30.029855,-84.535449,29407,Sarracenia flava,2010,3_distribution
+3802517803,Sarracenia,flava,rugelii,Walton County,Florida,United States,NA,NA,30.293961,-86.115619,29382,Sarracenia flava,2022,3_distribution
+3302471518,Sarracenia,flava,rugelii,Washington County,Florida,United States,NA,NA,30.689642,-85.448808,29330,Sarracenia flava,2021,3_distribution
+3456179785,Sarracenia,flava,rugelii,Brooks County,Georgia,United States,NA,NA,30.93681,-83.630165,29304,Sarracenia flava,2018,3_distribution
+3759924337,Sarracenia,flava,rugelii,Charlton County,Georgia,United States,NA,NA,30.913684,-82.268275,29304,Sarracenia flava,2021,3_distribution
+3112869052,Sarracenia,flava,rugelii,Colquitt County,Georgia,United States,NA,NA,31.210563,-83.949997,29252,Sarracenia flava,2021,3_distribution
+3773304908,Sarracenia,flava,rugelii,Cook County,Georgia,United States,NA,NA,31.168138,-83.535649,29278,Sarracenia flava,2022,3_distribution
+3415758394,Sarracenia,flava,rugelii,Echols County,Georgia,United States,NA,NA,30.847494,-83.034026,29304,Sarracenia flava,2021,3_distribution
+3859294516,Sarracenia,flava,rugelii,Lanier County,Georgia,United States,NA,NA,30.9301,-83.036137,29304,Sarracenia flava,2022,3_distribution
+3784715501,Sarracenia,flava,rugelii,Lowndes County,Georgia,United States,NA,NA,30.878865,-83.072471,29304,Sarracenia flava,2022,3_distribution
+3079642304,Sarracenia,flava,rugelii,Tattnall County,Georgia,United States,NA,NA,31.943031,-82.2105,29173,Sarracenia flava,2021,3_distribution
+3784712092,Sarracenia,flava,rugelii,Toombs County,Georgia,United States,NA,NA,31.99441,-82.218453,29173,Sarracenia flava,2022,3_distribution
+2826447659,Sarracenia,flava,NA,Baldwin County,Alabama,United States,NA,NA,30.635291,-87.541173,29330,Sarracenia flava,2020,3_distribution
+3956515943,Sarracenia,flava,NA,Covington County,Alabama,United States,53.65,0,31.165814,-86.47847,21,Sarracenia flava,2022,3_distribution
+2422971170,Sarracenia,flava,NA,Escambia County,Alabama,United States,NA,NA,31.164185,-86.731075,29278,Sarracenia flava,2019,3_distribution
+1990000872,Sarracenia,flava,NA,Geneva County,Alabama,United States,NA,NA,31.027306,-85.520801,3203,Sarracenia flava,1968,3_distribution
+3097065726,Sarracenia,flava,NA,Lee County,Alabama,United States,NA,NA,32.584123,-85.410571,29093,Sarracenia flava,2021,3_distribution
+3744678804,Sarracenia,flava,NA,Washington County,Alabama,United States,NA,NA,31.21,-88.01,5218,Sarracenia flava,1965,3_distribution
+3955112253,Sarracenia,flava,NA,Bay County,Florida,United States,-16,0,30.315361,-85.565904,13,Sarracenia flava,2021,3_distribution
+3112577139,Sarracenia,flava,NA,Calhoun County,Florida,United States,NA,NA,30.315512,-85.14646,29382,Sarracenia flava,2021,3_distribution
+3067936823,Sarracenia,flava,NA,Escambia County,Florida,United States,NA,NA,30.482791,-87.180671,29356,Sarracenia flava,2021,3_distribution
+3873426322,Sarracenia,flava,NA,Franklin County,Florida,United States,NA,NA,29.87201,-84.843389,29433,Sarracenia flava,2018,3_distribution
+3056570420,Sarracenia,flava,NA,Gadsden County,Florida,United States,NA,NA,30.587139,-84.583245,4453,Sarracenia flava,1843,3_distribution
+3056572455,Sarracenia,flava,NA,Gulf County,Florida,United States,NA,NA,29.814316,-85.30629,3425,Sarracenia flava,1938,3_distribution
+2294593782,Sarracenia,flava,NA,Holmes County,Florida,United States,NA,NA,30.789469,-85.943089,29330,Sarracenia flava,2019,3_distribution
+3947771379,Sarracenia,flava,NA,Leon County,Florida,United States,NA,NA,30.321609,-84.617295,29382,Sarracenia flava,2020,3_distribution
+3874149750,Sarracenia,flava,NA,Liberty County,Florida,United States,NA,NA,30.398434,-84.90391,29382,Sarracenia flava,2007,3_distribution
+3355012026,Sarracenia,flava,NA,Okaloosa County,Florida,United States,NA,NA,30.555697,-86.713127,29356,Sarracenia flava,2021,3_distribution
+2238829031,Sarracenia,flava,NA,Santa Rosa County,Florida,United States,NA,NA,30.587375,-87.052322,29356,Sarracenia flava,2019,3_distribution
+3456353677,Sarracenia,flava,NA,Wakulla County,Florida,United States,NA,NA,30.167732,-84.497456,29407,Sarracenia flava,2010,3_distribution
+2859344309,Sarracenia,flava,NA,Walton County,Florida,United States,NA,NA,30.440185,-86.136052,10991,Sarracenia flava,1971,3_distribution
+3952334876,Sarracenia,flava,NA,Washington County,Florida,United States,-18.56,0,30.655534,-85.64079,10,Sarracenia flava,2020,3_distribution
+3056585413,Sarracenia,flava,NA,Ben Hill County,Georgia,United States,NA,NA,31.714908,-83.252654,6350,Sarracenia flava,1954,3_distribution
+3709948590,Sarracenia,flava,NA,Berrien County,Georgia,United States,NA,NA,31.424345,-83.264789,3438,Sarracenia flava,1937,3_distribution
+3709947823,Sarracenia,flava,NA,Brooks County,Georgia,United States,NA,NA,30.802015,-83.558422,350,Sarracenia flava,1940,3_distribution
+3889007397,Sarracenia,flava,NA,Bryan County,Georgia,United States,NA,NA,32.046939,-81.396773,29146,Sarracenia flava,2022,3_distribution
+3709813551,Sarracenia,flava,NA,Bulloch County,Georgia,United States,NA,NA,32.469971,-81.747666,301,Sarracenia flava,1929,3_distribution
+3709828938,Sarracenia,flava,NA,Calhoun County,Georgia,United States,NA,NA,31.571635,-84.540112,2734,Sarracenia flava,1947,3_distribution
+3709966391,Sarracenia,flava,NA,Charlton County,Georgia,United States,NA,NA,30.955004,-82.137377,3036,Sarracenia flava,1980,3_distribution
+3759164228,Sarracenia,flava,NA,Chatham County,Georgia,United States,NA,NA,32.090763,-81.301912,29146,Sarracenia flava,2022,3_distribution
+3963240627,Sarracenia,flava,NA,Clayton County,Georgia,United States,NA,NA,33.617544,-84.346514,28930,Sarracenia flava,2022,3_distribution
+2234731452,Sarracenia,flava,NA,Clinch County,Georgia,United States,NA,NA,31.043355,-82.744227,29278,Sarracenia flava,2018,3_distribution
+3892478885,Sarracenia,flava,NA,Coffee County,Georgia,United States,NA,NA,31.611697,-82.866332,29199,Sarracenia flava,2022,3_distribution
+3709951352,Sarracenia,flava,NA,Colquitt County,Georgia,United States,NA,NA,31.151071,-83.768071,301,Sarracenia flava,1939,3_distribution
+3709836067,Sarracenia,flava,NA,Cook County,Georgia,United States,NA,NA,31.21766,-83.437383,6172,Sarracenia flava,1938,3_distribution
+2273372751,Sarracenia,flava,NA,Echols County,Georgia,United States,NA,NA,30.7,-83.0167,301,Sarracenia flava,NA,3_distribution
+3709981303,Sarracenia,flava,NA,Effingham County,Georgia,United States,NA,NA,32.493561,-81.254535,2123,Sarracenia flava,1953,3_distribution
+3709941556,Sarracenia,flava,NA,Emanuel County,Georgia,United States,NA,NA,32.516605,-82.42841,11945,Sarracenia flava,1953,3_distribution
+3959711012,Sarracenia,flava,NA,Fulton County,Georgia,United States,256.92,0,33.788604,-84.375242,5,Sarracenia flava,2022,3_distribution
+3124579441,Sarracenia,flava,NA,Henry County,Georgia,United States,NA,NA,33.601031,-84.234439,28930,Sarracenia flava,2021,3_distribution
+3709945970,Sarracenia,flava,NA,Johnson County,Georgia,United States,NA,NA,32.561502,-82.625813,4017,Sarracenia flava,1942,3_distribution
+1990000796,Sarracenia,flava,NA,Lanier County,Georgia,United States,NA,NA,31.092273,-83.140175,1647,Sarracenia flava,1991,3_distribution
+3709827816,Sarracenia,flava,NA,Lowndes County,Georgia,United States,NA,NA,31.002573,-83.288986,15608,Sarracenia flava,1935,3_distribution
+3709979639,Sarracenia,flava,NA,Mitchell County,Georgia,United States,NA,NA,31.245396,-84.048033,1708,Sarracenia flava,1970,3_distribution
+3709968762,Sarracenia,flava,NA,Pulaski County,Georgia,United States,NA,NA,32.183184,-83.338176,13164,Sarracenia flava,1942,3_distribution
+3058831813,Sarracenia,flava,NA,Tattnall County,Georgia,United States,NA,NA,32.001632,-82.190788,29146,Sarracenia flava,2017,3_distribution
+3709814554,Sarracenia,flava,NA,Thomas County,Georgia,United States,NA,NA,30.83639,-83.97889,6599,Sarracenia flava,1890,3_distribution
+3709799496,Sarracenia,flava,NA,Tift County,Georgia,United States,NA,NA,31.594882,-83.559586,1422,Sarracenia flava,1964,3_distribution
+3709950480,Sarracenia,flava,NA,Toombs County,Georgia,United States,NA,NA,32.198475,-82.271094,301,Sarracenia flava,1952,3_distribution
+3709825103,Sarracenia,flava,NA,Turner County,Georgia,United States,NA,NA,31.658185,-83.598289,301,Sarracenia flava,1961,3_distribution
+3709814214,Sarracenia,flava,NA,Ware County,Georgia,United States,NA,NA,31.24996,-82.54813,8309,Sarracenia flava,1937,3_distribution
+3709827329,Sarracenia,flava,NA,Wayne County,Georgia,United States,NA,NA,31.704829,-82.13193,13063,Sarracenia flava,1972,3_distribution
+3709804689,Sarracenia,flava,NA,Wheeler County,Georgia,United States,NA,NA,31.958376,-82.679583,5086,Sarracenia flava,1940,3_distribution
+3709982383,Sarracenia,flava,NA,Wilcox County,Georgia,United States,NA,NA,31.933282,-83.601706,5925,Sarracenia flava,1949,3_distribution
+3709942662,Sarracenia,flava,NA,Worth County,Georgia,United States,NA,NA,31.510909,-83.761926,1946,Sarracenia flava,1948,3_distribution
+3307362817,Sarracenia,flava,NA,Beaufort County,North Carolina,United States,NA,NA,35.610268,-77.12455,28649,Sarracenia flava,2021,3_distribution
+2574182002,Sarracenia,flava,NA,Bladen County,North Carolina,United States,NA,NA,34.657397,-78.419472,28790,Sarracenia flava,2004,3_distribution
+3388791722,Sarracenia,flava,NA,Brunswick County,North Carolina,United States,NA,NA,34.113693,-78.257965,250,Sarracenia flava,2000,3_distribution
+2643604531,Sarracenia,flava,NA,Buncombe County,North Carolina,United States,680.89,0,35.592035,-82.493374,50,Sarracenia flava,2019,3_distribution
+2563612112,Sarracenia,flava,NA,Carteret County,North Carolina,United States,NA,NA,34.625057,-76.843609,28790,Sarracenia flava,2019,3_distribution
+3056589419,Sarracenia,flava,NA,Columbus County,North Carolina,United States,NA,NA,34.315724,-78.224721,301,Sarracenia flava,1939,3_distribution
+2864563799,Sarracenia,flava,NA,Craven County,North Carolina,United States,NA,NA,34.896581,-77.028342,28762,Sarracenia flava,1977,3_distribution
+1677335890,Sarracenia,flava,NA,Cumberland County,North Carolina,United States,NA,NA,34.862784,-78.752643,28762,Sarracenia flava,2017,3_distribution
+2237415156,Sarracenia,flava,NA,Dare County,North Carolina,United States,NA,NA,35.714269,-75.919606,28649,Sarracenia flava,2013,3_distribution
+177026213,Sarracenia,flava,NA,Duplin County,North Carolina,United States,NA,NA,34.92377,-77.72079,5870,Sarracenia flava,1977,3_distribution
+2596254168,Sarracenia,flava,NA,Harnett County,North Carolina,United States,NA,NA,35.357876,-78.977416,28706,Sarracenia flava,2017,3_distribution
+2818787371,Sarracenia,flava,NA,Hoke County,North Carolina,United States,NA,NA,35.132735,-79.229359,28734,Sarracenia flava,2020,3_distribution
+2540872440,Sarracenia,flava,NA,Hyde County,North Carolina,United States,NA,NA,35.611532,-75.966774,28649,Sarracenia flava,2015,3_distribution
+2901809687,Sarracenia,flava,NA,Jackson County,North Carolina,United States,NA,NA,35.071863,-83.104934,28734,Sarracenia flava,2020,3_distribution
+3773238220,Sarracenia,flava,NA,Jones County,North Carolina,United States,NA,NA,34.969941,-77.178119,28762,Sarracenia flava,2003,3_distribution
+1572359756,Sarracenia,flava,NA,Martin County,North Carolina,United States,NA,NA,35.794458,-77.033837,28649,Sarracenia flava,2016,3_distribution
+1457622062,Sarracenia,flava,NA,Montgomery County,North Carolina,United States,NA,NA,35.354957,-79.885103,28706,Sarracenia flava,2017,3_distribution
+3124660454,Sarracenia,flava,NA,Moore County,North Carolina,United States,NA,NA,35.152849,-79.577692,28734,Sarracenia flava,2021,3_distribution
+3959877531,Sarracenia,flava,NA,New Hanover County,North Carolina,United States,3.34,0,34.046775,-77.913222,4,Sarracenia flava,2022,3_distribution
+1563416787,Sarracenia,flava,NA,Onslow County,North Carolina,United States,NA,NA,34.490052,-77.426468,28818,Sarracenia flava,2014,3_distribution
+3124825824,Sarracenia,flava,NA,Orange County,North Carolina,United States,NA,NA,35.935777,-79.038708,28620,Sarracenia flava,2021,3_distribution
+3466017184,Sarracenia,flava,NA,Pender County,North Carolina,United States,NA,NA,34.434995,-77.638238,28818,Sarracenia flava,2014,3_distribution
+2244221322,Sarracenia,flava,NA,Pitt County,North Carolina,United States,NA,NA,35.633515,-77.501195,28649,Sarracenia flava,2012,3_distribution
+1677343680,Sarracenia,flava,NA,Richmond County,North Carolina,United States,NA,NA,35.142394,-79.754176,28734,Sarracenia flava,2017,3_distribution
+3399490802,Sarracenia,flava,NA,Scotland County,North Carolina,United States,NA,NA,34.950546,-79.436779,28762,Sarracenia flava,2021,3_distribution
+2006041126,Sarracenia,flava,NA,Tyrrell County,North Carolina,United States,NA,NA,35.754911,-76.062896,28649,Sarracenia flava,2001,3_distribution
+2634053924,Sarracenia,flava,NA,Anderson County,South Carolina,United States,NA,NA,34.602894,-82.808903,28790,Sarracenia flava,2020,3_distribution
+2429231693,Sarracenia,flava,NA,Berkeley County,South Carolina,United States,NA,NA,33.073412,-79.944567,29012,Sarracenia flava,2019,3_distribution
+1640062461,Sarracenia,flava,NA,Charleston County,South Carolina,United States,NA,NA,32.759645,-79.815826,29066,Sarracenia flava,2008,3_distribution
+3044927486,Sarracenia,flava,NA,Chesterfield County,South Carolina,United States,NA,NA,34.711274,-80.239734,28790,Sarracenia flava,2017,3_distribution
+2595928651,Sarracenia,flava,NA,Colleton County,South Carolina,United States,NA,NA,32.983333,-80.55,10000,Sarracenia flava,1956,3_distribution
+2641293012,Sarracenia,flava,NA,Darlington County,South Carolina,United States,NA,NA,34.161815,-80.03607,28874,Sarracenia flava,2020,3_distribution
+2596288735,Sarracenia,flava,NA,Georgetown County,South Carolina,United States,NA,NA,33.47308,-79.026503,28957,Sarracenia flava,2020,3_distribution
+3953443426,Sarracenia,flava,NA,Horry County,South Carolina,United States,12.32,0,33.803875,-78.868264,5,Sarracenia flava,2022,3_distribution
+2633961058,Sarracenia,flava,NA,Kershaw County,South Carolina,United States,NA,NA,34.412895,-80.372719,28818,Sarracenia flava,2020,3_distribution
+2641509988,Sarracenia,flava,NA,Lee County,South Carolina,United States,NA,NA,34.024781,-80.093483,28874,Sarracenia flava,2020,3_distribution
+2626573363,Sarracenia,flava,NA,Lexington County,South Carolina,United States,NA,NA,33.942475,-81.234973,28902,Sarracenia flava,2020,3_distribution
+3344024984,Sarracenia,flava,NA,Marlboro County,South Carolina,United States,NA,NA,34.778778,-79.853254,28790,Sarracenia flava,2016,3_distribution
+3302537031,Sarracenia,flava,NA,Oconee County,South Carolina,United States,NA,NA,34.696913,-82.92994,28790,Sarracenia flava,2021,3_distribution
+3302471238,Sarracenia,flava,NA,Pickens County,South Carolina,United States,NA,NA,34.709014,-82.81738,28790,Sarracenia flava,2021,3_distribution
+768794185,Sarracenia,flava,NA,Richland County,South Carolina,United States,29,0,33.99944,-80.83111,5000,Sarracenia flava,1991,3_distribution
+3408176461,Sarracenia,flava,NA,Sumter County,South Carolina,United States,NA,NA,34.084566,-80.606136,28874,Sarracenia flava,2021,3_distribution
+3331193356,Sarracenia,flava,NA,Caroline County,Virginia,United States,NA,NA,37.947254,-77.422164,10,Sarracenia flava,2018,3_distribution
+3056584406,Sarracenia,flava,NA,Greensville County,Virginia,United States,NA,NA,36.626319,-77.546646,2639,Sarracenia flava,1938,3_distribution
+3773190626,Sarracenia,flava,NA,Hanover County,Virginia,United States,NA,NA,37.704148000000004,-77.598418,28359,Sarracenia flava,2022,3_distribution
+3337411181,Sarracenia,flava,NA,Henrico County,Virginia,United States,NA,NA,37.635427,-77.420936,28359,Sarracenia flava,2021,3_distribution
+2868344499,Sarracenia,flava,NA,Prince George County,Virginia,United States,NA,NA,37.159707,-77.371762,28447,Sarracenia flava,2010,3_distribution
+3314469608,Sarracenia,flava,NA,Southampton County,Virginia,United States,NA,NA,36.850595,-76.970372,28476,Sarracenia flava,2021,3_distribution
+3959426657,Sarracenia,leucophylla,NA,Baldwin County,Alabama,United States,-26,0,30.344,-87.637,107,Sarracenia leucophylla,2021,3_distribution
+1978815468,Sarracenia,leucophylla,NA,Conecuh County,Alabama,United States,NA,NA,31.302744,-87.379388,29252,Sarracenia leucophylla,2018,3_distribution
+3079658066,Sarracenia,leucophylla,NA,Covington County,Alabama,United States,NA,NA,31.17951,-86.564493,29278,Sarracenia leucophylla,2005,3_distribution
+3923253694,Sarracenia,leucophylla,NA,DeKalb County,Alabama,United States,NA,NA,34.678062,-85.703381,28790,Sarracenia leucophylla,2022,3_distribution
+2236922178,Sarracenia,leucophylla,NA,Escambia County,Alabama,United States,NA,NA,31.185531,-86.97823,29278,Sarracenia leucophylla,2019,3_distribution
+3958531617,Sarracenia,leucophylla,NA,Geneva County,Alabama,United States,9,0,31.031,-85.832,95,Sarracenia leucophylla,2020,3_distribution
+3097397699,Sarracenia,leucophylla,NA,Macon County,Alabama,United States,NA,NA,32.482618,-85.538137,29093,Sarracenia leucophylla,2021,3_distribution
+2649467258,Sarracenia,leucophylla,NA,Mobile County,Alabama,United States,27.82,0,30.389,-88.188,96,Sarracenia leucophylla,2019,3_distribution
+2236888191,Sarracenia,leucophylla,NA,Washington County,Alabama,United States,NA,NA,31.338611,-88.096805,29252,Sarracenia leucophylla,2019,3_distribution
+3457025595,Sarracenia,leucophylla,NA,Calhoun County,Florida,United States,NA,NA,30.509833,-85.262813,29356,Sarracenia leucophylla,2020,3_distribution
+3959178115,Sarracenia,leucophylla,NA,Escambia County,Florida,United States,26,0,30.467,-87.207,161,Sarracenia leucophylla,2021,3_distribution
+3031770728,Sarracenia,leucophylla,NA,Franklin County,Florida,United States,NA,NA,29.970271,-84.979755,29433,Sarracenia leucophylla,2009,3_distribution
+768794179,Sarracenia,leucophylla,NA,Gadsden County,Florida,United States,NA,NA,30.56333,-84.60277,5000,Sarracenia leucophylla,1938,3_distribution
+3013919599,Sarracenia,leucophylla,NA,Gulf County,Florida,United States,NA,NA,29.798931,-85.184491,29458,Sarracenia leucophylla,2020,3_distribution
+3090967409,Sarracenia,leucophylla,NA,Holmes County,Florida,United States,NA,NA,30.859884,-85.931995,29304,Sarracenia leucophylla,2021,3_distribution
+3455786763,Sarracenia,leucophylla,NA,Jackson County,Florida,United States,NA,NA,30.578087,-85.311305,29356,Sarracenia leucophylla,2019,3_distribution
+1291681314,Sarracenia,leucophylla,NA,Leon County,Florida,United States,NA,NA,30.312814,-84.490158,29382,Sarracenia leucophylla,2016,3_distribution
+3056577425,Sarracenia,leucophylla,NA,Liberty County,Florida,United States,NA,NA,30.432141,-84.97575,2362,Sarracenia leucophylla,1950,3_distribution
+3056576421,Sarracenia,leucophylla,NA,Okaloosa County,Florida,United States,60,NA,30.673838,-86.704558,6677,Sarracenia leucophylla,1994,3_distribution
+3959250821,Sarracenia,leucophylla,NA,Polk County,Florida,United States,53.96,0,27.939,-81.577,106,Sarracenia leucophylla,2022,3_distribution
+3957547131,Sarracenia,leucophylla,NA,Santa Rosa County,Florida,United States,-41.44,0,30.472,-87.086,103,Sarracenia leucophylla,2020,3_distribution
+3760146313,Sarracenia,leucophylla,NA,Wakulla County,Florida,United States,NA,NA,30.253167,-84.556629,29382,Sarracenia leucophylla,2022,3_distribution
+3952526183,Sarracenia,leucophylla,NA,Walton County,Florida,United States,20,0,30.701,-86.234,96,Sarracenia leucophylla,2021,3_distribution
+3958906294,Sarracenia,leucophylla,NA,Washington County,Florida,United States,-11.35,0,30.424,-85.877,103,Sarracenia leucophylla,2021,3_distribution
+2978329554,Sarracenia,leucophylla,NA,Athens-Clarke County,Georgia,United States,212.51,0,33.901,-83.384,157,Sarracenia leucophylla,2020,3_distribution
+2976404115,Sarracenia,leucophylla,NA,Butts County,Georgia,United States,135.15,0,33.235,-83.945,93,Sarracenia leucophylla,2020,3_distribution
+3952234780,Sarracenia,leucophylla,NA,Cherokee County,Georgia,United States,288.4,0,34.191,-84.348,99,Sarracenia leucophylla,2019,3_distribution
+2649529973,Sarracenia,leucophylla,NA,Coweta County,Georgia,United States,208,0,33.226,-84.589,110,Sarracenia leucophylla,2019,3_distribution
+3959219218,Sarracenia,leucophylla,NA,DeKalb County,Georgia,United States,204.77,0,33.687,-84.274,92,Sarracenia leucophylla,2022,3_distribution
+3955701988,Sarracenia,leucophylla,NA,Fulton County,Georgia,United States,223.76,0,34.003,-84.381,111,Sarracenia leucophylla,2021,3_distribution
+3709953705,Sarracenia,leucophylla,NA,Sumter County,Georgia,United States,NA,NA,32.02366,-84.227104,4764,Sarracenia leucophylla,1949,3_distribution
+2242919660,Sarracenia,leucophylla,NA,Greene County,Mississippi,United States,NA,NA,31.32587,-88.553533,29252,Sarracenia leucophylla,2019,3_distribution
+1668815837,Sarracenia,leucophylla,NA,Jackson County,Mississippi,United States,NA,NA,30.503471,-88.429429,29356,Sarracenia leucophylla,2010,3_distribution
+3764174845,Sarracenia,minor,minor,Alachua County,Florida,United States,NA,NA,29.683697,-82.110052,29458,Sarracenia minor,2022,3_distribution
+3314391028,Sarracenia,minor,minor,Brevard County,Florida,United States,NA,NA,28.569223,-80.816794,29607,Sarracenia minor,2021,3_distribution
+3860217475,Sarracenia,minor,minor,Clay County,Florida,United States,NA,NA,30.052314,-81.834917,29407,Sarracenia minor,2022,3_distribution
+3858478912,Sarracenia,minor,minor,Duval County,Florida,United States,NA,NA,30.494521,-81.685283,29356,Sarracenia minor,2022,3_distribution
+3860184154,Sarracenia,minor,minor,Hillsborough County,Florida,United States,NA,NA,28.171409,-82.537419,29656,Sarracenia minor,2022,3_distribution
+3773228708,Sarracenia,minor,minor,Levy County,Florida,United States,NA,NA,29.393276,-82.760947,29508,Sarracenia minor,2022,3_distribution
+3785049119,Sarracenia,minor,minor,Nassau County,Florida,United States,NA,NA,30.639453,-81.958202,29330,Sarracenia minor,2022,3_distribution
+3772469236,Sarracenia,minor,minor,Orange County,Florida,United States,NA,NA,28.424182,-81.198092,29607,Sarracenia minor,2021,3_distribution
+3760076750,Sarracenia,minor,minor,Osceola County,Florida,United States,NA,NA,28.179186,-80.882358,29656,Sarracenia minor,2022,3_distribution
+3858578178,Sarracenia,minor,minor,Pasco County,Florida,United States,NA,NA,28.184521,-82.419684,29656,Sarracenia minor,2022,3_distribution
+3759270066,Sarracenia,minor,minor,Polk County,Florida,United States,NA,NA,28.268105,-81.781924,29631,Sarracenia minor,2022,3_distribution
+3764206019,Sarracenia,minor,minor,Putnam County,Florida,United States,NA,NA,29.817565,-81.653936,29433,Sarracenia minor,2022,3_distribution
+3759494378,Sarracenia,minor,minor,Seminole County,Florida,United States,NA,NA,28.643026,-81.071446,29582,Sarracenia minor,2022,3_distribution
+3859178217,Sarracenia,minor,minor,Volusia County,Florida,United States,NA,NA,29.075113,-81.007206,29533,Sarracenia minor,2022,3_distribution
+3760144402,Sarracenia,minor,minor,Wakulla County,Florida,United States,NA,NA,30.297094,-84.585202,29382,Sarracenia minor,2022,3_distribution
+3709965017,Sarracenia,minor,minor,Bacon County,Georgia,United States,NA,NA,31.558471,-82.295594,18366,Sarracenia minor,2011,3_distribution
+3709813505,Sarracenia,minor,minor,Baker County,Georgia,United States,66,NA,31.415412,-84.299318,14542,Sarracenia minor,1946,3_distribution
+3709955874,Sarracenia,minor,minor,Berrien County,Georgia,United States,NA,NA,31.411246,-83.178431,1366,Sarracenia minor,1937,3_distribution
+3709810432,Sarracenia,minor,minor,Brantley County,Georgia,United States,NA,NA,31.2,-81.9667,301,Sarracenia minor,1935,3_distribution
+3709969075,Sarracenia,minor,minor,Brooks County,Georgia,United States,NA,NA,30.819203,-83.557258,3259,Sarracenia minor,1940,3_distribution
+3709950028,Sarracenia,minor,minor,Bryan County,Georgia,United States,NA,NA,31.992013,-81.595945,17647,Sarracenia minor,1954,3_distribution
+3709818599,Sarracenia,minor,minor,Bulloch County,Georgia,United States,NA,NA,32.48586,-81.928484,6909,Sarracenia minor,1936,3_distribution
+3709822594,Sarracenia,minor,minor,Calhoun County,Georgia,United States,NA,NA,31.485728,-84.539332,3404,Sarracenia minor,1947,3_distribution
+3759161141,Sarracenia,minor,minor,Camden County,Georgia,United States,NA,NA,30.826785,-81.788578,29304,Sarracenia minor,2022,3_distribution
+3772847205,Sarracenia,minor,minor,Charlton County,Georgia,United States,NA,NA,30.801876,-82.387852,29304,Sarracenia minor,2022,3_distribution
+3709827007,Sarracenia,minor,minor,Chatham County,Georgia,United States,NA,NA,32.081739,-81.235844,28021,Sarracenia minor,1953,3_distribution
+3709814404,Sarracenia,minor,minor,Colquitt County,Georgia,United States,NA,NA,31.124859,-83.952513,6711,Sarracenia minor,1964,3_distribution
+3709967464,Sarracenia,minor,minor,Crisp County,Georgia,United States,NA,NA,31.944603,-83.609136,6395,Sarracenia minor,1949,3_distribution
+3709956110,Sarracenia,minor,minor,Dodge County,Georgia,United States,NA,NA,32.052545,-83.177651,16102,Sarracenia minor,1942,3_distribution
+3709976277,Sarracenia,minor,minor,Early County,Georgia,United States,NA,NA,31.3333,-84.65,587,Sarracenia minor,1947,3_distribution
+3709802285,Sarracenia,minor,minor,Glynn County,Georgia,United States,NA,NA,31.149948,-81.525411,9348,Sarracenia minor,1935,3_distribution
+3859242268,Sarracenia,minor,minor,Grady County,Georgia,United States,NA,NA,30.991847,-84.16323,29304,Sarracenia minor,2022,3_distribution
+3709969087,Sarracenia,minor,minor,Johnson County,Georgia,United States,NA,NA,32.611122,-82.629301,647,Sarracenia minor,1983,3_distribution
+3709966698,Sarracenia,minor,minor,Lanier County,Georgia,United States,NA,NA,30.957677,-83.120562,1960,Sarracenia minor,1988,3_distribution
+3709805369,Sarracenia,minor,minor,Lee County,Georgia,United States,NA,NA,31.840068,-84.1667,10652,Sarracenia minor,1936,3_distribution
+3709816004,Sarracenia,minor,minor,Liberty County,Georgia,United States,7,NA,31.900371,-81.653992,301,Sarracenia minor,1992,3_distribution
+3873446981,Sarracenia,minor,minor,Long County,Georgia,United States,NA,NA,31.814203,-81.94369,29173,Sarracenia minor,2022,3_distribution
+3709802330,Sarracenia,minor,minor,Lowndes County,Georgia,United States,NA,NA,31.002573,-83.288986,15608,Sarracenia minor,1935,3_distribution
+3709974123,Sarracenia,minor,minor,McIntosh County,Georgia,United States,NA,NA,31.533262,-81.486649,4507,Sarracenia minor,1956,3_distribution
+3709961851,Sarracenia,minor,minor,Screven County,Georgia,United States,NA,NA,32.55,-81.6667,301,Sarracenia minor,1928,3_distribution
+3709826975,Sarracenia,minor,minor,Tattnall County,Georgia,United States,58,NA,32.051312,-81.9,8561,Sarracenia minor,1952,3_distribution
+3709951008,Sarracenia,minor,minor,Telfair County,Georgia,United States,NA,NA,32.028123,-83.036534,9194,Sarracenia minor,1953,3_distribution
+3709835607,Sarracenia,minor,minor,Thomas County,Georgia,United States,NA,NA,30.994714,-83.865236,1166,Sarracenia minor,1969,3_distribution
+3709845616,Sarracenia,minor,minor,Tift County,Georgia,United States,NA,NA,31.594882,-83.559586,1422,Sarracenia minor,1964,3_distribution
+3709798110,Sarracenia,minor,minor,Toombs County,Georgia,United States,NA,NA,32.198475,-82.271094,301,Sarracenia minor,1952,3_distribution
+3709957251,Sarracenia,minor,minor,Turner County,Georgia,United States,NA,NA,31.621285,-83.731534,8212,Sarracenia minor,1953,3_distribution
+3709937381,Sarracenia,minor,minor,Ware County,Georgia,United States,NA,NA,30.6667,-82.3333,9036,Sarracenia minor,1922,3_distribution
+3709951801,Sarracenia,minor,minor,Wayne County,Georgia,United States,NA,NA,31.607211,-81.885392,5697,Sarracenia minor,1967,3_distribution
+3709819383,Sarracenia,minor,minor,Wilcox County,Georgia,United States,NA,NA,31.956272,-83.275971,2376,Sarracenia minor,1953,3_distribution
+3302460037,Sarracenia,minor,minor,Brunswick County,North Carolina,United States,NA,NA,34.115448,-78.213912,28874,Sarracenia minor,2021,3_distribution
+3314299671,Sarracenia,minor,minor,New Hanover County,North Carolina,United States,NA,NA,34.249309,-77.951251,28846,Sarracenia minor,2021,3_distribution
+3859230089,Sarracenia,minor,minor,Pender County,North Carolina,United States,NA,NA,34.396131,-77.825531,28846,Sarracenia minor,2022,3_distribution
+3302487847,Sarracenia,minor,minor,Berkeley County,South Carolina,United States,NA,NA,33.002359,-79.798293,29012,Sarracenia minor,2021,3_distribution
+3889272453,Sarracenia,minor,minor,Charleston County,South Carolina,United States,NA,NA,33.114384,-79.601726,29012,Sarracenia minor,2007,3_distribution
+2006052841,Sarracenia,minor,okefenokeensis,Clay County,Florida,United States,NA,NA,30.060686,-81.890324,29407,Sarracenia minor,2018,3_distribution
+3325946478,Sarracenia,minor,okefenokeensis,Nassau County,Florida,United States,NA,NA,30.722267,-81.918227,29330,Sarracenia minor,2021,3_distribution
+3709937465,Sarracenia,minor,okefenokeensis,Charlton County,Georgia,United States,NA,NA,30.739477,-82.136783,9036,Sarracenia minor,1937,3_distribution
+3709945167,Sarracenia,minor,okefenokeensis,Coffee County,Georgia,United States,NA,NA,31.410753,-82.646959,3649,Sarracenia minor,1990,3_distribution
+3709826202,Sarracenia,minor,okefenokeensis,Ware County,Georgia,United States,NA,NA,30.6667,-82.3333,9036,Sarracenia minor,1922,3_distribution
+3333138817,Sarracenia,minor,NA,Alachua County,Florida,United States,NA,NA,29.758558,-82.233853,29458,Sarracenia minor,2004,3_distribution
+2579223480,Sarracenia,minor,NA,Baker County,Florida,United States,NA,NA,30.273815,-82.413757,29382,Sarracenia minor,2015,3_distribution
+2573955338,Sarracenia,minor,NA,Brevard County,Florida,United States,NA,NA,27.989635,-80.57603,29680,Sarracenia minor,2020,3_distribution
+1837754985,Sarracenia,minor,NA,Citrus County,Florida,United States,NA,NA,29.028395,-82.433766,29533,Sarracenia minor,2018,3_distribution
+2234381872,Sarracenia,minor,NA,Clay County,Florida,United States,NA,NA,29.979685,-81.810374,2722,Sarracenia minor,1945,3_distribution
+2641504367,Sarracenia,minor,NA,Columbia County,Florida,United States,NA,NA,30.222362,-82.572038,29382,Sarracenia minor,2019,3_distribution
+3014031996,Sarracenia,minor,NA,Dixie County,Florida,United States,NA,NA,29.809444,-83.137404,29433,Sarracenia minor,2020,3_distribution
+768794190,Sarracenia,minor,NA,Duval County,Florida,United States,3,0,30.33694,-81.66027,5000,Sarracenia minor,1894,3_distribution
+3949635913,Sarracenia,minor,NA,Flagler County,Florida,United States,-33.09,0,29.563082,-81.297757,9,Sarracenia minor,2021,3_distribution
+2242795130,Sarracenia,minor,NA,Franklin County,Florida,United States,NA,NA,29.993708,-84.903536,29433,Sarracenia minor,2019,3_distribution
+123003154,Sarracenia,minor,NA,Gilchrist County,Florida,United States,NA,NA,29.7258,-82.8004,26208,Sarracenia minor,1990,3_distribution
+415941111,Sarracenia,minor,NA,Highlands County,Florida,United States,27,0,27.63194,-81.27638,5000,Sarracenia minor,2002,3_distribution
+3398789437,Sarracenia,minor,NA,Hillsborough County,Florida,United States,NA,NA,28.071386,-82.401193,29656,Sarracenia minor,2021,3_distribution
+2626382656,Sarracenia,minor,NA,Indian River County,Florida,United States,NA,NA,27.555093,-80.759615,29727,Sarracenia minor,2020,3_distribution
+2242809580,Sarracenia,minor,NA,Jefferson County,Florida,United States,NA,NA,30.404998,-84.065392,29356,Sarracenia minor,2019,3_distribution
+3013884382,Sarracenia,minor,NA,Lafayette County,Florida,United States,NA,NA,30.081456,-83.326771,29407,Sarracenia minor,2019,3_distribution
+3457013500,Sarracenia,minor,NA,Lake County,Florida,United States,NA,NA,28.390032,-81.735058,29631,Sarracenia minor,2021,3_distribution
+2236283484,Sarracenia,minor,NA,Leon County,Florida,United States,NA,NA,30.410195,-84.17882,29356,Sarracenia minor,2019,3_distribution
+1837769625,Sarracenia,minor,NA,Levy County,Florida,United States,NA,NA,29.239976,-82.763078,29508,Sarracenia minor,2018,3_distribution
+3698108761,Sarracenia,minor,NA,Liberty County,Florida,United States,NA,NA,30.111881,-85.147531,29407,Sarracenia minor,2018,3_distribution
+768794193,Sarracenia,minor,NA,Marion County,Florida,United States,NA,NA,29.18694,-82.14,20000,Sarracenia minor,1918,3_distribution
+2859357134,Sarracenia,minor,NA,Nassau County,Florida,United States,NA,NA,30.572445,-81.818741,3628,Sarracenia minor,1946,3_distribution
+3056571413,Sarracenia,minor,NA,Okeechobee County,Florida,United States,NA,NA,27.374648,-80.829783,8907,Sarracenia minor,1917,3_distribution
+3959551717,Sarracenia,minor,NA,Orange County,Florida,United States,11.14,0,28.591342,-81.048897,5365,Sarracenia minor,2022,3_distribution
+3056580416,Sarracenia,minor,NA,Osceola County,Florida,United States,NA,NA,28.291956,-81.407571,7154,Sarracenia minor,1926,3_distribution
+2898472192,Sarracenia,minor,NA,Pasco County,Florida,United States,NA,NA,28.199122,-82.451771,29656,Sarracenia minor,2020,3_distribution
+2859390118,Sarracenia,minor,NA,Polk County,Florida,United States,NA,NA,27.835019,-81.922206,6954,Sarracenia minor,1954,3_distribution
+2251890618,Sarracenia,minor,NA,Putnam County,Florida,United States,NA,NA,29.624684,-81.540088,29458,Sarracenia minor,2018,3_distribution
+2859393113,Sarracenia,minor,NA,Saint Johns County,Florida,United States,NA,NA,29.717999,-81.424548,7737,Sarracenia minor,1961,3_distribution
+1257413152,Sarracenia,minor,NA,Saint Lucie County,Florida,United States,NA,NA,27.221512,-80.344441,29751,Sarracenia minor,2016,3_distribution
+2859391133,Sarracenia,minor,NA,Seminole County,Florida,United States,NA,NA,28.669997,-81.20812,6580,Sarracenia minor,1920,3_distribution
+3961434380,Sarracenia,minor,NA,Suwannee County,Florida,United States,NA,NA,30.338313,-82.987028,29382,Sarracenia minor,2022,3_distribution
+123003238,Sarracenia,minor,NA,Union County,Florida,United States,NA,NA,30.0438,-82.3714,27181,Sarracenia minor,1991,3_distribution
+3947578371,Sarracenia,minor,NA,Volusia County,Florida,United States,NA,NA,29.139604,-81.010871,29533,Sarracenia minor,2012,3_distribution
+2573935588,Sarracenia,minor,NA,Wakulla County,Florida,United States,NA,NA,30.123525,-84.249225,29407,Sarracenia minor,2015,3_distribution
+2234732815,Sarracenia,minor,NA,Appling County,Georgia,United States,NA,NA,31.856614,-82.23148,29173,Sarracenia minor,2018,3_distribution
+3056584407,Sarracenia,minor,NA,Ben Hill County,Georgia,United States,NA,NA,31.714908,-83.252654,6350,Sarracenia minor,1954,3_distribution
+3124887343,Sarracenia,minor,NA,Brooks County,Georgia,United States,NA,NA,30.842175,-83.64858,29304,Sarracenia minor,2021,3_distribution
+1880523222,Sarracenia,minor,NA,Bryan County,Georgia,United States,NA,NA,31.979385,-81.443706,29173,Sarracenia minor,2018,3_distribution
+2859390119,Sarracenia,minor,NA,Camden County,Georgia,United States,NA,NA,30.90578,-81.722606,8316,Sarracenia minor,1946,3_distribution
+3455419315,Sarracenia,minor,NA,Charlton County,Georgia,United States,NA,NA,30.785247,-82.082167,29330,Sarracenia minor,2000,3_distribution
+2234731448,Sarracenia,minor,NA,Clinch County,Georgia,United States,NA,NA,31.141603,-82.815136999999993,29278,Sarracenia minor,2018,3_distribution
+3709974963,Sarracenia,minor,NA,Colquitt County,Georgia,United States,NA,NA,31.179907,-83.801788,9025,Sarracenia minor,1966,3_distribution
+1990000866,Sarracenia,minor,NA,Echols County,Georgia,United States,NA,NA,30.676502,-82.682767,1135,Sarracenia minor,1998,3_distribution
+3456068842,Sarracenia,minor,NA,Effingham County,Georgia,United States,NA,NA,32.393477,-81.200705,29120,Sarracenia minor,2021,3_distribution
+3008388897,Sarracenia,minor,NA,Glynn County,Georgia,United States,NA,NA,31.194434,-81.456103,29278,Sarracenia minor,2020,3_distribution
+1848781429,Sarracenia,minor,NA,Grady County,Georgia,United States,NA,NA,30.97011,-84.167105,29304,Sarracenia minor,2018,3_distribution
+3014053674,Sarracenia,minor,NA,Johnson County,Georgia,United States,NA,NA,32.665847,-82.590677,29066,Sarracenia minor,2020,3_distribution
+3070620644,Sarracenia,minor,NA,Liberty County,Georgia,United States,NA,NA,31.870636,-81.441914,29173,Sarracenia minor,2019,3_distribution
+3858668702,Sarracenia,minor,NA,Long County,Georgia,United States,NA,NA,31.690434,-81.519399,29199,Sarracenia minor,2008,3_distribution
+3457006925,Sarracenia,minor,NA,Lowndes County,Georgia,United States,NA,NA,30.894189,-83.394761,29304,Sarracenia minor,2008,3_distribution
+2859394137,Sarracenia,minor,NA,McIntosh County,Georgia,United States,NA,NA,31.562305,-81.427048,6033,Sarracenia minor,1946,3_distribution
+1847622087,Sarracenia,minor,NA,Mitchell County,Georgia,United States,NA,NA,31.392444,-83.999486,29252,Sarracenia minor,2018,3_distribution
+1806346062,Sarracenia,minor,NA,Thomas County,Georgia,United States,NA,NA,30.860809,-84.037071,29304,Sarracenia minor,2018,3_distribution
+3056578418,Sarracenia,minor,NA,Tift County,Georgia,United States,NA,NA,31.450463,-83.508497,4531,Sarracenia minor,1950,3_distribution
+2802900732,Sarracenia,minor,NA,Ware County,Georgia,United States,NA,NA,30.634109,-82.339446,29330,Sarracenia minor,2007,3_distribution
+1836663909,Sarracenia,minor,NA,Wayne County,Georgia,United States,NA,NA,31.635246,-81.890392,29199,Sarracenia minor,2018,3_distribution
+1305133837,Sarracenia,minor,NA,Worth County,Georgia,United States,NA,NA,31.361014,-83.910493,29252,Sarracenia minor,2016,3_distribution
+3056582408,Sarracenia,minor,NA,Brunswick County,North Carolina,United States,NA,NA,34.008804,-78.526399,5925,Sarracenia minor,1958,3_distribution
+2643601701,Sarracenia,minor,NA,Buncombe County,North Carolina,United States,679.57,0,35.591823,-82.493474,65,Sarracenia minor,2019,3_distribution
+3302285148,Sarracenia,minor,NA,Columbus County,North Carolina,United States,NA,NA,34.289894,-78.605019,28846,Sarracenia minor,2021,3_distribution
+2873932576,Sarracenia,minor,NA,Jones County,North Carolina,United States,NA,NA,34.824919,-77.060965,28762,Sarracenia minor,1977,3_distribution
+3013883424,Sarracenia,minor,NA,New Hanover County,North Carolina,United States,NA,NA,34.085556,-77.81824,28874,Sarracenia minor,2020,3_distribution
+3058978540,Sarracenia,minor,NA,Pender County,North Carolina,United States,NA,NA,34.385557,-77.899619,28846,Sarracenia minor,2020,3_distribution
+2265851165,Sarracenia,minor,NA,Barnwell County,South Carolina,United States,NA,NA,33.224425,-81.475293,28984,Sarracenia minor,2019,3_distribution
+3759386042,Sarracenia,minor,NA,Beaufort County,South Carolina,United States,NA,NA,32.161275,-80.894053,29146,Sarracenia minor,2022,3_distribution
+3954615682,Sarracenia,minor,NA,Berkeley County,South Carolina,United States,17.53,0,32.99852,-79.811072,4,Sarracenia minor,2022,3_distribution
+3915646446,Sarracenia,minor,NA,Charleston County,South Carolina,United States,NA,NA,33.030871,-79.601986,29012,Sarracenia minor,2007,3_distribution
+2864863761,Sarracenia,minor,NA,Chesterfield County,South Carolina,United States,NA,NA,34.722578,-79.958105,28790,Sarracenia minor,1978,3_distribution
+3455752008,Sarracenia,minor,NA,Colleton County,South Carolina,United States,NA,NA,32.87181,-80.627502,29039,Sarracenia minor,2020,3_distribution
+3802514346,Sarracenia,minor,NA,Darlington County,South Carolina,United States,NA,NA,34.152435,-80.086312,28874,Sarracenia minor,2022,3_distribution
+2611424012,Sarracenia,minor,NA,Florence County,South Carolina,United States,NA,NA,34.1169,-80.015109,28874,Sarracenia minor,2007,3_distribution
+2988345761,Sarracenia,minor,NA,Georgetown County,South Carolina,United States,NA,NA,33.421885,-79.413559,28957,Sarracenia minor,2020,3_distribution
+3118333250,Sarracenia,minor,NA,Hampton County,South Carolina,United States,NA,NA,32.764665,-81.352603,29066,Sarracenia minor,2021,3_distribution
+3712710565,Sarracenia,minor,NA,Horry County,South Carolina,United States,NA,NA,33.61726,-78.905473,28930,Sarracenia minor,2012,3_distribution
+2610960271,Sarracenia,minor,NA,Lee County,South Carolina,United States,NA,NA,34.087855,-80.153952,28874,Sarracenia minor,2007,3_distribution
+1933585260,Sarracenia,minor,NA,Orangeburg County,South Carolina,United States,NA,NA,33.367461,-80.248987,28984,Sarracenia minor,2018,3_distribution
+2611166705,Sarracenia,minor,NA,Sumter County,South Carolina,United States,NA,NA,34.007406,-80.017688,28874,Sarracenia minor,2007,3_distribution
+3328025020,Sarracenia,minor,NA,Williamsburg County,South Carolina,United States,NA,NA,33.529045000000004,-79.551855,28957,Sarracenia minor,2021,3_distribution
+3079476040,Sarracenia,oreophila,NA,Cherokee County,Alabama,United States,NA,NA,34.233115,-85.769777,28846,Sarracenia oreophila,2011,3_distribution
+1562960920,Sarracenia,oreophila,NA,DeKalb County,Alabama,United States,NA,NA,34.349139,-85.775308,28846,Sarracenia oreophila,2017,3_distribution
+2596450228,Sarracenia,oreophila,NA,Rabun County,Georgia,United States,NA,NA,34.863373,-83.642971,28762,Sarracenia oreophila,2013,3_distribution
+3456808627,Sarracenia,oreophila,NA,Towns County,Georgia,United States,NA,NA,34.814726,-83.766021,28762,Sarracenia oreophila,2015,3_distribution
+3325537453,Sarracenia,oreophila,NA,Henderson County,North Carolina,United States,NA,NA,35.23926,-82.601435,28706,Sarracenia oreophila,2021,3_distribution
+3466233071,Sarracenia,psittacina,NA,Baldwin County,Alabama,United States,NA,NA,31.14812,-87.696698,29278,Sarracenia psittacina,2014,3_distribution
+1990000895,Sarracenia,psittacina,NA,Covington County,Alabama,United States,NA,NA,31.301979,-86.230021,5071,Sarracenia psittacina,1991,3_distribution
+2429354540,Sarracenia,psittacina,NA,Escambia County,Alabama,United States,NA,NA,31.102275,-86.722625,29278,Sarracenia psittacina,2019,3_distribution
+1901040559,Sarracenia,psittacina,NA,Mobile County,Alabama,United States,NA,NA,30.435584,-88.195878,29356,Sarracenia psittacina,2018,3_distribution
+2013713910,Sarracenia,psittacina,NA,Washington County,Alabama,United States,NA,NA,31.174782,-88.309212,29278,Sarracenia psittacina,2019,3_distribution
+3457147779,Sarracenia,psittacina,NA,Calhoun County,Florida,United States,NA,NA,30.490329,-85.218521,29356,Sarracenia psittacina,2019,3_distribution
+2234807475,Sarracenia,psittacina,NA,Escambia County,Florida,United States,NA,NA,30.251749,-87.465806,29382,Sarracenia psittacina,2019,3_distribution
+3067882023,Sarracenia,psittacina,NA,Franklin County,Florida,United States,NA,NA,29.877971,-84.886172,29433,Sarracenia psittacina,2021,3_distribution
+3456857413,Sarracenia,psittacina,NA,Gulf County,Florida,United States,NA,NA,29.766608,-85.270199,29458,Sarracenia psittacina,2021,3_distribution
+3872911286,Sarracenia,psittacina,NA,Holmes County,Florida,United States,NA,NA,30.740245,-85.881843,29330,Sarracenia psittacina,2022,3_distribution
+1880597134,Sarracenia,psittacina,NA,Leon County,Florida,United States,NA,NA,30.308285,-84.660467,29382,Sarracenia psittacina,2018,3_distribution
+2234382633,Sarracenia,psittacina,NA,Liberty County,Florida,United States,10.5,1.5,30.088333,-84.983333,300,Sarracenia psittacina,1987,3_distribution
+3343921984,Sarracenia,psittacina,NA,Nassau County,Florida,United States,NA,NA,30.63461,-81.802301,29330,Sarracenia psittacina,2021,3_distribution
+1847521041,Sarracenia,psittacina,NA,Okaloosa County,Florida,United States,NA,NA,30.873282,-86.694167,29304,Sarracenia psittacina,2018,3_distribution
+2238828381,Sarracenia,psittacina,NA,Santa Rosa County,Florida,United States,NA,NA,30.584381,-87.131944,29356,Sarracenia psittacina,2019,3_distribution
+3456496832,Sarracenia,psittacina,NA,Wakulla County,Florida,United States,NA,NA,30.067103,-84.605496,29407,Sarracenia psittacina,2003,3_distribution
+768794195,Sarracenia,psittacina,NA,Walton County,Florida,United States,NA,NA,30.72083,-86.11527,5000,Sarracenia psittacina,1898,3_distribution
+1990132924,Sarracenia,psittacina,NA,Washington County,Florida,United States,NA,NA,30.727038,-85.717333,1071,Sarracenia psittacina,1991,3_distribution
+3709969616,Sarracenia,psittacina,NA,Berrien County,Georgia,United States,NA,NA,31.411246,-83.178431,1366,Sarracenia psittacina,1937,3_distribution
+3709831624,Sarracenia,psittacina,NA,Bulloch County,Georgia,United States,NA,NA,32.48586,-81.928484,6909,Sarracenia psittacina,1936,3_distribution
+3709956217,Sarracenia,psittacina,NA,Charlton County,Georgia,United States,NA,NA,30.662567,-82.158065,9036,Sarracenia psittacina,1931,3_distribution
+3709965759,Sarracenia,psittacina,NA,Coffee County,Georgia,United States,NA,NA,31.55139,-82.799464,6441,Sarracenia psittacina,1960,3_distribution
+3709964379,Sarracenia,psittacina,NA,Colquitt County,Georgia,United States,NA,NA,31.182634,-83.808911,3161,Sarracenia psittacina,1965,3_distribution
+3709973777,Sarracenia,psittacina,NA,Cook County,Georgia,United States,NA,NA,31.21766,-83.437383,6172,Sarracenia psittacina,1938,3_distribution
+3709954787,Sarracenia,psittacina,NA,Crisp County,Georgia,United States,NA,NA,31.944603,-83.609136,6395,Sarracenia psittacina,1949,3_distribution
+3709800781,Sarracenia,psittacina,NA,Echols County,Georgia,United States,NA,NA,30.713269,-82.765413,301,Sarracenia psittacina,1942,3_distribution
+3709966401,Sarracenia,psittacina,NA,Emanuel County,Georgia,United States,NA,NA,32.583271,-82.419413,7110,Sarracenia psittacina,1936,3_distribution
+3709956665,Sarracenia,psittacina,NA,Jeff Davis County,Georgia,United States,NA,NA,31.8667,-82.5833,301,Sarracenia psittacina,1922,3_distribution
+3014068727,Sarracenia,psittacina,NA,Johnson County,Georgia,United States,NA,NA,32.771722,-82.597104,29066,Sarracenia psittacina,2020,3_distribution
+3709965971,Sarracenia,psittacina,NA,Mitchell County,Georgia,United States,NA,NA,31.245396,-84.048033,1708,Sarracenia psittacina,1970,3_distribution
+3709976936,Sarracenia,psittacina,NA,Tift County,Georgia,United States,NA,NA,31.521816,-83.415785,5122,Sarracenia psittacina,1938,3_distribution
+3709950604,Sarracenia,psittacina,NA,Toombs County,Georgia,United States,NA,NA,32.206528,-82.323845,513,Sarracenia psittacina,1962,3_distribution
+3709979684,Sarracenia,psittacina,NA,Turner County,Georgia,United States,NA,NA,31.624215,-83.763618,1899,Sarracenia psittacina,1967,3_distribution
+3709833594,Sarracenia,psittacina,NA,Worth County,Georgia,United States,NA,NA,31.533266,-83.926959,6963,Sarracenia psittacina,1969,3_distribution
+1065604023,Sarracenia,psittacina,NA,St. Tammany Parish,Louisiana,United States,NA,NA,30.422485000000002,-90.15044,29356,Sarracenia psittacina,2011,3_distribution
+2237447144,Sarracenia,psittacina,NA,Forrest County,Mississippi,United States,NA,NA,31.181511,-89.158512,29278,Sarracenia psittacina,2019,3_distribution
+3707759006,Sarracenia,psittacina,NA,George County,Mississippi,United States,NA,NA,30.80724,-88.77994,400,Sarracenia psittacina,1966,3_distribution
+3707719513,Sarracenia,psittacina,NA,Greene County,Mississippi,United States,NA,NA,31.33383,-88.45273,400,Sarracenia psittacina,1981,3_distribution
+3707742665,Sarracenia,psittacina,NA,Hancock County,Mississippi,United States,NA,NA,30.45538,-89.60007,100,Sarracenia psittacina,1986,3_distribution
+2859392124,Sarracenia,psittacina,NA,Harrison County,Mississippi,United States,NA,NA,30.36742,-89.092816,10545,Sarracenia psittacina,1928,3_distribution
+3829946430,Sarracenia,psittacina,NA,Jackson County,Mississippi,United States,NA,NA,30.407853,-88.800829,6606,Sarracenia psittacina,1952,3_distribution
+3707767633,Sarracenia,psittacina,NA,Pearl River County,Mississippi,United States,NA,NA,30.5536,-89.6732,100,Sarracenia psittacina,1983,3_distribution
+3707741416,Sarracenia,psittacina,NA,Perry County,Mississippi,United States,NA,NA,31.15433,-89.10513,100,Sarracenia psittacina,1994,3_distribution
+3707740816,Sarracenia,psittacina,NA,Stone County,Mississippi,United States,NA,NA,30.7323,-88.9262,100,Sarracenia psittacina,1974,3_distribution
+3859420813,Sarracenia,psittacina,NA,Wayne County,Mississippi,United States,NA,NA,31.528082,-88.885665,29226,Sarracenia psittacina,2013,3_distribution
+699271292,Sarracenia,purpurea,heterophylla,Hillsborough County,New Hampshire,United States,NA,NA,42.95055,-71.87222,20000,Sarracenia purpurea,1931,3_distribution
+3709964180,Sarracenia,purpurea,montana,Emanuel County,Georgia,United States,NA,NA,32.69993,-82.483329,301,Sarracenia purpurea,1957,3_distribution
+3709957444,Sarracenia,purpurea,montana,Rabun County,Georgia,United States,1021,NA,34.993308,-83.296687,1807,Sarracenia purpurea,1946,3_distribution
+2851035963,Sarracenia,purpurea,montana,Henderson County,North Carolina,United States,NA,NA,35.357526,-82.493226,28706,Sarracenia purpurea,2020,3_distribution
+3302450006,Sarracenia,purpurea,montana,Jackson County,North Carolina,United States,NA,NA,35.104437,-83.161259,28734,Sarracenia purpurea,2021,3_distribution
+891105298,Sarracenia,purpurea,montana,Transylvania County,North Carolina,United States,NA,NA,35.193823,-82.63144,28734,Sarracenia purpurea,2012,3_distribution
+2244197708,Sarracenia,purpurea,montana,Greenville County,South Carolina,United States,NA,NA,35.082092,-82.668326,28734,Sarracenia purpurea,2018,3_distribution
+891105238,Sarracenia,purpurea,montana,Pickens County,South Carolina,United States,NA,NA,35.049361,-82.600856,28734,Sarracenia purpurea,2012,3_distribution
+3859548186,Sarracenia,purpurea,purpurea,Lac La Biche County,Alberta,Canada,NA,NA,55.527521,-110.908624,7,Sarracenia purpurea,2022,3_distribution
+3330872513,Sarracenia,purpurea,purpurea,Municipal District of Bonnyville,Alberta,Canada,NA,NA,55.088433,-110.433733,2040,Sarracenia purpurea,2017,3_distribution
+473431434,Sarracenia,purpurea,purpurea,Municipal District of Lesser Slave River,Alberta,Canada,NA,NA,55.107216,-114.150069,500,Sarracenia purpurea,1987,3_distribution
+3044938726,Sarracenia,purpurea,purpurea,Westlock County,Alberta,Canada,NA,NA,54.055998,-113.569485,25781,Sarracenia purpurea,2019,3_distribution
+3338043631,Sarracenia,purpurea,purpurea,Wood Buffalo,Alberta,Canada,NA,NA,57.442355,-111.210455,8,Sarracenia purpurea,2021,3_distribution
+473431439,Sarracenia,purpurea,purpurea,Northern Rockies Regional Municipality,British Columbia,Canada,382.52,NA,58.814159,-122.902157,550,Sarracenia purpurea,1972,3_distribution
+3414085360,Sarracenia,purpurea,purpurea,Squamish-Lillooet Regional District,British Columbia,Canada,NA,NA,49.787860999070176,-123.109028,16,Sarracenia purpurea,2016,3_distribution
+1703295869,Sarracenia,purpurea,purpurea,Division No. 1,Manitoba,Canada,NA,NA,50.21421699907263,-95.930578,10000,Sarracenia purpurea,1930,3_distribution
+1703295926,Sarracenia,purpurea,purpurea,Division No. 12,Manitoba,Canada,NA,NA,49.884622593910265,-96.4577035912694,10000,Sarracenia purpurea,1931,3_distribution
+1703292426,Sarracenia,purpurea,purpurea,Division No. 13,Manitoba,Canada,NA,NA,50.26487499907294,-96.60141099999998,10000,Sarracenia purpurea,1995,3_distribution
+1703295940,Sarracenia,purpurea,purpurea,Division No. 15,Manitoba,Canada,NA,NA,50.437777999074015,-100.591111,10000,Sarracenia purpurea,1921,3_distribution
+1703295842,Sarracenia,purpurea,purpurea,Division No. 18,Manitoba,Canada,NA,NA,51.216569755982654,-97.60025474395482,10000,Sarracenia purpurea,1979,3_distribution
+1703300719,Sarracenia,purpurea,purpurea,Division No. 19,Manitoba,Canada,NA,NA,52.1166669990861,-98.33333299999998,10000,Sarracenia purpurea,1976,3_distribution
+1703295961,Sarracenia,purpurea,purpurea,Division No. 20,Manitoba,Canada,NA,NA,52.03896399908548,-100.651567,10000,Sarracenia purpurea,1976,3_distribution
+1703290138,Sarracenia,purpurea,purpurea,Division No. 7,Manitoba,Canada,NA,NA,49.83803717140407,-99.57991122315812,10000,Sarracenia purpurea,1989,3_distribution
+3113656593,Sarracenia,purpurea,purpurea,Cape Breton Regional Municipality,Nova Scotia,Canada,NA,NA,45.937333,-60.174683,10,Sarracenia purpurea,2021,3_distribution
+1880502492,Sarracenia,purpurea,purpurea,Digby County,Nova Scotia,Canada,NA,NA,44.405829,-66.178094,258,Sarracenia purpurea,2018,3_distribution
+473430877,Sarracenia,purpurea,purpurea,Guysborough County,Nova Scotia,Canada,NA,NA,45.2375,-62.1755,600,Sarracenia purpurea,1885,3_distribution
+3337698390,Sarracenia,purpurea,purpurea,Guysborough District Municipality,Nova Scotia,Canada,NA,NA,45.329432,-61.123768,117,Sarracenia purpurea,2021,3_distribution
+2366053528,Sarracenia,purpurea,purpurea,Halifax County,Nova Scotia,Canada,NA,NA,44.806527,-62.564462,6,Sarracenia purpurea,2019,3_distribution
+3455934174,Sarracenia,purpurea,purpurea,Hants County,Nova Scotia,Canada,NA,NA,44.91611,-63.843532,23,Sarracenia purpurea,2021,3_distribution
+3325518778,Sarracenia,purpurea,purpurea,Lunenburg County,Nova Scotia,Canada,NA,NA,44.427446,-64.799236,7,Sarracenia purpurea,2021,3_distribution
+3124855582,Sarracenia,purpurea,purpurea,Municipality of Pictou County,Nova Scotia,Canada,NA,NA,45.546302,-63.035408,10,Sarracenia purpurea,2021,3_distribution
+3860327404,Sarracenia,purpurea,purpurea,Municipality of the County of Annapolis,Nova Scotia,Canada,NA,NA,44.444756,-65.256797,106,Sarracenia purpurea,2022,3_distribution
+3355318163,Sarracenia,purpurea,purpurea,Municipality of the County of Antigonish,Nova Scotia,Canada,NA,NA,45.767588,-62.016368,4,Sarracenia purpurea,2021,3_distribution
+1990576790,Sarracenia,purpurea,purpurea,Municipality of the County of Cumberland,Nova Scotia,Canada,NA,NA,45.455969,-64.863158,122,Sarracenia purpurea,2016,3_distribution
+3044810757,Sarracenia,purpurea,purpurea,Municipality of the County of Inverness,Nova Scotia,Canada,NA,NA,46.744102,-60.880657,779,Sarracenia purpurea,2013,3_distribution
+473430884,Sarracenia,purpurea,purpurea,Municipality of the County of Kings,Nova Scotia,Canada,NA,NA,45.3089,-64.3988,1000,Sarracenia purpurea,1936,3_distribution
+3773746307,Sarracenia,purpurea,purpurea,Municipality of the County of Richmond,Nova Scotia,Canada,NA,NA,45.603428,-60.657417,6,Sarracenia purpurea,2022,3_distribution
+1883948601,Sarracenia,purpurea,purpurea,Municipality of Victoria County,Nova Scotia,Canada,NA,NA,46.790301,-60.340067,1032,Sarracenia purpurea,2018,3_distribution
+2988383867,Sarracenia,purpurea,purpurea,Queens County,Nova Scotia,Canada,NA,NA,43.859451,-64.827279,384,Sarracenia purpurea,2010,3_distribution
+473430886,Sarracenia,purpurea,purpurea,Shelburne County,Nova Scotia,Canada,NA,NA,43.4215,-65.6187,1000,Sarracenia purpurea,1952,3_distribution
+3307446835,Sarracenia,purpurea,purpurea,Yarmouth County,Nova Scotia,Canada,NA,NA,43.718506,-65.809097,6,Sarracenia purpurea,2021,3_distribution
+473431345,Sarracenia,purpurea,purpurea,Algoma District,Ontario,Canada,NA,NA,47.914281,-84.540195,100,Sarracenia purpurea,1971,3_distribution
+473431414,Sarracenia,purpurea,purpurea,Bruce County,Ontario,Canada,NA,NA,44.610948,-81.265408,150,Sarracenia purpurea,1948,3_distribution
+473431376,Sarracenia,purpurea,purpurea,Cochrane District,Ontario,Canada,NA,NA,48.515945,-81.287233,800,Sarracenia purpurea,1979,3_distribution
+473431349,Sarracenia,purpurea,purpurea,Elgin County,Ontario,Canada,NA,NA,42.86817,-81.088452,500,Sarracenia purpurea,1951,3_distribution
+3112436441,Sarracenia,purpurea,purpurea,Frontenac County,Ontario,Canada,NA,NA,44.452346,-76.574854,4,Sarracenia purpurea,2018,3_distribution
+3759146049,Sarracenia,purpurea,purpurea,Grey County,Ontario,Canada,NA,NA,44.148061,-80.799076,27380,Sarracenia purpurea,2013,3_distribution
+473431395,Sarracenia,purpurea,purpurea,Haldimand County,Ontario,Canada,NA,NA,43.071053,-79.956224,400,Sarracenia purpurea,1922,3_distribution
+2873773769,Sarracenia,purpurea,purpurea,Haliburton County,Ontario,Canada,NA,NA,44.906231,-78.061909,159,Sarracenia purpurea,2009,3_distribution
+3335416181,Sarracenia,purpurea,purpurea,Hastings County,Ontario,Canada,NA,NA,44.902829,-77.623642,27253,Sarracenia purpurea,2021,3_distribution
+3759143949,Sarracenia,purpurea,purpurea,Huron County,Ontario,Canada,NA,NA,43.920514,-81.196935,27411,Sarracenia purpurea,2013,3_distribution
+2518001301,Sarracenia,purpurea,purpurea,Kenora District,Ontario,Canada,NA,NA,53.450996,-89.143426,163,Sarracenia purpurea,2007,3_distribution
+3772821008,Sarracenia,purpurea,purpurea,Kingston,Ontario,Canada,NA,NA,44.33986,-76.473194,13767,Sarracenia purpurea,2022,3_distribution
+3090953804,Sarracenia,purpurea,purpurea,Lambton County,Ontario,Canada,NA,NA,43.224758,-81.908638,4,Sarracenia purpurea,2021,3_distribution
+2423101029,Sarracenia,purpurea,purpurea,Lanark County,Ontario,Canada,NA,NA,44.883446,-76.566819,27253,Sarracenia purpurea,2018,3_distribution
+2882925971,Sarracenia,purpurea,purpurea,Leeds and Grenville Counties,Ontario,Canada,NA,NA,44.659683,-75.764991,27285,Sarracenia purpurea,2020,3_distribution
+2597687924,Sarracenia,purpurea,purpurea,Lennox and Addington County,Ontario,Canada,NA,NA,45.022225,-77.406789,122,Sarracenia purpurea,2014,3_distribution
+1990632220,Sarracenia,purpurea,purpurea,Manitoulin District,Ontario,Canada,NA,NA,45.690212,-82.959461,31,Sarracenia purpurea,2003,3_distribution
+3860153206,Sarracenia,purpurea,purpurea,Muskoka District,Ontario,Canada,NA,NA,45.466545000000004,-78.910125,10,Sarracenia purpurea,2016,3_distribution
+3455195166,Sarracenia,purpurea,purpurea,Niagara Region,Ontario,Canada,NA,NA,43.218947,-79.171796,27505,Sarracenia purpurea,2021,3_distribution
+3307354061,Sarracenia,purpurea,purpurea,Nipissing District,Ontario,Canada,NA,NA,46.033333,-78.483333,1506,Sarracenia purpurea,2017,3_distribution
+2641522101,Sarracenia,purpurea,purpurea,Oxford County,Ontario,Canada,NA,NA,43.276663,-80.603951,27505,Sarracenia purpurea,2020,3_distribution
+3743316742,Sarracenia,purpurea,purpurea,Parry Sound District,Ontario,Canada,NA,NA,45.6757,-79.6309,100,Sarracenia purpurea,1999,3_distribution
+3860317118,Sarracenia,purpurea,purpurea,Peel Region,Ontario,Canada,NA,NA,43.875987,-80.113883,4,Sarracenia purpurea,2022,3_distribution
+2563583683,Sarracenia,purpurea,purpurea,Peterborough County,Ontario,Canada,NA,NA,44.548902,-78.172395,31,Sarracenia purpurea,2007,3_distribution
+473431402,Sarracenia,purpurea,purpurea,Prescott and Russell Counties,Ontario,Canada,NA,NA,45.558002,-74.880355,500,Sarracenia purpurea,1932,3_distribution
+473431418,Sarracenia,purpurea,purpurea,Rainy River District,Ontario,Canada,NA,NA,48.752177,-91.206539,200,Sarracenia purpurea,1957,3_distribution
+473431416,Sarracenia,purpurea,purpurea,Region of Waterloo,Ontario,Canada,NA,NA,43.359739,-80.306325,400,Sarracenia purpurea,1910,3_distribution
+473431367,Sarracenia,purpurea,purpurea,Renfrew County,Ontario,Canada,NA,NA,46.089294,-77.490676,800,Sarracenia purpurea,1966,3_distribution
+473533691,Sarracenia,purpurea,purpurea,Simcoe County,Ontario,Canada,NA,NA,44.796537,-80.068015,1000,Sarracenia purpurea,1932,3_distribution
+3014041091,Sarracenia,purpurea,purpurea,"Stormont, Dundas and Glengarry Counties",Ontario,Canada,NA,NA,45.029257,-75.170104,8,Sarracenia purpurea,1997,3_distribution
+2465335308,Sarracenia,purpurea,purpurea,Sudbury District,Ontario,Canada,NA,NA,46.047419,-81.378857,4779,Sarracenia purpurea,1974,3_distribution
+473431400,Sarracenia,purpurea,purpurea,Thunder Bay District,Ontario,Canada,NA,NA,48.345547,-88.810053,150,Sarracenia purpurea,1936,3_distribution
+2451587288,Sarracenia,purpurea,purpurea,Timiskaming District,Ontario,Canada,NA,NA,47.555126,-80.293012,132,Sarracenia purpurea,2019,3_distribution
+2634487394,Sarracenia,purpurea,purpurea,Wellington County,Ontario,Canada,NA,NA,43.415688,-80.117325,4,Sarracenia purpurea,2020,3_distribution
+3314407607,Sarracenia,purpurea,purpurea,York Region,Ontario,Canada,NA,NA,43.876615,-79.432234,27411,Sarracenia purpurea,2021,3_distribution
+3302110888,Sarracenia,purpurea,purpurea,Abitibi,Québec,Canada,NA,NA,48.811614,-77.932983,4,Sarracenia purpurea,2021,3_distribution
+473431322,Sarracenia,purpurea,purpurea,Abitibi-Ouest,Québec,Canada,NA,NA,48.7945,-79.2004,4000,Sarracenia purpurea,1933,3_distribution
+473431257,Sarracenia,purpurea,purpurea,Antoine-Labelle,Québec,Canada,NA,NA,46.3948,-74.9911,1000,Sarracenia purpurea,1933,3_distribution
+3391401267,Sarracenia,purpurea,purpurea,Bécancour (MRC),Québec,Canada,NA,NA,46.354987,-72.193833,8,Sarracenia purpurea,2016,3_distribution
+3335569421,Sarracenia,purpurea,purpurea,Brome-Missisquoi,Québec,Canada,NA,NA,45.256645,-73.018387,4,Sarracenia purpurea,2021,3_distribution
+3466531592,Sarracenia,purpurea,purpurea,Charlevoix,Québec,Canada,NA,NA,47.776252,-71.06078,185,Sarracenia purpurea,2020,3_distribution
+3302021987,Sarracenia,purpurea,purpurea,Charlevoix-Est,Québec,Canada,NA,NA,47.759808,-69.945826,12,Sarracenia purpurea,2021,3_distribution
+2992775896,Sarracenia,purpurea,purpurea,Coaticook (MRC),Québec,Canada,NA,NA,45.245861,-71.893955,12,Sarracenia purpurea,2020,3_distribution
+473431240,Sarracenia,purpurea,purpurea,communauté maritime des Îles-de-la-Madeleine,Québec,Canada,NA,NA,47.2349,-61.9474,3000,Sarracenia purpurea,1919,3_distribution
+473430987,Sarracenia,purpurea,purpurea,D'Autray,Québec,Canada,NA,NA,46.2919,-73.3815,1500,Sarracenia purpurea,1942,3_distribution
+473415197,Sarracenia,purpurea,purpurea,Jamésie,Québec,Canada,250,NA,52.3393,-75.8756,2000,Sarracenia purpurea,2007,3_distribution
+473551273,Sarracenia,purpurea,purpurea,Joliette (MRC),Québec,Canada,NA,NA,45.9988,-73.3008,3000,Sarracenia purpurea,1940,3_distribution
+3335401298,Sarracenia,purpurea,purpurea,L'Assomption (MRC),Québec,Canada,NA,NA,45.898674,-73.398531,401,Sarracenia purpurea,2021,3_distribution
+3466127969,Sarracenia,purpurea,purpurea,L'Érable,Québec,Canada,NA,NA,46.38032,-71.843226,400,Sarracenia purpurea,2016,3_distribution
+473430951,Sarracenia,purpurea,purpurea,La Haute-Côte-Nord,Québec,Canada,NA,NA,48.2797,-69.4831,200,Sarracenia purpurea,1977,3_distribution
+3860203447,Sarracenia,purpurea,purpurea,La Haute-Yamaska,Québec,Canada,NA,NA,45.420328,-72.491238,4,Sarracenia purpurea,2022,3_distribution
+3873857985,Sarracenia,purpurea,purpurea,La Jacques-Cartier,Québec,Canada,NA,NA,46.8384,-71.577681,3,Sarracenia purpurea,2022,3_distribution
+473431270,Sarracenia,purpurea,purpurea,La Rivière-du-Nord,Québec,Canada,NA,NA,45.8061,-74.0128,8000,Sarracenia purpurea,1931,3_distribution
+3109080590,Sarracenia,purpurea,purpurea,La Tuque (agglomération),Québec,Canada,NA,NA,47.810604,-74.481544,90,Sarracenia purpurea,2021,3_distribution
+3333419717,Sarracenia,purpurea,purpurea,La Vallée-de-l'Or,Québec,Canada,NA,NA,48.116873,-77.828519,4,Sarracenia purpurea,2021,3_distribution
+3112860922,Sarracenia,purpurea,purpurea,La Vallée-de-la-Gatineau,Québec,Canada,NA,NA,45.801587,-75.804978,12,Sarracenia purpurea,2021,3_distribution
+3407951273,Sarracenia,purpurea,purpurea,Lac-Saint-Jean-Est,Québec,Canada,NA,NA,48.681253,-71.932113,5,Sarracenia purpurea,2021,3_distribution
+473431126,Sarracenia,purpurea,purpurea,Le Domaine-du-Roy,Québec,Canada,NA,NA,49.3787,-74.0861,750,Sarracenia purpurea,1948,3_distribution
+3325525015,Sarracenia,purpurea,purpurea,Le Fjord-du-Saguenay,Québec,Canada,NA,NA,50.914212,-70.068267,8,Sarracenia purpurea,2021,3_distribution
+3466285375,Sarracenia,purpurea,purpurea,Le Granit,Québec,Canada,NA,NA,45.81,-71.1846,30,Sarracenia purpurea,2021,3_distribution
+2963932472,Sarracenia,purpurea,purpurea,Le Haut-Saint-François,Québec,Canada,NA,NA,45.336657,-71.772189,5,Sarracenia purpurea,2020,3_distribution
+3416018482,Sarracenia,purpurea,purpurea,Les Appalaches,Québec,Canada,NA,NA,45.96885,-71.151771,15,Sarracenia purpurea,2016,3_distribution
+2860172222,Sarracenia,purpurea,purpurea,Les Basques,Québec,Canada,NA,NA,48.200946,-68.965879,26711,Sarracenia purpurea,2020,3_distribution
+3391670255,Sarracenia,purpurea,purpurea,Les Chenaux,Québec,Canada,NA,NA,46.598647,-72.600724,8,Sarracenia purpurea,2011,3_distribution
+3337674945,Sarracenia,purpurea,purpurea,Les Collines-de-l'Outaouais,Québec,Canada,NA,NA,45.659774,-75.675359,5,Sarracenia purpurea,2021,3_distribution
+473431121,Sarracenia,purpurea,purpurea,Les Laurentides,Québec,Canada,NA,NA,46.0333,-74.2167,3000,Sarracenia purpurea,1939,3_distribution
+3061547786,Sarracenia,purpurea,purpurea,Les Maskoutains,Québec,Canada,NA,NA,45.536116,-72.669476,46,Sarracenia purpurea,2019,3_distribution
+473431225,Sarracenia,purpurea,purpurea,Les Pays-d'en-Haut,Québec,Canada,NA,NA,45.9656,-74.3278,2000,Sarracenia purpurea,1965,3_distribution
+3784721682,Sarracenia,purpurea,purpurea,Lotbinière (MRC),Québec,Canada,NA,NA,46.437033,-71.504172,5,Sarracenia purpurea,2019,3_distribution
+2864883482,Sarracenia,purpurea,purpurea,Manicouagan,Québec,Canada,NA,NA,49.210863,-68.159683,12,Sarracenia purpurea,2020,3_distribution
+3860455542,Sarracenia,purpurea,purpurea,Maria-Chapdelaine,Québec,Canada,NA,NA,48.84534,-72.642299,338,Sarracenia purpurea,2018,3_distribution
+3903559549,Sarracenia,purpurea,purpurea,Maskinongé (MRC),Québec,Canada,NA,NA,46.660473,-73.012421,4,Sarracenia purpurea,2022,3_distribution
+473430985,Sarracenia,purpurea,purpurea,Matawinie,Québec,Canada,NA,NA,46.044,-73.7107,1250,Sarracenia purpurea,1928,3_distribution
+2864808280,Sarracenia,purpurea,purpurea,Mékinac,Québec,Canada,NA,NA,46.900153,-72.264153,16,Sarracenia purpurea,2020,3_distribution
+2898315643,Sarracenia,purpurea,purpurea,Memphrémagog,Québec,Canada,NA,NA,45.26981,-72.327725,4,Sarracenia purpurea,2020,3_distribution
+473431036,Sarracenia,purpurea,purpurea,Minganie,Québec,Canada,NA,NA,49.619497,-63.792336,500,Sarracenia purpurea,1927,3_distribution
+3466276431,Sarracenia,purpurea,purpurea,Montmagny (MRC),Québec,Canada,NA,NA,46.718467,-70.167758,3770,Sarracenia purpurea,2014,3_distribution
+3764512514,Sarracenia,purpurea,purpurea,Pontiac (MRC),Québec,Canada,NA,NA,45.858864,-77.083007,8,Sarracenia purpurea,2022,3_distribution
+2818560158,Sarracenia,purpurea,purpurea,Portneuf,Québec,Canada,NA,NA,46.956969,-71.851528,26935,Sarracenia purpurea,2020,3_distribution
+3384164638,Sarracenia,purpurea,purpurea,Québec (Agglomération),Québec,Canada,NA,NA,46.925381,-71.374895,3,Sarracenia purpurea,2021,3_distribution
+2859912172,Sarracenia,purpurea,purpurea,Rimouski-Neigette,Québec,Canada,NA,NA,48.379474,-68.877032,26711,Sarracenia purpurea,2020,3_distribution
+3327755107,Sarracenia,purpurea,purpurea,Sept-Rivières,Québec,Canada,NA,NA,50.265611,-66.416,30,Sarracenia purpurea,2019,3_distribution
+3307238345,Sarracenia,purpurea,purpurea,Shawinigan,Québec,Canada,NA,NA,46.687053,-72.791437,5,Sarracenia purpurea,2021,3_distribution
+3307355286,Sarracenia,purpurea,purpurea,Témiscamingue,Québec,Canada,NA,NA,46.365841,-77.803615,31,Sarracenia purpurea,2018,3_distribution
+3314540425,Sarracenia,purpurea,purpurea,Trois-Rivières,Québec,Canada,NA,NA,46.404019,-72.513832,5,Sarracenia purpurea,2021,3_distribution
+3698222640,Sarracenia,purpurea,purpurea,Ville de Saguenay,Québec,Canada,NA,NA,48.392331,-71.164203,2500,Sarracenia purpurea,1992,3_distribution
+473431198,Sarracenia,purpurea,purpurea,ᐄᔨᔨᐤ ᐊᔅᒌ Eeyou Istchee,Québec,Canada,390,25,51.2358,-72.9767,1000,Sarracenia purpurea,1944,3_distribution
+3321143816,Sarracenia,purpurea,purpurea,Division No. 14,Saskatchewan,Canada,NA,NA,52.867307,-102.355238,341,Sarracenia purpurea,2021,3_distribution
+3321209210,Sarracenia,purpurea,purpurea,Division No. 15,Saskatchewan,Canada,NA,NA,52.928602,-106.054188,25972,Sarracenia purpurea,2021,3_distribution
+3325720565,Sarracenia,purpurea,purpurea,Division No. 16,Saskatchewan,Canada,NA,NA,53.609411,-106.063308,2307,Sarracenia purpurea,2021,3_distribution
+3457120504,Sarracenia,purpurea,purpurea,Division No. 18,Saskatchewan,Canada,NA,NA,58.522203,-109.478911,975,Sarracenia purpurea,2021,3_distribution
+3307202831,Sarracenia,purpurea,purpurea,Middlesex County,Connecticut,United States,NA,NA,41.543147,-72.500741,27785,Sarracenia purpurea,2021,3_distribution
+3873550624,Sarracenia,purpurea,purpurea,Tolland County,Connecticut,United States,NA,NA,42.028455,-72.299608,27692,Sarracenia purpurea,2022,3_distribution
+3457199689,Sarracenia,purpurea,purpurea,Lake County,Illinois,United States,NA,NA,42.249844,-88.183219,27661,Sarracenia purpurea,2019,3_distribution
+3415634888,Sarracenia,purpurea,purpurea,McHenry County,Illinois,United States,NA,NA,42.211972,-88.280708,27661,Sarracenia purpurea,2021,3_distribution
+3070455928,Sarracenia,purpurea,purpurea,Boone County,Indiana,United States,NA,NA,39.950936,-86.340872,28030,Sarracenia purpurea,2021,3_distribution
+3067741322,Sarracenia,purpurea,purpurea,Hendricks County,Indiana,United States,NA,NA,39.838287,-86.380956,28030,Sarracenia purpurea,2021,3_distribution
+3118326929,Sarracenia,purpurea,purpurea,LaPorte County,Indiana,United States,NA,NA,41.608409,-86.853382,27754,Sarracenia purpurea,2021,3_distribution
+3398735298,Sarracenia,purpurea,purpurea,Porter County,Indiana,United States,NA,NA,41.669202,-87.173677,27754,Sarracenia purpurea,2021,3_distribution
+2573119184,Sarracenia,purpurea,purpurea,Androscoggin County,Maine,United States,NA,NA,44.09146,-70.16808,9610,Sarracenia purpurea,1967,3_distribution
+2573067281,Sarracenia,purpurea,purpurea,Aroostook County,Maine,United States,NA,NA,46.77769,-67.85529,11685,Sarracenia purpurea,1898,3_distribution
+2963754840,Sarracenia,purpurea,purpurea,Cumberland County,Maine,United States,NA,NA,43.994373,-70.255122,27411,Sarracenia purpurea,2020,3_distribution
+2573106344,Sarracenia,purpurea,purpurea,Franklin County,Maine,United States,NA,NA,44.54929,-70.09179,8499,Sarracenia purpurea,1966,3_distribution
+2573092639,Sarracenia,purpurea,purpurea,Hancock County,Maine,United States,NA,NA,44.37706,-68.08901,7347,Sarracenia purpurea,2002,3_distribution
+3892460130,Sarracenia,purpurea,purpurea,Kennebec County,Maine,United States,NA,NA,44.496073,-69.967211,27317,Sarracenia purpurea,2022,3_distribution
+3743370404,Sarracenia,purpurea,purpurea,Knox County,Maine,United States,NA,NA,44.013823,-68.68897,27380,Sarracenia purpurea,2021,3_distribution
+3764348394,Sarracenia,purpurea,purpurea,Lincoln County,Maine,United States,NA,NA,43.94424,-69.449966,27411,Sarracenia purpurea,2018,3_distribution
+3302365406,Sarracenia,purpurea,purpurea,Oxford County,Maine,United States,NA,NA,44.235012,-70.696987,27348,Sarracenia purpurea,2017,3_distribution
+3947648173,Sarracenia,purpurea,purpurea,Penobscot County,Maine,United States,NA,NA,44.915498,-68.7831,27253,Sarracenia purpurea,2019,3_distribution
+2850782959,Sarracenia,purpurea,purpurea,Piscataquis County,Maine,United States,NA,NA,45.495851,-69.541242,27158,Sarracenia purpurea,2020,3_distribution
+3858339921,Sarracenia,purpurea,purpurea,Sagadahoc County,Maine,United States,NA,NA,44.143472,-69.807979,27380,Sarracenia purpurea,2022,3_distribution
+2573101595,Sarracenia,purpurea,purpurea,Somerset County,Maine,United States,NA,NA,44.77139,-69.43866,9124,Sarracenia purpurea,1892,3_distribution
+3759628779,Sarracenia,purpurea,purpurea,Waldo County,Maine,United States,NA,NA,44.638239,-69.20269,27285,Sarracenia purpurea,2022,3_distribution
+2573079868,Sarracenia,purpurea,purpurea,Washington County,Maine,United States,NA,NA,44.83621,-67.03822,8431,Sarracenia purpurea,1969,3_distribution
+3456557746,Sarracenia,purpurea,purpurea,York County,Maine,United States,NA,NA,43.401083,-70.576675,27474,Sarracenia purpurea,2021,3_distribution
+3325565159,Sarracenia,purpurea,purpurea,Frederick County,Maryland,United States,NA,NA,39.410612,-77.482277,28090,Sarracenia purpurea,2021,3_distribution
+3398854413,Sarracenia,purpurea,purpurea,Garrett County,Maryland,United States,NA,NA,39.540009,-79.432707,28090,Sarracenia purpurea,2021,3_distribution
+3759960752,Sarracenia,purpurea,purpurea,Prince George's County,Maryland,United States,NA,NA,38.998791,-76.963672,28181,Sarracenia purpurea,2022,3_distribution
+3044661393,Sarracenia,purpurea,purpurea,Berkshire County,Massachusetts,United States,NA,NA,42.511046,-73.168111,27630,Sarracenia purpurea,2017,3_distribution
+3067957154,Sarracenia,purpurea,purpurea,Bristol County,Massachusetts,United States,NA,NA,42.030543,-71.153968,27692,Sarracenia purpurea,2018,3_distribution
+3355610396,Sarracenia,purpurea,purpurea,Essex County,Massachusetts,United States,NA,NA,42.744956,-70.864731,27599,Sarracenia purpurea,2016,3_distribution
+3070658666,Sarracenia,purpurea,purpurea,Franklin County,Massachusetts,United States,NA,NA,42.425182,-72.597824,27630,Sarracenia purpurea,2021,3_distribution
+3923242669,Sarracenia,purpurea,purpurea,Hampden County,Massachusetts,United States,NA,NA,42.153241,-72.383574,27692,Sarracenia purpurea,2022,3_distribution
+2573064887,Sarracenia,purpurea,purpurea,Hampshire County,Massachusetts,United States,NA,NA,42.40242,-72.72953,6281,Sarracenia purpurea,1886,3_distribution
+3321035383,Sarracenia,purpurea,purpurea,Middlesex County,Massachusetts,United States,NA,NA,42.471617,-71.51601,27630,Sarracenia purpurea,2021,3_distribution
+3113318946,Sarracenia,purpurea,purpurea,Norfolk County,Massachusetts,United States,NA,NA,42.185001,-71.176618,27692,Sarracenia purpurea,2021,3_distribution
+3113480274,Sarracenia,purpurea,purpurea,Plymouth County,Massachusetts,United States,NA,NA,42.140396,-70.805598,27692,Sarracenia purpurea,2021,3_distribution
+2803069125,Sarracenia,purpurea,purpurea,Worcester County,Massachusetts,United States,NA,NA,42.689345,-72.096683,27599,Sarracenia purpurea,2020,3_distribution
+3333097071,Sarracenia,purpurea,purpurea,Alger County,Michigan,United States,NA,NA,46.354975,-86.734375,27031,Sarracenia purpurea,2021,3_distribution
+3314487038,Sarracenia,purpurea,purpurea,Antrim County,Michigan,United States,NA,NA,44.883467,-85.308327,27253,Sarracenia purpurea,2021,3_distribution
+3759867336,Sarracenia,purpurea,purpurea,Barry County,Michigan,United States,NA,NA,42.57582,-85.27471,27630,Sarracenia purpurea,2018,3_distribution
+3698239162,Sarracenia,purpurea,purpurea,Benzie County,Michigan,United States,NA,NA,44.626806,-85.83661,27285,Sarracenia purpurea,2021,3_distribution
+3097284588,Sarracenia,purpurea,purpurea,Berrien County,Michigan,United States,NA,NA,41.854829,-86.580429,27723,Sarracenia purpurea,2021,3_distribution
+3090629020,Sarracenia,purpurea,purpurea,Charlevoix County,Michigan,United States,NA,NA,45.306385,-85.173424,27190,Sarracenia purpurea,2008,3_distribution
+3333181315,Sarracenia,purpurea,purpurea,Cheboygan County,Michigan,United States,NA,NA,45.684281,-84.58744,27126,Sarracenia purpurea,2021,3_distribution
+2641528244,Sarracenia,purpurea,purpurea,Chippewa County,Michigan,United States,NA,NA,46.643991,-85.103144,26967,Sarracenia purpurea,2020,3_distribution
+2862368091,Sarracenia,purpurea,purpurea,Clare County,Michigan,United States,NA,NA,43.973928,-85.060506,27411,Sarracenia purpurea,2020,3_distribution
+3124693857,Sarracenia,purpurea,purpurea,Crawford County,Michigan,United States,NA,NA,44.685355,-84.500491,27285,Sarracenia purpurea,2021,3_distribution
+3859720836,Sarracenia,purpurea,purpurea,Delta County,Michigan,United States,NA,NA,46.094624,-86.779744,27063,Sarracenia purpurea,2022,3_distribution
+3335116196,Sarracenia,purpurea,purpurea,Dickinson County,Michigan,United States,NA,NA,46.240382,-87.932527,27031,Sarracenia purpurea,2021,3_distribution
+3090853053,Sarracenia,purpurea,purpurea,Emmet County,Michigan,United States,NA,NA,45.765889,-84.826813,27126,Sarracenia purpurea,2009,3_distribution
+3399277495,Sarracenia,purpurea,purpurea,Genesee County,Michigan,United States,NA,NA,42.919729,-83.715179,27568,Sarracenia purpurea,2021,3_distribution
+3457077295,Sarracenia,purpurea,purpurea,Gogebic County,Michigan,United States,NA,NA,46.351844,-89.919638,27031,Sarracenia purpurea,2020,3_distribution
+1802604514,Sarracenia,purpurea,purpurea,Grand Traverse County,Michigan,United States,NA,NA,44.660991,-85.662791,27285,Sarracenia purpurea,2015,3_distribution
+2397661533,Sarracenia,purpurea,purpurea,Houghton County,Michigan,United States,NA,NA,47.15469,-88.70427,26903,Sarracenia purpurea,2019,3_distribution
+2860136947,Sarracenia,purpurea,purpurea,Ingham County,Michigan,United States,NA,NA,42.612959,-84.546542,27599,Sarracenia purpurea,2020,3_distribution
+3090832011,Sarracenia,purpurea,purpurea,Iosco County,Michigan,United States,NA,NA,44.343066,-83.581963,27348,Sarracenia purpurea,2015,3_distribution
+3337582771,Sarracenia,purpurea,purpurea,Iron County,Michigan,United States,NA,NA,46.030653,-88.484136,27063,Sarracenia purpurea,2015,3_distribution
+3097048476,Sarracenia,purpurea,purpurea,Jackson County,Michigan,United States,NA,NA,42.144174,-84.215468,27692,Sarracenia purpurea,2020,3_distribution
+3039466021,Sarracenia,purpurea,purpurea,Kalamazoo County,Michigan,United States,NA,NA,42.160849,-85.403836,27692,Sarracenia purpurea,2014,3_distribution
+3337616490,Sarracenia,purpurea,purpurea,Kalkaska County,Michigan,United States,NA,NA,44.730958,-84.912511,27285,Sarracenia purpurea,2021,3_distribution
+2850747358,Sarracenia,purpurea,purpurea,Kent County,Michigan,United States,NA,NA,43.058163,-85.587289,27537,Sarracenia purpurea,2020,3_distribution
+3343917595,Sarracenia,purpurea,purpurea,Keweenaw County,Michigan,United States,NA,NA,48.040434,-88.649483,26743,Sarracenia purpurea,2019,3_distribution
+3860335025,Sarracenia,purpurea,purpurea,Lapeer County,Michigan,United States,NA,NA,43.169729,-83.378387,27537,Sarracenia purpurea,2022,3_distribution
+2580219478,Sarracenia,purpurea,purpurea,Livingston County,Michigan,United States,NA,NA,42.567186,-83.88585,27630,Sarracenia purpurea,2020,3_distribution
+1946329541,Sarracenia,purpurea,purpurea,Mackinac County,Michigan,United States,NA,NA,46.02831,-84.531948,27063,Sarracenia purpurea,2012,3_distribution
+3355105292,Sarracenia,purpurea,purpurea,Marquette County,Michigan,United States,NA,NA,46.56016,-87.954304,26999,Sarracenia purpurea,2021,3_distribution
+3333403230,Sarracenia,purpurea,purpurea,Mecosta County,Michigan,United States,NA,NA,43.651598,-85.244906,27443,Sarracenia purpurea,2021,3_distribution
+2850847438,Sarracenia,purpurea,purpurea,Missaukee County,Michigan,United States,NA,NA,44.351853,-84.939461,27348,Sarracenia purpurea,2020,3_distribution
+3960974652,Sarracenia,purpurea,purpurea,Oakland County,Michigan,United States,NA,NA,42.792242,-83.510828,27599,Sarracenia purpurea,2022,3_distribution
+3398907941,Sarracenia,purpurea,purpurea,Ogemaw County,Michigan,United States,NA,NA,44.382542,-84.040792,27348,Sarracenia purpurea,2021,3_distribution
+3118484440,Sarracenia,purpurea,purpurea,Ontonagon County,Michigan,United States,NA,NA,46.39331,-89.157542,27031,Sarracenia purpurea,2021,3_distribution
+3112865491,Sarracenia,purpurea,purpurea,Ottawa County,Michigan,United States,NA,NA,43.040421,-86.233187,27537,Sarracenia purpurea,2021,3_distribution
+3307122999,Sarracenia,purpurea,purpurea,Presque Isle County,Michigan,United States,NA,NA,45.228185,-83.457354,27190,Sarracenia purpurea,2021,3_distribution
+3302463047,Sarracenia,purpurea,purpurea,Saint Joseph County,Michigan,United States,NA,NA,42.017532,-85.566453,27692,Sarracenia purpurea,2021,3_distribution
+2988450986,Sarracenia,purpurea,purpurea,Schoolcraft County,Michigan,United States,NA,NA,46.443004,-86.102306,26999,Sarracenia purpurea,2020,3_distribution
+3325586045,Sarracenia,purpurea,purpurea,Van Buren County,Michigan,United States,NA,NA,42.267645,-86.117397,27661,Sarracenia purpurea,2021,3_distribution
+3307171195,Sarracenia,purpurea,purpurea,Washtenaw County,Michigan,United States,NA,NA,42.32258,-84.027685,27661,Sarracenia purpurea,2021,3_distribution
+2265397038,Sarracenia,purpurea,purpurea,Aitkin County,Minnesota,United States,NA,NA,46.339965,-93.2514,969,Sarracenia purpurea,1982,3_distribution
+2265397496,Sarracenia,purpurea,purpurea,Anoka County,Minnesota,United States,NA,NA,45.404652,-93.100988,4924,Sarracenia purpurea,1946,3_distribution
+2265476089,Sarracenia,purpurea,purpurea,Becker County,Minnesota,United States,NA,NA,46.994142,-95.205425,198,Sarracenia purpurea,2004,3_distribution
+2265398381,Sarracenia,purpurea,purpurea,Beltrami County,Minnesota,United States,NA,NA,48.13107,-94.766637,29813,Sarracenia purpurea,1941,3_distribution
+2265394969,Sarracenia,purpurea,purpurea,Carlton County,Minnesota,United States,NA,NA,46.503001,-92.688531,1378,Sarracenia purpurea,1940,3_distribution
+2265396510,Sarracenia,purpurea,purpurea,Cass County,Minnesota,United States,NA,NA,46.930792,-94.520552,1426,Sarracenia purpurea,1935,3_distribution
+2265397367,Sarracenia,purpurea,purpurea,Chisago County,Minnesota,United States,NA,NA,45.389814,-92.821151,1811,Sarracenia purpurea,NA,3_distribution
+2265397074,Sarracenia,purpurea,purpurea,Clearwater County,Minnesota,United States,NA,NA,47.246103,-95.244665,994,Sarracenia purpurea,1929,3_distribution
+2265395980,Sarracenia,purpurea,purpurea,Cook County,Minnesota,United States,NA,NA,48.046734,-90.508674,3220,Sarracenia purpurea,1929,3_distribution
+2265397610,Sarracenia,purpurea,purpurea,Crow Wing County,Minnesota,United States,NA,NA,46.56499,-93.921425,969,Sarracenia purpurea,1978,3_distribution
+2265398141,Sarracenia,purpurea,purpurea,Hennepin County,Minnesota,United States,NA,NA,44.90005,-93.501232,819,Sarracenia purpurea,1922,3_distribution
+2265397107,Sarracenia,purpurea,purpurea,Hubbard County,Minnesota,United States,NA,NA,47.195358,-95.10652,6180,Sarracenia purpurea,1979,3_distribution
+2265397312,Sarracenia,purpurea,purpurea,Isanti County,Minnesota,United States,NA,NA,45.42632,-93.184371,541,Sarracenia purpurea,1963,3_distribution
+2265397187,Sarracenia,purpurea,purpurea,Itasca County,Minnesota,United States,NA,NA,47.334197,-93.787874,2179,Sarracenia purpurea,1939,3_distribution
+2265397326,Sarracenia,purpurea,purpurea,Kanabec County,Minnesota,United States,NA,NA,45.805189,-93.190895,7153,Sarracenia purpurea,1945,3_distribution
+2265396398,Sarracenia,purpurea,purpurea,Koochiching County,Minnesota,United States,NA,NA,48.33103,-94.37074,969,Sarracenia purpurea,1978,3_distribution
+2265395742,Sarracenia,purpurea,purpurea,Lake County,Minnesota,United States,NA,NA,47.824084,-91.725158,25581,Sarracenia purpurea,1914,3_distribution
+2265396296,Sarracenia,purpurea,purpurea,Lake of the Woods County,Minnesota,United States,NA,NA,49.353711,-95.002845,4992,Sarracenia purpurea,1939,3_distribution
+2265398067,Sarracenia,purpurea,purpurea,Mahnomen County,Minnesota,United States,NA,NA,47.491766,-95.604842,969,Sarracenia purpurea,1982,3_distribution
+2265396334,Sarracenia,purpurea,purpurea,Marshall County,Minnesota,United States,NA,NA,48.49043,-95.891094,5081,Sarracenia purpurea,1982,3_distribution
+2265395763,Sarracenia,purpurea,purpurea,Morrison County,Minnesota,United States,NA,NA,46.12521,-94.576956,2639,Sarracenia purpurea,1945,3_distribution
+2265397122,Sarracenia,purpurea,purpurea,Pine County,Minnesota,United States,NA,NA,45.82605,-93.030877,7149,Sarracenia purpurea,1945,3_distribution
+2265396475,Sarracenia,purpurea,purpurea,Polk County,Minnesota,United States,NA,NA,47.57911,-95.628954,969,Sarracenia purpurea,1982,3_distribution
+2265397035,Sarracenia,purpurea,purpurea,Pope County,Minnesota,United States,NA,NA,45.648982,-95.401248,5669,Sarracenia purpurea,NA,3_distribution
+2265396726,Sarracenia,purpurea,purpurea,Ramsey County,Minnesota,United States,NA,NA,45.016016,-93.090884,13505,Sarracenia purpurea,1886,3_distribution
+2265395741,Sarracenia,purpurea,purpurea,Roseau County,Minnesota,United States,NA,NA,48.919699,-96.111609,969,Sarracenia purpurea,1984,3_distribution
+2265398119,Sarracenia,purpurea,purpurea,Saint Louis County,Minnesota,United States,418,NA,47.998543,-91.81063,969,Sarracenia purpurea,1981,3_distribution
+2265396237,Sarracenia,purpurea,purpurea,Scott County,Minnesota,United States,NA,NA,44.765236,-93.374591,1291,Sarracenia purpurea,1933,3_distribution
+2265399481,Sarracenia,purpurea,purpurea,Stearns County,Minnesota,United States,NA,NA,45.469043,-94.355202,969,Sarracenia purpurea,1977,3_distribution
+2265448162,Sarracenia,purpurea,purpurea,Todd County,Minnesota,United States,NA,NA,46.085717,-94.730168,8681,Sarracenia purpurea,2003,3_distribution
+2265397169,Sarracenia,purpurea,purpurea,Washington County,Minnesota,United States,NA,NA,45.172433,-92.832216,255,Sarracenia purpurea,1988,3_distribution
+3302107234,Sarracenia,purpurea,purpurea,Carroll County,New Hampshire,United States,NA,NA,43.698385,-71.101798,27443,Sarracenia purpurea,2021,3_distribution
+2634516359,Sarracenia,purpurea,purpurea,Cheshire County,New Hampshire,United States,NA,NA,43.049761,-72.092489,27537,Sarracenia purpurea,2020,3_distribution
+3302017095,Sarracenia,purpurea,purpurea,Coos County,New Hampshire,United States,NA,NA,44.317938,-71.404591,27348,Sarracenia purpurea,2021,3_distribution
+2573069063,Sarracenia,purpurea,purpurea,Grafton County,New Hampshire,United States,NA,NA,43.63525,-72.2531,7914,Sarracenia purpurea,1890,3_distribution
+2573094471,Sarracenia,purpurea,purpurea,Hillsborough County,New Hampshire,United States,NA,NA,42.98477,-71.44469,10491,Sarracenia purpurea,1904,3_distribution
+3385021764,Sarracenia,purpurea,purpurea,Merrimack County,New Hampshire,United States,NA,NA,43.068614,-71.412287,27537,Sarracenia purpurea,2021,3_distribution
+3327918433,Sarracenia,purpurea,purpurea,Rockingham County,New Hampshire,United States,NA,NA,43.105563,-70.815938,27537,Sarracenia purpurea,2018,3_distribution
+3384730074,Sarracenia,purpurea,purpurea,Strafford County,New Hampshire,United States,NA,NA,43.194904,-70.967943,27537,Sarracenia purpurea,2021,3_distribution
+3384103714,Sarracenia,purpurea,purpurea,Sullivan County,New Hampshire,United States,NA,NA,43.191349,-72.301926,27537,Sarracenia purpurea,2021,3_distribution
+3302428250,Sarracenia,purpurea,purpurea,Burlington County,New Jersey,United States,NA,NA,39.813817,-74.531353,28030,Sarracenia purpurea,2021,3_distribution
+3408098011,Sarracenia,purpurea,purpurea,Camden County,New Jersey,United States,NA,NA,39.76025,-74.784699,28060,Sarracenia purpurea,2021,3_distribution
+3355097161,Sarracenia,purpurea,purpurea,Cape May County,New Jersey,United States,NA,NA,39.239001,-74.871284,28121,Sarracenia purpurea,2021,3_distribution
+3455419633,Sarracenia,purpurea,purpurea,Cumberland County,New Jersey,United States,NA,NA,39.441494,-75.105006,28090,Sarracenia purpurea,2021,3_distribution
+3355465242,Sarracenia,purpurea,purpurea,Ocean County,New Jersey,United States,NA,NA,39.966921,-74.468216,28030,Sarracenia purpurea,2021,3_distribution
+3773803028,Sarracenia,purpurea,purpurea,Sussex County,New Jersey,United States,NA,NA,41.299733,-74.634282,27816,Sarracenia purpurea,2012,3_distribution
+2397566258,Sarracenia,purpurea,purpurea,Warren County,New Jersey,United States,NA,NA,40.861577,-74.886729,27877,Sarracenia purpurea,2019,3_distribution
+3455607510,Sarracenia,purpurea,purpurea,Allegany County,New York,United States,NA,NA,42.249568,-78.194583,27661,Sarracenia purpurea,2019,3_distribution
+3090872447,Sarracenia,purpurea,purpurea,Broome County,New York,United States,NA,NA,42.239385,-75.827544,27661,Sarracenia purpurea,2021,3_distribution
+3333072068,Sarracenia,purpurea,purpurea,Cattaraugus County,New York,United States,NA,NA,42.295165,-78.801992,27661,Sarracenia purpurea,2021,3_distribution
+2603346802,Sarracenia,purpurea,purpurea,Cayuga County,New York,United States,NA,NA,43.111994,-76.584254,27537,Sarracenia purpurea,2020,3_distribution
+2818563647,Sarracenia,purpurea,purpurea,Clinton County,New York,United States,NA,NA,44.571022,-73.809046,27317,Sarracenia purpurea,2020,3_distribution
+3925065935,Sarracenia,purpurea,purpurea,Cortland County,New York,United States,NA,NA,42.571593,-76.242592,27630,Sarracenia purpurea,2022,3_distribution
+3455619216,Sarracenia,purpurea,purpurea,Dutchess County,New York,United States,NA,NA,41.732433,-73.668635,27754,Sarracenia purpurea,2021,3_distribution
+3759998377,Sarracenia,purpurea,purpurea,Essex County,New York,United States,NA,NA,43.775001,-73.888338,27443,Sarracenia purpurea,2013,3_distribution
+3499647898,Sarracenia,purpurea,purpurea,Franklin County,New York,United States,NA,NA,44.543566,-74.292479,27317,Sarracenia purpurea,2019,3_distribution
+3859929937,Sarracenia,purpurea,purpurea,Greene County,New York,United States,NA,NA,42.163092,-74.033495,27692,Sarracenia purpurea,2022,3_distribution
+3097241463,Sarracenia,purpurea,purpurea,Hamilton County,New York,United States,NA,NA,43.631746,-74.767922,27443,Sarracenia purpurea,2016,3_distribution
+3415505424,Sarracenia,purpurea,purpurea,Herkimer County,New York,United States,NA,NA,43.798813,-74.913323,27443,Sarracenia purpurea,2019,3_distribution
+3079643237,Sarracenia,purpurea,purpurea,Lewis County,New York,United States,NA,NA,43.668953,-75.350959,27443,Sarracenia purpurea,2014,3_distribution
+2898254300,Sarracenia,purpurea,purpurea,Madison County,New York,United States,NA,NA,42.925537,-75.678417,27568,Sarracenia purpurea,2020,3_distribution
+3802723747,Sarracenia,purpurea,purpurea,Monroe County,New York,United States,NA,NA,43.079957,-77.569337,27537,Sarracenia purpurea,2020,3_distribution
+2898266216,Sarracenia,purpurea,purpurea,Oneida County,New York,United States,NA,NA,43.405656,-75.14426,27474,Sarracenia purpurea,2020,3_distribution
+3966386617,Sarracenia,purpurea,purpurea,Onondaga County,New York,United States,NA,NA,43.147835,-76.41967,27537,Sarracenia purpurea,2022,3_distribution
+3384351240,Sarracenia,purpurea,purpurea,Ontario County,New York,United States,NA,NA,43.001248,-77.442369,27537,Sarracenia purpurea,2021,3_distribution
+2868183974,Sarracenia,purpurea,purpurea,Orange County,New York,United States,NA,NA,41.36798,-74.144236,27816,Sarracenia purpurea,2020,3_distribution
+3325619581,Sarracenia,purpurea,purpurea,Saint Lawrence County,New York,United States,NA,NA,44.28199,-74.752951,27348,Sarracenia purpurea,2016,3_distribution
+3325678187,Sarracenia,purpurea,purpurea,Saratoga County,New York,United States,NA,NA,43.240635,-74.027587,27505,Sarracenia purpurea,2021,3_distribution
+2634139880,Sarracenia,purpurea,purpurea,Suffolk County,New York,United States,NA,NA,40.823729,-72.62892,27877,Sarracenia purpurea,2020,3_distribution
+3456113711,Sarracenia,purpurea,purpurea,Tompkins County,New York,United States,NA,NA,42.418187,-76.315556,27630,Sarracenia purpurea,2021,3_distribution
+3343756910,Sarracenia,purpurea,purpurea,Ulster County,New York,United States,NA,NA,42.035084,-74.002269,27692,Sarracenia purpurea,2021,3_distribution
+3759999435,Sarracenia,purpurea,purpurea,Warren County,New York,United States,NA,NA,43.442928,-73.899836,27474,Sarracenia purpurea,2013,3_distribution
+3112689810,Sarracenia,purpurea,purpurea,Wayne County,New York,United States,NA,NA,43.161942,-77.134656,27537,Sarracenia purpurea,2021,3_distribution
+3859008917,Sarracenia,purpurea,purpurea,Ashland County,Ohio,United States,NA,NA,40.714005,-82.173944,27908,Sarracenia purpurea,2022,3_distribution
+3859674184,Sarracenia,purpurea,purpurea,Holmes County,Ohio,United States,NA,NA,40.605509,-82.165166,27908,Sarracenia purpurea,2022,3_distribution
+3457161248,Sarracenia,purpurea,purpurea,Licking County,Ohio,United States,NA,NA,39.977183,-82.416289,28030,Sarracenia purpurea,2021,3_distribution
+3097147114,Sarracenia,purpurea,purpurea,Portage County,Ohio,United States,NA,NA,41.015508,-81.320593,27847,Sarracenia purpurea,2020,3_distribution
+2634407018,Sarracenia,purpurea,purpurea,Summit County,Ohio,United States,NA,NA,41.147109,-81.398817,27847,Sarracenia purpurea,2020,3_distribution
+3338089827,Sarracenia,purpurea,purpurea,Wayne County,Ohio,United States,NA,NA,40.7761,-82.10548,27908,Sarracenia purpurea,2021,3_distribution
+3384003806,Sarracenia,purpurea,purpurea,Bedford County,Pennsylvania,United States,NA,NA,40.144172,-78.647699,28000,Sarracenia purpurea,2021,3_distribution
+3784976435,Sarracenia,purpurea,purpurea,Cambria County,Pennsylvania,United States,NA,NA,40.389549,-78.711499,27969,Sarracenia purpurea,2017,3_distribution
+3860500522,Sarracenia,purpurea,purpurea,Centre County,Pennsylvania,United States,NA,NA,40.951708000000004,-78.03166,27877,Sarracenia purpurea,2020,3_distribution
+3860334594,Sarracenia,purpurea,purpurea,Clearfield County,Pennsylvania,United States,NA,NA,40.969809,-78.145548,27877,Sarracenia purpurea,2022,3_distribution
+3333042516,Sarracenia,purpurea,purpurea,Columbia County,Pennsylvania,United States,NA,NA,41.2157,-76.392788,27816,Sarracenia purpurea,2021,3_distribution
+3859409757,Sarracenia,purpurea,purpurea,Fayette County,Pennsylvania,United States,NA,NA,39.757771,-79.416807,28060,Sarracenia purpurea,2022,3_distribution
+3915496080,Sarracenia,purpurea,purpurea,Lackawanna County,Pennsylvania,United States,NA,NA,41.279859,-75.555479,27816,Sarracenia purpurea,2022,3_distribution
+3399314529,Sarracenia,purpurea,purpurea,Monroe County,Pennsylvania,United States,NA,NA,41.052169,-75.288353,27847,Sarracenia purpurea,2021,3_distribution
+3039314222,Sarracenia,purpurea,purpurea,Pike County,Pennsylvania,United States,NA,NA,41.14392,-74.987554,27847,Sarracenia purpurea,2018,3_distribution
+3124646969,Sarracenia,purpurea,purpurea,Somerset County,Pennsylvania,United States,NA,NA,40.140757,-79.01352,28000,Sarracenia purpurea,2021,3_distribution
+3698289552,Sarracenia,purpurea,purpurea,Susquehanna County,Pennsylvania,United States,NA,NA,41.658751,-75.963625,27754,Sarracenia purpurea,2022,3_distribution
+3302453205,Sarracenia,purpurea,purpurea,Warren County,Pennsylvania,United States,NA,NA,41.947256,-79.557609,27723,Sarracenia purpurea,2021,3_distribution
+3858622141,Sarracenia,purpurea,purpurea,Westmoreland County,Pennsylvania,United States,NA,NA,40.166258,-79.150539,28000,Sarracenia purpurea,2022,3_distribution
+3113616546,Sarracenia,purpurea,purpurea,Addison County,Vermont,United States,NA,NA,44.132963,-73.354389,27380,Sarracenia purpurea,2021,3_distribution
+3118254124,Sarracenia,purpurea,purpurea,Bennington County,Vermont,United States,NA,NA,43.125116,-73.007106,27537,Sarracenia purpurea,2021,3_distribution
+2873781149,Sarracenia,purpurea,purpurea,Caledonia County,Vermont,United States,NA,NA,44.228255,-72.29645,27348,Sarracenia purpurea,2020,3_distribution
+2573066226,Sarracenia,purpurea,purpurea,Chittenden County,Vermont,United States,NA,NA,44.43457,-73.08868,7229,Sarracenia purpurea,1902,3_distribution
+3759634302,Sarracenia,purpurea,purpurea,Essex County,Vermont,United States,NA,NA,44.840177,-71.613115,27253,Sarracenia purpurea,2013,3_distribution
+3314262257,Sarracenia,purpurea,purpurea,Franklin County,Vermont,United States,NA,NA,44.856864,-72.932071,27253,Sarracenia purpurea,2021,3_distribution
+2814134818,Sarracenia,purpurea,purpurea,Grand Isle County,Vermont,United States,NA,NA,44.588723,-73.365472,27317,Sarracenia purpurea,2020,3_distribution
+3067742257,Sarracenia,purpurea,purpurea,Lamoille County,Vermont,United States,NA,NA,44.717411,-72.693234,27285,Sarracenia purpurea,2016,3_distribution
+2573116627,Sarracenia,purpurea,purpurea,Orleans County,Vermont,United States,NA,NA,44.93722,-72.20892,4366,Sarracenia purpurea,NA,3_distribution
+2573115045,Sarracenia,purpurea,purpurea,Rutland County,Vermont,United States,NA,NA,43.48474,-73.12664,6206,Sarracenia purpurea,NA,3_distribution
+1899797901,Sarracenia,purpurea,purpurea,Washington County,Vermont,United States,NA,NA,44.228056,-72.352053,27348,Sarracenia purpurea,2018,3_distribution
+2573065080,Sarracenia,purpurea,purpurea,Windham County,Vermont,United States,NA,NA,43.0745,-72.51026,8375,Sarracenia purpurea,1902,3_distribution
+2573055901,Sarracenia,purpurea,purpurea,Windsor County,Vermont,United States,NA,NA,43.72926,-72.62428,8063,Sarracenia purpurea,1969,3_distribution
+3302068464,Sarracenia,purpurea,purpurea,Greenbrier County,West Virginia,United States,NA,NA,38.133888,-80.38678,28300,Sarracenia purpurea,2021,3_distribution
+3455684650,Sarracenia,purpurea,purpurea,Pocahontas County,West Virginia,United States,NA,NA,38.260393,-80.240909,28270,Sarracenia purpurea,2021,3_distribution
+3395311409,Sarracenia,purpurea,purpurea,Randolph County,West Virginia,United States,NA,NA,38.612037,-79.874765,3036,Sarracenia purpurea,2020,3_distribution
+2596102345,Sarracenia,purpurea,venosa,Burlington County,New Jersey,United States,NA,NA,39.778083,-74.564436,28060,Sarracenia purpurea,2020,3_distribution
+2868279198,Sarracenia,purpurea,venosa,Brunswick County,North Carolina,United States,NA,NA,33.879596,-78.297339,28902,Sarracenia purpurea,2020,3_distribution
+3325535716,Sarracenia,purpurea,venosa,Carteret County,North Carolina,United States,NA,NA,34.647261,-76.898478,28790,Sarracenia purpurea,2021,3_distribution
+3302371001,Sarracenia,purpurea,venosa,Columbus County,North Carolina,United States,NA,NA,34.222446,-78.680979,28846,Sarracenia purpurea,2021,3_distribution
+3456261282,Sarracenia,purpurea,venosa,Craven County,North Carolina,United States,NA,NA,34.860584,-76.891826,28762,Sarracenia purpurea,2014,3_distribution
+3963666784,Sarracenia,purpurea,venosa,Cumberland County,North Carolina,United States,NA,NA,35.009854,-78.813699,28734,Sarracenia purpurea,2017,3_distribution
+3070280662,Sarracenia,purpurea,venosa,Duplin County,North Carolina,United States,NA,NA,34.724023,-77.78011,28790,Sarracenia purpurea,2019,3_distribution
+2238820304,Sarracenia,purpurea,venosa,Harnett County,North Carolina,United States,NA,NA,35.381321,-78.884442,28706,Sarracenia purpurea,2019,3_distribution
+2626637082,Sarracenia,purpurea,venosa,Jones County,North Carolina,United States,NA,NA,34.882158,-77.178089,28762,Sarracenia purpurea,2020,3_distribution
+2234384934,Sarracenia,purpurea,venosa,Lee County,North Carolina,United States,NA,NA,35.377134,-79.205739,300,Sarracenia purpurea,1961,3_distribution
+3759302868,Sarracenia,purpurea,venosa,Montgomery County,North Carolina,United States,NA,NA,35.491636,-79.984693,28677,Sarracenia purpurea,2022,3_distribution
+2856500109,Sarracenia,purpurea,venosa,Moore County,North Carolina,United States,NA,NA,35.157256,-79.522232,28734,Sarracenia purpurea,2020,3_distribution
+3068108521,Sarracenia,purpurea,venosa,New Hanover County,North Carolina,United States,NA,NA,34.007803,-77.803353,28874,Sarracenia purpurea,2019,3_distribution
+3070273617,Sarracenia,purpurea,venosa,Onslow County,North Carolina,United States,NA,NA,34.756981,-77.623843,28790,Sarracenia purpurea,2019,3_distribution
+3335137671,Sarracenia,purpurea,venosa,Pender County,North Carolina,United States,NA,NA,34.387688,-77.866586,28846,Sarracenia purpurea,2021,3_distribution
+3391326923,Sarracenia,purpurea,venosa,Richmond County,North Carolina,United States,NA,NA,35.088985,-79.768356,28734,Sarracenia purpurea,2021,3_distribution
+2580256248,Sarracenia,purpurea,venosa,Scotland County,North Carolina,United States,NA,NA,34.930015,-79.525332,28762,Sarracenia purpurea,2020,3_distribution
+3925031727,Sarracenia,purpurea,venosa,Somerset County,Pennsylvania,United States,NA,NA,40.09847,-79.150387,28000,Sarracenia purpurea,2022,3_distribution
+2244209661,Sarracenia,purpurea,venosa,Berkeley County,South Carolina,United States,NA,NA,33.194714,-79.802841,29012,Sarracenia purpurea,2019,3_distribution
+3772753656,Sarracenia,purpurea,venosa,Chesterfield County,South Carolina,United States,NA,NA,34.564137,-80.262189,28818,Sarracenia purpurea,2022,3_distribution
+2580244628,Sarracenia,purpurea,venosa,Georgetown County,South Carolina,United States,NA,NA,33.215228,-79.3038,28984,Sarracenia purpurea,2020,3_distribution
+3455218399,Sarracenia,purpurea,venosa,Horry County,South Carolina,United States,NA,NA,33.992099,-78.879831,28902,Sarracenia purpurea,2019,3_distribution
+3785087712,Sarracenia,purpurea,venosa,Kershaw County,South Carolina,United States,NA,NA,34.432465,-80.397946,28818,Sarracenia purpurea,2022,3_distribution
+2609341260,Sarracenia,purpurea,venosa,Lexington County,South Carolina,United States,NA,NA,33.883802,-81.236582,28902,Sarracenia purpurea,2007,3_distribution
+3902940759,Sarracenia,purpurea,NA,Lac La Biche County,Alberta,Canada,NA,NA,55.454895,-110.73825,15,Sarracenia purpurea,2022,3_distribution
+2350370996,Sarracenia,purpurea,NA,Municipal District of Bonnyville,Alberta,Canada,NA,NA,54.541583,-111.250458,5,Sarracenia purpurea,2019,3_distribution
+883367057,Sarracenia,purpurea,NA,Municipal District of Lesser Slave River,Alberta,Canada,NA,NA,55.316667,-114.583333,2286,Sarracenia purpurea,1985,3_distribution
+3860286228,Sarracenia,purpurea,NA,Westlock County,Alberta,Canada,NA,NA,54.187237,-113.5261,4,Sarracenia purpurea,2022,3_distribution
+883389045,Sarracenia,purpurea,NA,Wood Buffalo,Alberta,Canada,NA,NA,56.449,-111.0368,18600,Sarracenia purpurea,1951,3_distribution
+883419025,Sarracenia,purpurea,NA,Woodlands County,Alberta,Canada,NA,NA,54.45780599910819,-114.83353300000002,6828,Sarracenia purpurea,1982,3_distribution
+3915266300,Sarracenia,purpurea,NA,Metro Vancouver Regional District,British Columbia,Canada,NA,NA,49.348889,-123.386715,500,Sarracenia purpurea,2022,3_distribution
+1703298678,Sarracenia,purpurea,NA,Division No. 1,Manitoba,Canada,NA,NA,49.376943999068,-96.108611,10000,Sarracenia purpurea,1958,3_distribution
+2645752996,Sarracenia,purpurea,NA,Division No. 12,Manitoba,Canada,239.84,0,49.974681,-96.972542,229,Sarracenia purpurea,2019,3_distribution
+2645273561,Sarracenia,purpurea,NA,Division No. 13,Manitoba,Canada,205,0,50.252839,-96.655039,5,Sarracenia purpurea,2019,3_distribution
+3873335966,Sarracenia,purpurea,NA,Division No. 18,Manitoba,Canada,NA,NA,50.994113,-97.384829,26293,Sarracenia purpurea,2022,3_distribution
+2564816657,Sarracenia,purpurea,NA,Division No. 19,Manitoba,Canada,NA,NA,50.630333,-95.390583,100,Sarracenia purpurea,2016,3_distribution
+2641337920,Sarracenia,purpurea,NA,Cape Breton County,Nova Scotia,Canada,NA,NA,45.961375,-60.640228,6,Sarracenia purpurea,2020,3_distribution
+3955733272,Sarracenia,purpurea,NA,Cape Breton Regional Municipality,Nova Scotia,Canada,10.38,0,45.911613,-59.948899,10,Sarracenia purpurea,2020,3_distribution
+3951809031,Sarracenia,purpurea,NA,Digby County,Nova Scotia,Canada,47.17,0,44.649728,-65.759738,10,Sarracenia purpurea,2019,3_distribution
+3067588984,Sarracenia,purpurea,NA,Guysborough County,Nova Scotia,Canada,NA,NA,45.104952,-61.958016,4,Sarracenia purpurea,2020,3_distribution
+2242921643,Sarracenia,purpurea,NA,Guysborough District Municipality,Nova Scotia,Canada,NA,NA,45.152888,-61.650007,27222,Sarracenia purpurea,2019,3_distribution
+3952212572,Sarracenia,purpurea,NA,Halifax County,Nova Scotia,Canada,-34.75,0,44.471804,-63.801193,16,Sarracenia purpurea,2020,3_distribution
+3415394970,Sarracenia,purpurea,NA,Hants County,Nova Scotia,Canada,NA,NA,44.808577,-63.837543,194,Sarracenia purpurea,2021,3_distribution
+2646725313,Sarracenia,purpurea,NA,Lunenburg County,Nova Scotia,Canada,29.89,0,44.489418,-64.099083,32,Sarracenia purpurea,2019,3_distribution
+2423043686,Sarracenia,purpurea,NA,Membertou First Nation,Nova Scotia,Canada,NA,NA,46.116147,-60.192003,12023,Sarracenia purpurea,2019,3_distribution
+3923673541,Sarracenia,purpurea,NA,Municipality of Colchester,Nova Scotia,Canada,NA,NA,45.465996,-63.836188,18,Sarracenia purpurea,2022,3_distribution
+2814092016,Sarracenia,purpurea,NA,Municipality of Pictou County,Nova Scotia,Canada,NA,NA,45.405973,-62.848485,38,Sarracenia purpurea,2020,3_distribution
+1571140699,Sarracenia,purpurea,NA,Municipality of the County of Annapolis,Nova Scotia,Canada,NA,NA,44.346521,-65.340498,490,Sarracenia purpurea,2017,3_distribution
+1990543187,Sarracenia,purpurea,NA,Municipality of the County of Cumberland,Nova Scotia,Canada,NA,NA,45.455891,-64.858982,15,Sarracenia purpurea,2015,3_distribution
+3070578437,Sarracenia,purpurea,NA,Municipality of the County of Inverness,Nova Scotia,Canada,NA,NA,46.81351,-60.768602,181,Sarracenia purpurea,2015,3_distribution
+2814257854,Sarracenia,purpurea,NA,Municipality of the County of Kings,Nova Scotia,Canada,NA,NA,44.953698,-64.442085,5,Sarracenia purpurea,2020,3_distribution
+2573786525,Sarracenia,purpurea,NA,Municipality of the County of Richmond,Nova Scotia,Canada,NA,NA,45.595353,-60.665508,5,Sarracenia purpurea,2018,3_distribution
+1883514836,Sarracenia,purpurea,NA,Municipality of Victoria County,Nova Scotia,Canada,NA,NA,46.641713,-60.510835,26967,Sarracenia purpurea,2018,3_distribution
+3955333357,Sarracenia,purpurea,NA,Queens County,Nova Scotia,Canada,27.66,0,43.830374,-64.844338,5,Sarracenia purpurea,2021,3_distribution
+3953414208,Sarracenia,purpurea,NA,Shelburne County,Nova Scotia,Canada,-3.13,0,43.703316,-65.070853,79,Sarracenia purpurea,2020,3_distribution
+2236248071,Sarracenia,purpurea,NA,Town of Wolfville,Nova Scotia,Canada,NA,NA,45.086883,-64.368301,150,Sarracenia purpurea,2019,3_distribution
+3958751168,Sarracenia,purpurea,NA,Yarmouth County,Nova Scotia,Canada,-15.21,0,43.76778,-65.836243,7,Sarracenia purpurea,2021,3_distribution
+3956921666,Sarracenia,purpurea,NA,Algoma District,Ontario,Canada,167.91,0,46.967413,-84.713465,6,Sarracenia purpurea,2021,3_distribution
+1806340248,Sarracenia,purpurea,NA,Brant County,Ontario,Canada,NA,NA,43.246386,-80.220139,27505,Sarracenia purpurea,2015,3_distribution
+3954461468,Sarracenia,purpurea,NA,Bruce County,Ontario,Canada,115.42,0,44.732145,-81.278602,9,Sarracenia purpurea,2021,3_distribution
+3958292909,Sarracenia,purpurea,NA,Cochrane District,Ontario,Canada,249.15,0,49.104727,-81.337244,5,Sarracenia purpurea,2021,3_distribution
+2331868966,Sarracenia,purpurea,NA,Dufferin County,Ontario,Canada,NA,NA,43.906903,-80.401313,4,Sarracenia purpurea,2019,3_distribution
+3058842664,Sarracenia,purpurea,NA,Durham Region,Ontario,Canada,NA,NA,44.095342,-78.881896,27380,Sarracenia purpurea,2021,3_distribution
+1805418308,Sarracenia,purpurea,NA,Frontenac County,Ontario,Canada,NA,NA,44.8269,-76.758428,100,Sarracenia purpurea,2015,3_distribution
+2641473354,Sarracenia,purpurea,NA,Grey County,Ontario,Canada,NA,NA,44.121604,-81.005063,263,Sarracenia purpurea,2020,3_distribution
+2644064850,Sarracenia,purpurea,NA,Haliburton County,Ontario,Canada,406.69,0,45.427085,-78.816681,5,Sarracenia purpurea,2019,3_distribution
+2423108970,Sarracenia,purpurea,NA,Hastings County,Ontario,Canada,NA,NA,45.166417,-77.859557,27222,Sarracenia purpurea,2019,3_distribution
+883389015,Sarracenia,purpurea,NA,Kenora District,Ontario,Canada,NA,NA,49.666667,-93.716667,2360,Sarracenia purpurea,1982,3_distribution
+2645711911,Sarracenia,purpurea,NA,Lanark County,Ontario,Canada,155.95,0,45.062552,-76.552656,20,Sarracenia purpurea,2019,3_distribution
+2648884938,Sarracenia,purpurea,NA,Lennox and Addington County,Ontario,Canada,54.4,0,44.185202,-76.772807,28,Sarracenia purpurea,2019,3_distribution
+3903132879,Sarracenia,purpurea,NA,Manitoulin District,Ontario,Canada,NA,NA,45.606098,-82.144314,15,Sarracenia purpurea,2016,3_distribution
+3956499905,Sarracenia,purpurea,NA,Muskoka District,Ontario,Canada,226.43,0,44.895559,-79.431106,64,Sarracenia purpurea,2022,3_distribution
+3953574010,Sarracenia,purpurea,NA,Nipissing District,Ontario,Canada,408.79,0,45.554719,-78.688862,9,Sarracenia purpurea,2021,3_distribution
+1883477477,Sarracenia,purpurea,NA,Oxford County,Ontario,Canada,NA,NA,43.180049,-80.64083,15,Sarracenia purpurea,2018,3_distribution
+1453362918,Sarracenia,purpurea,NA,Parry Sound District,Ontario,Canada,NA,NA,45.839627,-80.0499,8,Sarracenia purpurea,2009,3_distribution
+2269275385,Sarracenia,purpurea,NA,Peel Region,Ontario,Canada,NA,NA,43.875967,-80.113883,4,Sarracenia purpurea,2019,3_distribution
+2465322936,Sarracenia,purpurea,NA,Peterborough County,Ontario,Canada,NA,NA,44.264325,-78.469962,2023,Sarracenia purpurea,1989,3_distribution
+1291085036,Sarracenia,purpurea,NA,Prescott and Russell Counties,Ontario,Canada,NA,NA,45.565987,-74.840927,2979,Sarracenia purpurea,2016,3_distribution
+2012953626,Sarracenia,purpurea,NA,Rainy River District,Ontario,Canada,NA,NA,48.801482,-94.290125,122,Sarracenia purpurea,2016,3_distribution
+1703208307,Sarracenia,purpurea,NA,Region of Waterloo,Ontario,Canada,NA,NA,43.417471,-80.635529,132,Sarracenia purpurea,2014,3_distribution
+1836630270,Sarracenia,purpurea,NA,Renfrew County,Ontario,Canada,NA,NA,45.333444,-76.493082,122,Sarracenia purpurea,2017,3_distribution
+2818710534,Sarracenia,purpurea,NA,Simcoe County,Ontario,Canada,NA,NA,44.221034,-79.974053,27348,Sarracenia purpurea,2016,3_distribution
+3957986698,Sarracenia,purpurea,NA,"Stormont, Dundas and Glengarry Counties",Ontario,Canada,61.5,0,45.273605,-74.690084,6,Sarracenia purpurea,2021,3_distribution
+1831224709,Sarracenia,purpurea,NA,Sudbury District,Ontario,Canada,NA,NA,46.291512,-80.788013,54,Sarracenia purpurea,2004,3_distribution
+2859110156,Sarracenia,purpurea,NA,Thunder Bay District,Ontario,Canada,NA,NA,48.298261,-89.268202,5100,Sarracenia purpurea,1912,3_distribution
+2859480969,Sarracenia,purpurea,NA,Timiskaming District,Ontario,Canada,381,NA,47.663667,-80.69933,50,Sarracenia purpurea,2018,3_distribution
+2429246915,Sarracenia,purpurea,NA,Wellington County,Ontario,Canada,NA,NA,43.407765,-80.263137,6,Sarracenia purpurea,2019,3_distribution
+1899285478,Sarracenia,purpurea,NA,York Region,Ontario,Canada,NA,NA,43.948578,-79.616407,123,Sarracenia purpurea,1926,3_distribution
+3958256581,Sarracenia,purpurea,NA,Abitibi,Québec,Canada,361.59,0,48.413895,-78.181608,48,Sarracenia purpurea,2021,3_distribution
+2823279944,Sarracenia,purpurea,NA,Abitibi-Ouest,Québec,Canada,NA,NA,48.70776,-78.7615,10,Sarracenia purpurea,2020,3_distribution
+2646922815,Sarracenia,purpurea,NA,Agglomération de Montréal,Québec,Canada,16.55,0,45.478561,-73.554857,65,Sarracenia purpurea,2019,3_distribution
+2244243731,Sarracenia,purpurea,NA,Antoine-Labelle,Québec,Canada,NA,NA,46.176986,-75.224363,752,Sarracenia purpurea,2013,3_distribution
+2294539406,Sarracenia,purpurea,NA,Arthabaska,Québec,Canada,NA,NA,46.024961,-72.080354,61,Sarracenia purpurea,2019,3_distribution
+3872975173,Sarracenia,purpurea,NA,Bellechasse,Québec,Canada,NA,NA,46.776984,-71.021913,196,Sarracenia purpurea,2022,3_distribution
+3335458469,Sarracenia,purpurea,NA,Brome-Missisquoi,Québec,Canada,NA,NA,45.257917,-73.02088,4,Sarracenia purpurea,2021,3_distribution
+2826193870,Sarracenia,purpurea,NA,Charlevoix-Est,Québec,Canada,NA,NA,47.759895,-69.945908,8,Sarracenia purpurea,2020,3_distribution
+3873730656,Sarracenia,purpurea,NA,Coaticook (MRC),Québec,Canada,NA,NA,45.166857,-71.521125,27222,Sarracenia purpurea,2022,3_distribution
+1945438293,Sarracenia,purpurea,NA,D'Autray,Québec,Canada,NA,NA,45.992648,-73.297151,182,Sarracenia purpurea,2012,3_distribution
+3953164124,Sarracenia,purpurea,NA,Jamésie,Québec,Canada,293.1,0,49.564462,-79.274545,5,Sarracenia purpurea,2022,3_distribution
+1931520366,Sarracenia,purpurea,NA,L'Érable,Québec,Canada,NA,NA,46.377766,-71.832437,698,Sarracenia purpurea,2018,3_distribution
+2818729089,Sarracenia,purpurea,NA,La Côte-de-Beaupré,Québec,Canada,NA,NA,47.357747,-71.115725,26871,Sarracenia purpurea,2020,3_distribution
+3951915143,Sarracenia,purpurea,NA,La Haute-Côte-Nord,Québec,Canada,-1.15,0,48.332529,-69.395052,8,Sarracenia purpurea,2021,3_distribution
+3902464389,Sarracenia,purpurea,NA,La Haute-Yamaska,Québec,Canada,NA,NA,45.419827,-72.49113,15,Sarracenia purpurea,2022,3_distribution
+2826402089,Sarracenia,purpurea,NA,La Nouvelle-Beauce,Québec,Canada,NA,NA,46.453118,-70.840833,12,Sarracenia purpurea,2020,3_distribution
+1563430251,Sarracenia,purpurea,NA,La Rivière-du-Nord,Québec,Canada,NA,NA,45.983119,-74.018044,10,Sarracenia purpurea,2017,3_distribution
+1291121936,Sarracenia,purpurea,NA,La Vallée-de-l'Or,Québec,Canada,NA,NA,47.860559,-77.357308,516,Sarracenia purpurea,2016,3_distribution
+1291122013,Sarracenia,purpurea,NA,La Vallée-de-la-Gatineau,Québec,Canada,NA,NA,46.785288,-76.218446,516,Sarracenia purpurea,2016,3_distribution
+2646286398,Sarracenia,purpurea,NA,Lac-Saint-Jean-Est,Québec,Canada,81.61,0,48.691842,-71.958555,19,Sarracenia purpurea,2019,3_distribution
+2429362413,Sarracenia,purpurea,NA,Le Domaine-du-Roy,Québec,Canada,NA,NA,48.813458,-72.810203,6,Sarracenia purpurea,2019,3_distribution
+3949885351,Sarracenia,purpurea,NA,Le Fjord-du-Saguenay,Québec,Canada,142.6,0,48.533003,-71.091286,25,Sarracenia purpurea,2022,3_distribution
+3955737942,Sarracenia,purpurea,NA,Le Golfe-du-Saint-Laurent,Québec,Canada,6.09,0,50.680573,-59.241153,12,Sarracenia purpurea,2022,3_distribution
+2646302084,Sarracenia,purpurea,NA,Le Granit,Québec,Canada,306.84,0,45.830171,-71.110579,10598,Sarracenia purpurea,2019,3_distribution
+2329919910,Sarracenia,purpurea,NA,Le Haut-Saint-François,Québec,Canada,NA,NA,45.341587,-71.752655,250,Sarracenia purpurea,2007,3_distribution
+2579314366,Sarracenia,purpurea,NA,Le Rocher-Percé,Québec,Canada,NA,NA,48.625889,-64.208859,244,Sarracenia purpurea,2019,3_distribution
+3957613889,Sarracenia,purpurea,NA,Les Appalaches,Québec,Canada,296.9,0,45.970227,-71.142157,19,Sarracenia purpurea,2021,3_distribution
+2856793388,Sarracenia,purpurea,NA,Les Chenaux,Québec,Canada,NA,NA,46.538722,-72.618508,4,Sarracenia purpurea,2020,3_distribution
+2851224840,Sarracenia,purpurea,NA,Les Collines-de-l'Outaouais,Québec,Canada,NA,NA,45.659728,-75.675461,15,Sarracenia purpurea,2020,3_distribution
+3952519775,Sarracenia,purpurea,NA,Les Etchemins,Québec,Canada,374,0,46.146865,-70.43906,18,Sarracenia purpurea,2021,3_distribution
+2311303958,Sarracenia,purpurea,NA,Les Laurentides,Québec,Canada,NA,NA,46.044487,-74.478357,6,Sarracenia purpurea,2019,3_distribution
+3953027207,Sarracenia,purpurea,NA,Les Pays-d'en-Haut,Québec,Canada,283.38,0,45.857971,-74.446784,65,Sarracenia purpurea,2020,3_distribution
+3954085442,Sarracenia,purpurea,NA,Les Sources,Québec,Canada,240.31,0,45.759756,-71.940694,4,Sarracenia purpurea,2020,3_distribution
+3888708562,Sarracenia,purpurea,NA,Lotbinière (MRC),Québec,Canada,NA,NA,46.613494,-71.415788,357,Sarracenia purpurea,2022,3_distribution
+3956852683,Sarracenia,purpurea,NA,Manicouagan,Québec,Canada,18.3,0,49.092617,-68.259513,6,Sarracenia purpurea,2022,3_distribution
+1453092712,Sarracenia,purpurea,NA,Maria-Chapdelaine,Québec,Canada,NA,NA,48.923158,-72.690747,8,Sarracenia purpurea,2016,3_distribution
+2236284268,Sarracenia,purpurea,NA,Matawinie,Québec,Canada,NA,NA,46.5692,-73.3764,908,Sarracenia purpurea,2011,3_distribution
+3953016510,Sarracenia,purpurea,NA,Mékinac,Québec,Canada,208.65,0,46.83701,-72.294203,16,Sarracenia purpurea,2020,3_distribution
+2975897640,Sarracenia,purpurea,NA,Memphrémagog,Québec,Canada,241.6,0,45.039236,-72.173278,24,Sarracenia purpurea,2020,3_distribution
+3958577172,Sarracenia,purpurea,NA,Minganie,Québec,Canada,7.63,0,50.213013,-63.796905,5,Sarracenia purpurea,2021,3_distribution
+2397665463,Sarracenia,purpurea,NA,Pontiac (MRC),Québec,Canada,NA,NA,46.15551,-77.544656,27063,Sarracenia purpurea,2019,3_distribution
+3330631209,Sarracenia,purpurea,NA,Portneuf,Québec,Canada,NA,NA,46.870995,-71.837404,2,Sarracenia purpurea,2021,3_distribution
+3951947218,Sarracenia,purpurea,NA,Québec (Agglomération),Québec,Canada,125.22,0,46.865621,-71.27681,65,Sarracenia purpurea,2019,3_distribution
+3873061178,Sarracenia,purpurea,NA,Rimouski-Neigette,Québec,Canada,NA,NA,48.320642,-68.835328,10,Sarracenia purpurea,2022,3_distribution
+2283163950,Sarracenia,purpurea,NA,Rivière-du-Loup (MRC),Québec,Canada,NA,NA,47.967194,-69.430175,10,Sarracenia purpurea,2019,3_distribution
+2447977961,Sarracenia,purpurea,NA,Sept-Rivières,Québec,Canada,NA,NA,50.043854,-66.981915,489,Sarracenia purpurea,2018,3_distribution
+3960097349,Sarracenia,purpurea,NA,Shawinigan,Québec,Canada,253.75,0,46.6759,-73.0139,5,Sarracenia purpurea,2022,3_distribution
+2283254317,Sarracenia,purpurea,NA,Témiscamingue,Québec,Canada,NA,NA,46.71071,-78.96213,10,Sarracenia purpurea,2019,3_distribution
+3321298539,Sarracenia,purpurea,NA,Témiscouata,Québec,Canada,NA,NA,47.650761,-68.459872,71,Sarracenia purpurea,2021,3_distribution
+2611081395,Sarracenia,purpurea,NA,Trois-Rivières,Québec,Canada,NA,NA,46.408047,-72.513256,237,Sarracenia purpurea,2020,3_distribution
+1837088514,Sarracenia,purpurea,NA,Ville de Saguenay,Québec,Canada,NA,NA,48.510464,-71.249213,61,Sarracenia purpurea,2015,3_distribution
+3958351992,Sarracenia,purpurea,NA,Division No. 14,Saskatchewan,Canada,334.21,0,53.345447,-104.0569,8,Sarracenia purpurea,2021,3_distribution
+3874185523,Sarracenia,purpurea,NA,Division No. 15,Saskatchewan,Canada,NA,NA,53.016574,-106.011449,2290,Sarracenia purpurea,2013,3_distribution
+883389730,Sarracenia,purpurea,NA,Division No. 18,Saskatchewan,Canada,NA,NA,59.05,-109.566667,2239,Sarracenia purpurea,1935,3_distribution
+768798150,Sarracenia,purpurea,NA,Fairfield County,Connecticut,United States,121,0,41.39472,-73.45388,5000,Sarracenia purpurea,1929,3_distribution
+768794211,Sarracenia,purpurea,NA,Hartford County,Connecticut,United States,15,0,41.78222,-72.61194,5000,Sarracenia purpurea,1895,3_distribution
+768794236,Sarracenia,purpurea,NA,Litchfield County,Connecticut,United States,78,0,41.54444,-73.20888,5000,Sarracenia purpurea,1905,3_distribution
+891063033,Sarracenia,purpurea,NA,Middlesex County,Connecticut,United States,NA,NA,41.55672,-72.587081,27770,Sarracenia purpurea,2011,3_distribution
+3949467828,Sarracenia,purpurea,NA,New Haven County,Connecticut,United States,-16.27,0,41.276636,-72.869523,38,Sarracenia purpurea,2019,3_distribution
+768794210,Sarracenia,purpurea,NA,New London County,Connecticut,United States,7,0,41.35,-72.07833,5000,Sarracenia purpurea,1937,3_distribution
+768794223,Sarracenia,purpurea,NA,Tolland County,Connecticut,United States,195,0,41.76305,-72.23361,5000,Sarracenia purpurea,1898,3_distribution
+3499402341,Sarracenia,purpurea,NA,New Castle County,Delaware,United States,NA,NA,39.701042,-75.600277,28060,Sarracenia purpurea,2020,3_distribution
+2465110242,Sarracenia,purpurea,NA,Meriwether County,Georgia,United States,NA,NA,32.926598,-84.839628,29039,Sarracenia purpurea,2019,3_distribution
+3966597551,Sarracenia,purpurea,NA,Union County,Georgia,United States,NA,NA,34.686534,-84.015292,28790,Sarracenia purpurea,2015,3_distribution
+2595880866,Sarracenia,purpurea,NA,Cook County,Illinois,United States,NA,NA,41.85,-87.65,10000,Sarracenia purpurea,1878,3_distribution
+3954157400,Sarracenia,purpurea,NA,Kane County,Illinois,United States,221.33,0,41.997057,-88.307034,10,Sarracenia purpurea,2021,3_distribution
+1270052907,Sarracenia,purpurea,NA,Lake County,Illinois,United States,NA,NA,42.322047,-88.172047,27646,Sarracenia purpurea,2016,3_distribution
+3860273589,Sarracenia,purpurea,NA,McHenry County,Illinois,United States,NA,NA,42.460701,-88.252579,27630,Sarracenia purpurea,2022,3_distribution
+3112837427,Sarracenia,purpurea,NA,Hendricks County,Indiana,United States,NA,NA,39.86226,-86.344335,28030,Sarracenia purpurea,2021,3_distribution
+2561139796,Sarracenia,purpurea,NA,Lake County,Indiana,United States,NA,NA,41.623877,-87.419519,3.04,Sarracenia purpurea,1905,3_distribution
+3416216493,Sarracenia,purpurea,NA,LaPorte County,Indiana,United States,NA,NA,41.620847,-86.81974,27754,Sarracenia purpurea,2021,3_distribution
+1913688566,Sarracenia,purpurea,NA,Porter County,Indiana,United States,NA,NA,41.658038,-87.112693,27754,Sarracenia purpurea,2015,3_distribution
+1838306946,Sarracenia,purpurea,NA,Steuben County,Indiana,United States,NA,NA,41.634638,-85.06703,27754,Sarracenia purpurea,2018,3_distribution
+1802780711,Sarracenia,purpurea,NA,Aroostook County,Maine,United States,NA,NA,46.920327,-67.95111,26935,Sarracenia purpurea,2014,3_distribution
+3960214524,Sarracenia,purpurea,NA,Cumberland County,Maine,United States,127.23,0,43.978124,-70.679755,84,Sarracenia purpurea,2021,3_distribution
+1291168622,Sarracenia,purpurea,NA,Franklin County,Maine,United States,NA,NA,44.805751,-70.34988,27253,Sarracenia purpurea,2014,3_distribution
+3952507704,Sarracenia,purpurea,NA,Hancock County,Maine,United States,-15.85,0,44.243606,-68.273889,6,Sarracenia purpurea,2020,3_distribution
+1702457456,Sarracenia,purpurea,NA,Kennebec County,Maine,United States,NA,NA,44.418317,-69.912819,27301,Sarracenia purpurea,2013,3_distribution
+1891318059,Sarracenia,purpurea,NA,Knox County,Maine,United States,NA,NA,44.282899,-69.154237,27348,Sarracenia purpurea,2018,3_distribution
+1978463146,Sarracenia,purpurea,NA,Lincoln County,Maine,United States,NA,NA,43.834516,-69.410515,27411,Sarracenia purpurea,2014,3_distribution
+1948771868,Sarracenia,purpurea,NA,Oxford County,Maine,United States,NA,NA,44.982457,-71.015092,27253,Sarracenia purpurea,2018,3_distribution
+3955775159,Sarracenia,purpurea,NA,Penobscot County,Maine,United States,10.74,0,44.869104,-68.723514,5,Sarracenia purpurea,2021,3_distribution
+2645844294,Sarracenia,purpurea,NA,Piscataquis County,Maine,United States,239,0,45.286837,-69.503051,6,Sarracenia purpurea,2019,3_distribution
+3953323090,Sarracenia,purpurea,NA,Sagadahoc County,Maine,United States,30.8,0,43.803304,-69.779444,6165,Sarracenia purpurea,2021,3_distribution
+1323013314,Sarracenia,purpurea,NA,Somerset County,Maine,United States,NA,NA,44.619149,-69.69508,27269,Sarracenia purpurea,2016,3_distribution
+2234384205,Sarracenia,purpurea,NA,Waldo County,Maine,United States,NA,NA,44.321155,-69.01189,843,Sarracenia purpurea,1962,3_distribution
+768794244,Sarracenia,purpurea,NA,Washington County,Maine,United States,0,0,44.53277,-67.59833,5000,Sarracenia purpurea,1952,3_distribution
+3044595464,Sarracenia,purpurea,NA,York County,Maine,United States,NA,NA,43.440905,-70.310188,27474,Sarracenia purpurea,2015,3_distribution
+3307542012,Sarracenia,purpurea,NA,Anne Arundel County,Maryland,United States,NA,NA,39.157372,-76.406116,28151,Sarracenia purpurea,2006,3_distribution
+3320907994,Sarracenia,purpurea,NA,Charles County,Maryland,United States,NA,NA,38.599727,-76.944375,28240,Sarracenia purpurea,2021,3_distribution
+3325683172,Sarracenia,purpurea,NA,Frederick County,Maryland,United States,NA,NA,39.588114,-77.531317,28090,Sarracenia purpurea,2021,3_distribution
+911505305,Sarracenia,purpurea,NA,Garrett County,Maryland,United States,NA,NA,39.636009,-79.442728,28060,Sarracenia purpurea,2014,3_distribution
+2976178371,Sarracenia,purpurea,NA,Prince George's County,Maryland,United States,18.2,0,38.84022,-76.903219000000007,13,Sarracenia purpurea,2020,3_distribution
+2814267477,Sarracenia,purpurea,NA,Wicomico County,Maryland,United States,NA,NA,38.343596,-75.497984,28270,Sarracenia purpurea,2005,3_distribution
+2802767331,Sarracenia,purpurea,NA,Worcester County,Maryland,United States,NA,NA,38.211118,-75.524075,28270,Sarracenia purpurea,2015,3_distribution
+768794245,Sarracenia,purpurea,NA,Barnstable County,Massachusetts,United States,6,0,41.65,-70.24111,5000,Sarracenia purpurea,1968,3_distribution
+2576355694,Sarracenia,purpurea,NA,Berkshire County,Massachusetts,United States,NA,NA,42.672186,-73.165335,27599,Sarracenia purpurea,1992,3_distribution
+1249273132,Sarracenia,purpurea,NA,Bristol County,Massachusetts,United States,NA,NA,42.004489,-71.171224,10000,Sarracenia purpurea,2015,3_distribution
+699273081,Sarracenia,purpurea,NA,Essex County,Massachusetts,United States,NA,NA,42.60416,-70.89111,5000,Sarracenia purpurea,1887,3_distribution
+3954073524,Sarracenia,purpurea,NA,Franklin County,Massachusetts,United States,150.91,0,42.548205,-72.275178,32,Sarracenia purpurea,2021,3_distribution
+768794218,Sarracenia,purpurea,NA,Hampden County,Massachusetts,United States,NA,NA,42.01944,-72.77,5000,Sarracenia purpurea,1910,3_distribution
+1272092029,Sarracenia,purpurea,NA,Hampshire County,Massachusetts,United States,NA,NA,42.320532,-72.530029,27646,Sarracenia purpurea,2016,3_distribution
+3956003793,Sarracenia,purpurea,NA,Middlesex County,Massachusetts,United States,64.63,0,42.22974,-71.580104,7,Sarracenia purpurea,2021,3_distribution
+1453331811,Sarracenia,purpurea,NA,Norfolk County,Massachusetts,United States,NA,NA,42.23094,-71.00866,27646,Sarracenia purpurea,2012,3_distribution
+1092901929,Sarracenia,purpurea,NA,Plymouth County,Massachusetts,United States,NA,NA,42.108283,-71.000533,10000,Sarracenia purpurea,2015,3_distribution
+3454993987,Sarracenia,purpurea,NA,Suffolk County,Massachusetts,United States,NA,NA,42.265379,-71.141805,1788,Sarracenia purpurea,1940,3_distribution
+2999039776,Sarracenia,purpurea,NA,Worcester County,Massachusetts,United States,NA,NA,42.561889,-71.70271,27630,Sarracenia purpurea,2016,3_distribution
+1989004881,Sarracenia,purpurea,NA,Alger County,Michigan,United States,NA,NA,46.436869,-86.813262,110,Sarracenia purpurea,1950,3_distribution
+3959160003,Sarracenia,purpurea,NA,Allegan County,Michigan,United States,211.66,0,42.664078,-85.568258,44,Sarracenia purpurea,2022,3_distribution
+3955239737,Sarracenia,purpurea,NA,Alpena County,Michigan,United States,178.4,0,45.090508,-83.312447,6,Sarracenia purpurea,2022,3_distribution
+2265888662,Sarracenia,purpurea,NA,Antrim County,Michigan,United States,NA,NA,44.920424,-85.344633,27253,Sarracenia purpurea,2019,3_distribution
+3333231537,Sarracenia,purpurea,NA,Baraga County,Michigan,United States,NA,NA,46.539492,-88.125002,26999,Sarracenia purpurea,2021,3_distribution
+1249276974,Sarracenia,purpurea,NA,Barry County,Michigan,United States,NA,NA,42.506044,-85.224141,27630,Sarracenia purpurea,2016,3_distribution
+1989074007,Sarracenia,purpurea,NA,Benzie County,Michigan,United States,NA,NA,44.751441,-86.063399,594,Sarracenia purpurea,1984,3_distribution
+3307325592,Sarracenia,purpurea,NA,Berrien County,Michigan,United States,NA,NA,41.93714,-86.564147,27723,Sarracenia purpurea,2010,3_distribution
+3413415738,Sarracenia,purpurea,NA,Charlevoix County,Michigan,United States,NA,NA,45.317454,-85.255807,2312,Sarracenia purpurea,1931,3_distribution
+1989439311,Sarracenia,purpurea,NA,Cheboygan County,Michigan,United States,NA,NA,45.608487,-84.599002,339,Sarracenia purpurea,1917,3_distribution
+3951939367,Sarracenia,purpurea,NA,Chippewa County,Michigan,United States,136,0,45.969329,-84.074776,5,Sarracenia purpurea,2022,3_distribution
+2814190868,Sarracenia,purpurea,NA,Clinton County,Michigan,United States,NA,NA,42.778106,-84.596017,27599,Sarracenia purpurea,2020,3_distribution
+2252043703,Sarracenia,purpurea,NA,Crawford County,Michigan,United States,NA,NA,44.609575,-84.704379,27285,Sarracenia purpurea,2010,3_distribution
+1989236421,Sarracenia,purpurea,NA,Delta County,Michigan,United States,NA,NA,45.745247,-87.06458,5.8,Sarracenia purpurea,1899,3_distribution
+3320947512,Sarracenia,purpurea,NA,Dickinson County,Michigan,United States,NA,NA,46.227391,-87.952977,27031,Sarracenia purpurea,2021,3_distribution
+1988828279,Sarracenia,purpurea,NA,Emmet County,Michigan,United States,NA,NA,45.74513,-84.833222,1,Sarracenia purpurea,1919,3_distribution
+3399412428,Sarracenia,purpurea,NA,Genesee County,Michigan,United States,NA,NA,42.891207,-83.613386,27568,Sarracenia purpurea,2021,3_distribution
+2574299096,Sarracenia,purpurea,NA,Gogebic County,Michigan,United States,NA,NA,46.392913,-89.486024,27031,Sarracenia purpurea,2016,3_distribution
+1989112192,Sarracenia,purpurea,NA,Grand Traverse County,Michigan,United States,NA,NA,44.650307,-85.517607,1.3,Sarracenia purpurea,1954,3_distribution
+3892420451,Sarracenia,purpurea,NA,Hillsdale County,Michigan,United States,NA,NA,42.066504,-84.661173,27692,Sarracenia purpurea,2022,3_distribution
+1989436597,Sarracenia,purpurea,NA,Houghton County,Michigan,United States,NA,NA,47.24407,-88.43595,1.72,Sarracenia purpurea,1926,3_distribution
+2311281459,Sarracenia,purpurea,NA,Ingham County,Michigan,United States,NA,NA,42.723122,-84.545794,27599,Sarracenia purpurea,2019,3_distribution
+3355334005,Sarracenia,purpurea,NA,Iron County,Michigan,United States,NA,NA,46.159606,-88.534783,27063,Sarracenia purpurea,2019,3_distribution
+2294433332,Sarracenia,purpurea,NA,Jackson County,Michigan,United States,NA,NA,42.186539,-84.35708,27692,Sarracenia purpurea,2019,3_distribution
+2978186549,Sarracenia,purpurea,NA,Kalamazoo County,Michigan,United States,222.95,0,42.188752,-85.581996,4,Sarracenia purpurea,2020,3_distribution
+3955218999,Sarracenia,purpurea,NA,Kalkaska County,Michigan,United States,310.36,0,44.604614,-85.30516,15,Sarracenia purpurea,2021,3_distribution
+1989526953,Sarracenia,purpurea,NA,Kent County,Michigan,United States,NA,NA,42.96336,-85.668086,10.66,Sarracenia purpurea,1893,3_distribution
+1988851039,Sarracenia,purpurea,NA,Keweenaw County,Michigan,United States,NA,NA,48.110529,-88.53597,1.09,Sarracenia purpurea,1942,3_distribution
+3958873822,Sarracenia,purpurea,NA,Lake County,Michigan,United States,394,0,44.157983,-85.572011,26,Sarracenia purpurea,2020,3_distribution
+1950014333,Sarracenia,purpurea,NA,Lapeer County,Michigan,United States,NA,NA,43.09066,-83.388528,27537,Sarracenia purpurea,2018,3_distribution
+1989104475,Sarracenia,purpurea,NA,Leelanau County,Michigan,United States,NA,NA,44.913367,-85.952754,361,Sarracenia purpurea,1984,3_distribution
+1988961476,Sarracenia,purpurea,NA,Lenawee County,Michigan,United States,NA,NA,41.980704,-83.941517,326,Sarracenia purpurea,1984,3_distribution
+1500267768,Sarracenia,purpurea,NA,Livingston County,Michigan,United States,NA,NA,42.524403,-83.942597,27615,Sarracenia purpurea,2016,3_distribution
+1572357579,Sarracenia,purpurea,NA,Luce County,Michigan,United States,NA,NA,46.740037,-85.237411,26951,Sarracenia purpurea,2017,3_distribution
+1989279333,Sarracenia,purpurea,NA,Mackinac County,Michigan,United States,NA,NA,45.788709,-84.451251,5.42,Sarracenia purpurea,1932,3_distribution
+3384082859,Sarracenia,purpurea,NA,Macomb County,Michigan,United States,NA,NA,42.79019,-83.027538,27599,Sarracenia purpurea,2021,3_distribution
+1988750236,Sarracenia,purpurea,NA,Marquette County,Michigan,United States,NA,NA,46.83144,-87.919855,222,Sarracenia purpurea,1981,3_distribution
+2366108628,Sarracenia,purpurea,NA,Mecosta County,Michigan,United States,NA,NA,43.657524,-85.251389,27443,Sarracenia purpurea,2019,3_distribution
+2992681981,Sarracenia,purpurea,NA,Menominee County,Michigan,United States,NA,NA,45.566917,-87.609414,27158,Sarracenia purpurea,2018,3_distribution
+2596397219,Sarracenia,purpurea,NA,Missaukee County,Michigan,United States,NA,NA,44.455526,-85.248088,27317,Sarracenia purpurea,2011,3_distribution
+2563616722,Sarracenia,purpurea,NA,Montmorency County,Michigan,United States,NA,NA,45.049707,-84.329739,27222,Sarracenia purpurea,2018,3_distribution
+3355418470,Sarracenia,purpurea,NA,Muskegon County,Michigan,United States,NA,NA,43.28282,-86.346144,27505,Sarracenia purpurea,2021,3_distribution
+1270055899,Sarracenia,purpurea,NA,Newaygo County,Michigan,United States,NA,NA,43.615585,-85.910505,27427,Sarracenia purpurea,2016,3_distribution
+2649340923,Sarracenia,purpurea,NA,Oakland County,Michigan,United States,282.43,0,42.644353,-83.470029,65,Sarracenia purpurea,2019,3_distribution
+2976859921,Sarracenia,purpurea,NA,Ogemaw County,Michigan,United States,266.36,0,44.417486,-84.024124,5,Sarracenia purpurea,2020,3_distribution
+899957644,Sarracenia,purpurea,NA,Ontonagon County,Michigan,United States,NA,NA,46.391658,-89.262638,10000,Sarracenia purpurea,2008,3_distribution
+1571161564,Sarracenia,purpurea,NA,Oscoda County,Michigan,United States,NA,NA,44.517655,-84.017786,27317,Sarracenia purpurea,2017,3_distribution
+1988990837,Sarracenia,purpurea,NA,Otsego County,Michigan,United States,NA,NA,44.917834,-84.531466,522,Sarracenia purpurea,1962,3_distribution
+1988720644,Sarracenia,purpurea,NA,Presque Isle County,Michigan,United States,NA,NA,45.55926,-84.13287,1.61,Sarracenia purpurea,1949,3_distribution
+1989011743,Sarracenia,purpurea,NA,Roscommon County,Michigan,United States,NA,NA,44.286574,-84.832406,2.41,Sarracenia purpurea,1973,3_distribution
+1305164314,Sarracenia,purpurea,NA,Saint Joseph County,Michigan,United States,NA,NA,42.032709,-85.586109,27677,Sarracenia purpurea,2016,3_distribution
+1211981105,Sarracenia,purpurea,NA,Schoolcraft County,Michigan,United States,NA,NA,46.219133,-86.552876,27031,Sarracenia purpurea,2012,3_distribution
+3958182019,Sarracenia,purpurea,NA,Washtenaw County,Michigan,United States,264.11,0,42.317808,-84.083473,3,Sarracenia purpurea,2019,3_distribution
+2265395883,Sarracenia,purpurea,NA,Aitkin County,Minnesota,United States,NA,NA,46.827346,-93.193316,364,Sarracenia purpurea,1995,3_distribution
+3957389686,Sarracenia,purpurea,NA,Beltrami County,Minnesota,United States,380,0,47.543772,-94.814793,9,Sarracenia purpurea,2020,3_distribution
+3859260028,Sarracenia,purpurea,NA,Carlton County,Minnesota,United States,NA,NA,46.63302,-92.951478,26967,Sarracenia purpurea,2022,3_distribution
+3956326072,Sarracenia,purpurea,NA,Carver County,Minnesota,United States,287,0,44.86034,-93.617828,8,Sarracenia purpurea,2022,3_distribution
+1571178741,Sarracenia,purpurea,NA,Cass County,Minnesota,United States,NA,NA,47.342467,-94.221329,26855,Sarracenia purpurea,2017,3_distribution
+1572338847,Sarracenia,purpurea,NA,Chisago County,Minnesota,United States,NA,NA,45.406625,-93.001237,27142,Sarracenia purpurea,2017,3_distribution
+883389411,Sarracenia,purpurea,NA,Clearwater County,Minnesota,United States,NA,NA,47.283333,-95.283333,2391,Sarracenia purpurea,1981,3_distribution
+2265451530,Sarracenia,purpurea,NA,Cook County,Minnesota,United States,NA,NA,47.94826,-90.818364,969,Sarracenia purpurea,1989,3_distribution
+3858632872,Sarracenia,purpurea,NA,Crow Wing County,Minnesota,United States,NA,NA,46.571229,-93.998828,26999,Sarracenia purpurea,2022,3_distribution
+3860816447,Sarracenia,purpurea,NA,Dakota County,Minnesota,United States,NA,NA,44.850504,-93.205168,27253,Sarracenia purpurea,2022,3_distribution
+891085922,Sarracenia,purpurea,NA,Hennepin County,Minnesota,United States,NA,NA,44.802331,-93.316629,10000,Sarracenia purpurea,2012,3_distribution
+3384846395,Sarracenia,purpurea,NA,Hubbard County,Minnesota,United States,NA,NA,47.053045,-95.020381,26903,Sarracenia purpurea,2021,3_distribution
+2988465329,Sarracenia,purpurea,NA,Isanti County,Minnesota,United States,NA,NA,45.556686,-93.37652,27158,Sarracenia purpurea,2018,3_distribution
+2856831416,Sarracenia,purpurea,NA,Itasca County,Minnesota,United States,NA,NA,47.674692,-93.266516,26807,Sarracenia purpurea,2016,3_distribution
+1092895756,Sarracenia,purpurea,NA,Koochiching County,Minnesota,United States,NA,NA,47.973321,-94.035615,10000,Sarracenia purpurea,2012,3_distribution
+3958946491,Sarracenia,purpurea,NA,Lake County,Minnesota,United States,558.86,0,47.546219,-91.304762,3,Sarracenia purpurea,2020,3_distribution
+1291094556,Sarracenia,purpurea,NA,Lake of the Woods County,Minnesota,United States,NA,NA,48.614307,-95.008833,26630,Sarracenia purpurea,2015,3_distribution
+1024185346,Sarracenia,purpurea,NA,Pine County,Minnesota,United States,NA,NA,45.864329,-92.773097,27095,Sarracenia purpurea,2014,3_distribution
+1099974515,Sarracenia,purpurea,NA,Roseau County,Minnesota,United States,NA,NA,48.76486,-95.422502,10000,Sarracenia purpurea,2015,3_distribution
+3339879363,Sarracenia,purpurea,NA,Saint Louis County,Minnesota,United States,371,NA,48.3791749990635,-92.571987,3,Sarracenia purpurea,2021,3_distribution
+1850974015,Sarracenia,purpurea,NA,Washington County,Minnesota,United States,NA,NA,45.183412,-92.861632,27222,Sarracenia purpurea,2018,3_distribution
+768794248,Sarracenia,purpurea,NA,Belknap County,New Hampshire,United States,NA,NA,43.555,-71.61,2,Sarracenia purpurea,1965,3_distribution
+2235515906,Sarracenia,purpurea,NA,Carroll County,New Hampshire,United States,NA,NA,43.812119,-71.227867,27411,Sarracenia purpurea,2018,3_distribution
+3955868006,Sarracenia,purpurea,NA,Cheshire County,New Hampshire,United States,407.24,0,43.031922,-72.184189,5,Sarracenia purpurea,2021,3_distribution
+768794243,Sarracenia,purpurea,NA,Coos County,New Hampshire,United States,NA,NA,45.15638,-71.17083,5000,Sarracenia purpurea,1953,3_distribution
+606656806,Sarracenia,purpurea,NA,Grafton County,New Hampshire,United States,NA,NA,43.90463,-71.82052,5000,Sarracenia purpurea,2011,3_distribution
+2974514050,Sarracenia,purpurea,NA,Hillsborough County,New Hampshire,United States,51.34,0,42.816197,-71.582182,9,Sarracenia purpurea,2020,3_distribution
+1882646861,Sarracenia,purpurea,NA,Merrimack County,New Hampshire,United States,180,NA,43.364211,-71.762798,130,Sarracenia purpurea,2018,3_distribution
+1323014642,Sarracenia,purpurea,NA,Rockingham County,New Hampshire,United States,NA,NA,42.889478,-71.430249,27552,Sarracenia purpurea,2016,3_distribution
+2818514207,Sarracenia,purpurea,NA,Strafford County,New Hampshire,United States,NA,NA,43.336114,-71.133323,27505,Sarracenia purpurea,2020,3_distribution
+891141224,Sarracenia,purpurea,NA,Sullivan County,New Hampshire,United States,NA,NA,43.407115,-72.061016,10000,Sarracenia purpurea,2011,3_distribution
+2859358143,Sarracenia,purpurea,NA,Atlantic County,New Jersey,United States,NA,NA,39.524838,-74.938226,3036,Sarracenia purpurea,1816,3_distribution
+3960014566,Sarracenia,purpurea,NA,Burlington County,New Jersey,United States,33.26,0,39.880525,-74.532007,15,Sarracenia purpurea,2021,3_distribution
+2859354304,Sarracenia,purpurea,NA,Camden County,New Jersey,United States,NA,NA,39.769838,-74.887386,3036,Sarracenia purpurea,1881,3_distribution
+3117890538,Sarracenia,purpurea,NA,Cape May County,New Jersey,United States,NA,NA,39.274776,-74.70163,28121,Sarracenia purpurea,2021,3_distribution
+2868356943,Sarracenia,purpurea,NA,Cumberland County,New Jersey,United States,NA,NA,39.298271,-74.946151,28121,Sarracenia purpurea,2020,3_distribution
+2311286071,Sarracenia,purpurea,NA,Gloucester County,New Jersey,United States,NA,NA,39.768064,-75.050192,28060,Sarracenia purpurea,2019,3_distribution
+1703191309,Sarracenia,purpurea,NA,Mercer County,New Jersey,United States,NA,NA,40.245028,-74.517962,27969,Sarracenia purpurea,2017,3_distribution
+2885153347,Sarracenia,purpurea,NA,Middlesex County,New Jersey,United States,NA,NA,40.445727,-74.429017,1609,Sarracenia purpurea,1896,3_distribution
+3456968090,Sarracenia,purpurea,NA,Monmouth County,New Jersey,United States,NA,NA,40.233269,-74.40681,27969,Sarracenia purpurea,2021,3_distribution
+3958852366,Sarracenia,purpurea,NA,Morris County,New Jersey,United States,296.82,0,40.842006,-74.526401,16,Sarracenia purpurea,2022,3_distribution
+3091221557,Sarracenia,purpurea,NA,Ocean County,New Jersey,United States,NA,NA,39.952895,-74.295701,301,Sarracenia purpurea,1939,3_distribution
+3341239659,Sarracenia,purpurea,NA,Passaic County,New Jersey,United States,NA,NA,41.13899,-74.39474,587,Sarracenia purpurea,1894,3_distribution
+2005305478,Sarracenia,purpurea,NA,Sussex County,New Jersey,United States,NA,NA,41.102496,-74.71017,27847,Sarracenia purpurea,1990,3_distribution
+3302075717,Sarracenia,purpurea,NA,Warren County,New Jersey,United States,NA,NA,40.958901,-74.982536,27877,Sarracenia purpurea,2021,3_distribution
+3954172869,Sarracenia,purpurea,NA,Allegany County,New York,United States,446.1,0,42.397394,-78.185151,15,Sarracenia purpurea,2021,3_distribution
+1932354386,Sarracenia,purpurea,NA,Broome County,New York,United States,NA,NA,42.264004,-75.932099,27661,Sarracenia purpurea,2016,3_distribution
+1291094983,Sarracenia,purpurea,NA,Cattaraugus County,New York,United States,NA,NA,42.303787,-78.802548,27646,Sarracenia purpurea,2016,3_distribution
+3302069698,Sarracenia,purpurea,NA,Cayuga County,New York,United States,NA,NA,43.027877,-76.554676,27537,Sarracenia purpurea,2021,3_distribution
+2366141608,Sarracenia,purpurea,NA,Chautauqua County,New York,United States,NA,NA,42.245638,-79.37946,27661,Sarracenia purpurea,2019,3_distribution
+3959659804,Sarracenia,purpurea,NA,Chenango County,New York,United States,457.66,0,42.495595,-75.826112,10,Sarracenia purpurea,2022,3_distribution
+1668885152,Sarracenia,purpurea,NA,Clinton County,New York,United States,NA,NA,44.556529,-73.356674,27301,Sarracenia purpurea,2017,3_distribution
+2814331437,Sarracenia,purpurea,NA,Cortland County,New York,United States,NA,NA,42.42064,-76.236904,27630,Sarracenia purpurea,2020,3_distribution
+3957402689,Sarracenia,purpurea,NA,Delaware County,New York,United States,544,0,42.475133,-74.926915,11,Sarracenia purpurea,2020,3_distribution
+3335348347,Sarracenia,purpurea,NA,Dutchess County,New York,United States,NA,NA,41.859442,-73.939032,27723,Sarracenia purpurea,2021,3_distribution
+2803012023,Sarracenia,purpurea,NA,Erie County,New York,United States,NA,NA,42.487521,-78.671545,27630,Sarracenia purpurea,2020,3_distribution
+1890071908,Sarracenia,purpurea,NA,Essex County,New York,United States,NA,NA,44.355595,-73.833042,27348,Sarracenia purpurea,2007,3_distribution
+3956204528,Sarracenia,purpurea,NA,Franklin County,New York,United States,506.28,0,44.452428,-74.263772,10,Sarracenia purpurea,2022,3_distribution
+1990612020,Sarracenia,purpurea,NA,Fulton County,New York,United States,NA,NA,43.021101,-74.539875,27537,Sarracenia purpurea,2018,3_distribution
+1305157622,Sarracenia,purpurea,NA,Genesee County,New York,United States,NA,NA,43.004596,-78.177803,27521,Sarracenia purpurea,2016,3_distribution
+3889286340,Sarracenia,purpurea,NA,Greene County,New York,United States,NA,NA,42.389404999999996,-74.024512,27661,Sarracenia purpurea,2014,3_distribution
+3952663509,Sarracenia,purpurea,NA,Hamilton County,New York,United States,540.52,0,43.78858,-74.749908,35,Sarracenia purpurea,2021,3_distribution
+1453330717,Sarracenia,purpurea,NA,Herkimer County,New York,United States,NA,NA,43.615573,-74.963157,27427,Sarracenia purpurea,2015,3_distribution
+3302288325,Sarracenia,purpurea,NA,Lewis County,New York,United States,NA,NA,43.732927,-75.277287,27443,Sarracenia purpurea,2015,3_distribution
+2898292626,Sarracenia,purpurea,NA,Madison County,New York,United States,NA,NA,42.849444,-75.727862,27568,Sarracenia purpurea,2020,3_distribution
+1265545153,Sarracenia,purpurea,NA,Monroe County,New York,United States,NA,NA,43.00522,-77.542018,27521,Sarracenia purpurea,2013,3_distribution
+3873957343,Sarracenia,purpurea,NA,Montgomery County,New York,United States,NA,NA,42.908208,-74.196521,27568,Sarracenia purpurea,2022,3_distribution
+3957617677,Sarracenia,purpurea,NA,Onondaga County,New York,United States,131.69,0,43.177905,-76.405324,8,Sarracenia purpurea,2022,3_distribution
+3302151985,Sarracenia,purpurea,NA,Ontario County,New York,United States,NA,NA,43.032113,-77.187764,27537,Sarracenia purpurea,2021,3_distribution
+1098903341,Sarracenia,purpurea,NA,Orleans County,New York,United States,NA,NA,43.145883,-78.183318,10000,Sarracenia purpurea,2015,3_distribution
+2397705024,Sarracenia,purpurea,NA,Oswego County,New York,United States,NA,NA,43.514995,-76.344301,27458,Sarracenia purpurea,2016,3_distribution
+2988310654,Sarracenia,purpurea,NA,Otsego County,New York,United States,NA,NA,42.586491,-74.887349,27630,Sarracenia purpurea,2020,3_distribution
+2850916323,Sarracenia,purpurea,NA,Rensselaer County,New York,United States,NA,NA,42.60833,-73.483538,27599,Sarracenia purpurea,2020,3_distribution
+1806355343,Sarracenia,purpurea,NA,Rockland County,New York,United States,NA,NA,41.23398,-74.12837,27816,Sarracenia purpurea,2014,3_distribution
+415930593,Sarracenia,purpurea,NA,Saint Lawrence County,New York,United States,NA,NA,44.15694,-74.79888,20000,Sarracenia purpurea,1958,3_distribution
+2864573804,Sarracenia,purpurea,NA,Saratoga County,New York,United States,NA,NA,43.014156,-73.879123,27537,Sarracenia purpurea,2020,3_distribution
+3960281418,Sarracenia,purpurea,NA,Schenectady,New York,United States,105.01,0,42.777806,-73.965347,65,Sarracenia purpurea,2021,3_distribution
+3874065043,Sarracenia,purpurea,NA,Schenectady County,New York,United States,NA,NA,42.905646,-74.062459,27568,Sarracenia purpurea,2022,3_distribution
+2422898473,Sarracenia,purpurea,NA,Seneca County,New York,United States,NA,NA,42.927033,-76.844934,27568,Sarracenia purpurea,2019,3_distribution
+768794249,Sarracenia,purpurea,NA,Suffolk County,New York,United States,NA,NA,40.66493,-73.06495,1,Sarracenia purpurea,1974,3_distribution
+3333115518,Sarracenia,purpurea,NA,Sullivan County,New York,United States,NA,NA,41.676453,-74.888485,27754,Sarracenia purpurea,2012,3_distribution
+3873205344,Sarracenia,purpurea,NA,Tioga County,New York,United States,NA,NA,42.028732,-76.14755,27692,Sarracenia purpurea,2021,3_distribution
+2576341196,Sarracenia,purpurea,NA,Tompkins County,New York,United States,NA,NA,42.350834,-76.628548,27661,Sarracenia purpurea,2009,3_distribution
+3947676767,Sarracenia,purpurea,NA,Ulster County,New York,United States,NA,NA,42.100763,-74.188666,27692,Sarracenia purpurea,2015,3_distribution
+2611231114,Sarracenia,purpurea,NA,Warren County,New York,United States,NA,NA,43.280602,-73.717131,27505,Sarracenia purpurea,2020,3_distribution
+2397486253,Sarracenia,purpurea,NA,Washington County,New York,United States,NA,NA,43.494553,-73.529164,27474,Sarracenia purpurea,2019,3_distribution
+891084977,Sarracenia,purpurea,NA,Wayne County,New York,United States,NA,NA,43.103365,-77.086418,10000,Sarracenia purpurea,2012,3_distribution
+1880611641,Sarracenia,purpurea,NA,Wyoming County,New York,United States,NA,NA,42.551857,-78.185925,27630,Sarracenia purpurea,2017,3_distribution
+3953200750,Sarracenia,purpurea,NA,Brunswick County,North Carolina,United States,-17.28,0,34.088487,-78.291843,9,Sarracenia purpurea,2020,3_distribution
+1135356712,Sarracenia,purpurea,NA,Carteret County,North Carolina,United States,NA,NA,34.609807000000004,-76.908962,28790,Sarracenia purpurea,2015,3_distribution
+1134970676,Sarracenia,purpurea,NA,Cumberland County,North Carolina,United States,NA,NA,35.063462,-79.062486,28734,Sarracenia purpurea,2009,3_distribution
+1098906642,Sarracenia,purpurea,NA,Harnett County,North Carolina,United States,NA,NA,35.28547,-78.875901,28706,Sarracenia purpurea,2015,3_distribution
+3881389482,Sarracenia,purpurea,NA,Henderson County,North Carolina,United States,NA,NA,35.166895,-82.542275,28734,Sarracenia purpurea,2022,3_distribution
+1944382288,Sarracenia,purpurea,NA,Hoke County,North Carolina,United States,NA,NA,35.012451,-79.205528,28734,Sarracenia purpurea,2018,3_distribution
+2802758713,Sarracenia,purpurea,NA,Jackson County,North Carolina,United States,NA,NA,35.197577,-83.14991,28734,Sarracenia purpurea,2020,3_distribution
+3337547580,Sarracenia,purpurea,NA,Johnston County,North Carolina,United States,NA,NA,35.416915,-78.250033,28677,Sarracenia purpurea,2021,3_distribution
+3802377875,Sarracenia,purpurea,NA,Macon County,North Carolina,United States,NA,NA,35.238216,-83.676902,28706,Sarracenia purpurea,2022,3_distribution
+1571076249,Sarracenia,purpurea,NA,Martin County,North Carolina,United States,NA,NA,35.695679,-77.054952,28649,Sarracenia purpurea,2017,3_distribution
+1880462019,Sarracenia,purpurea,NA,Moore County,North Carolina,United States,NA,NA,35.15476,-79.448371,28734,Sarracenia purpurea,2018,3_distribution
+3952620791,Sarracenia,purpurea,NA,New Hanover County,North Carolina,United States,-26.78,0,34.205329,-77.905446,8,Sarracenia purpurea,2021,3_distribution
+1562953984,Sarracenia,purpurea,NA,Onslow County,North Carolina,United States,NA,NA,34.484588,-77.429869,28818,Sarracenia purpurea,2017,3_distribution
+3959467335,Sarracenia,purpurea,NA,Pender County,North Carolina,United States,-6.18,0,34.431394,-77.721033,10,Sarracenia purpurea,2021,3_distribution
+2244302381,Sarracenia,purpurea,NA,Pitt County,North Carolina,United States,NA,NA,35.600349,-77.445198,28649,Sarracenia purpurea,2009,3_distribution
+2294608894,Sarracenia,purpurea,NA,Richmond County,North Carolina,United States,NA,NA,35.148436,-79.707774,28734,Sarracenia purpurea,2019,3_distribution
+1088963578,Sarracenia,purpurea,NA,Scotland County,North Carolina,United States,NA,NA,34.944949,-79.420853,28762,Sarracenia purpurea,2015,3_distribution
+1932892830,Sarracenia,purpurea,NA,Transylvania County,North Carolina,United States,NA,NA,35.143442,-82.598555,3283,Sarracenia purpurea,1979,3_distribution
+2451741931,Sarracenia,purpurea,NA,Ashland County,Ohio,United States,NA,NA,40.782898,-82.167134,27908,Sarracenia purpurea,2019,3_distribution
+2981185312,Sarracenia,purpurea,NA,Fairfield County,Ohio,United States,NA,NA,39.900824,-82.528608,28030,Sarracenia purpurea,2020,3_distribution
+891107418,Sarracenia,purpurea,NA,Holmes County,Ohio,United States,NA,NA,40.602832,-82.053311,10000,Sarracenia purpurea,2012,3_distribution
+3959386324,Sarracenia,purpurea,NA,Portage County,Ohio,United States,316.19,0,41.118987,-81.262189,5,Sarracenia purpurea,2021,3_distribution
+1249302603,Sarracenia,purpurea,NA,Stark County,Ohio,United States,NA,NA,40.896362,-81.496236,27877,Sarracenia purpurea,2014,3_distribution
+891169032,Sarracenia,purpurea,NA,Summit County,Ohio,United States,NA,NA,40.914719,-81.426047,10000,Sarracenia purpurea,2013,3_distribution
+1571056282,Sarracenia,purpurea,NA,Wayne County,Ohio,United States,NA,NA,40.735073,-82.125342,10000,Sarracenia purpurea,2015,3_distribution
+2460128969,Sarracenia,purpurea,NA,Allegheny County,Pennsylvania,United States,NA,NA,40.469991,-79.878507,27939,Sarracenia purpurea,2016,3_distribution
+3466144392,Sarracenia,purpurea,NA,Bedford County,Pennsylvania,United States,NA,NA,40.282217,-78.635666,27969,Sarracenia purpurea,2020,3_distribution
+2898508476,Sarracenia,purpurea,NA,Cambria County,Pennsylvania,United States,NA,NA,40.263339,-78.68942,27969,Sarracenia purpurea,2020,3_distribution
+1703154821,Sarracenia,purpurea,NA,Carbon County,Pennsylvania,United States,NA,NA,40.966351,-75.751957,27877,Sarracenia purpurea,2012,3_distribution
+3044705191,Sarracenia,purpurea,NA,Centre County,Pennsylvania,United States,NA,NA,40.808762,-78.038952,27877,Sarracenia purpurea,2020,3_distribution
+3961338584,Sarracenia,purpurea,NA,Clearfield County,Pennsylvania,United States,NA,NA,40.952476,-78.114947,27877,Sarracenia purpurea,2011,3_distribution
+2859082871,Sarracenia,purpurea,NA,Clinton County,Pennsylvania,United States,NA,NA,41.42451,-77.848326,3036,Sarracenia purpurea,1952,3_distribution
+3873366305,Sarracenia,purpurea,NA,Columbia County,Pennsylvania,United States,NA,NA,41.242859,-76.376919,27816,Sarracenia purpurea,2022,3_distribution
+2859079882,Sarracenia,purpurea,NA,Crawford County,Pennsylvania,United States,NA,NA,41.812918,-79.838856,1000,Sarracenia purpurea,1925,3_distribution
+3865365923,Sarracenia,purpurea,NA,Elk County,Pennsylvania,United States,NA,NA,41.484059,-78.647303,2662,Sarracenia purpurea,1909,3_distribution
+2859096541,Sarracenia,purpurea,NA,Erie County,Pennsylvania,United States,NA,NA,41.973561,-80.025819,4000,Sarracenia purpurea,1882,3_distribution
+2859113364,Sarracenia,purpurea,NA,Fayette County,Pennsylvania,United States,710,NA,39.76536,-79.467806,300,Sarracenia purpurea,1984,3_distribution
+3873674715,Sarracenia,purpurea,NA,Indiana County,Pennsylvania,United States,NA,NA,40.636226,-79.258889,27908,Sarracenia purpurea,2022,3_distribution
+1890037022,Sarracenia,purpurea,NA,Lackawanna County,Pennsylvania,United States,NA,NA,41.315237,-75.582793,27816,Sarracenia purpurea,2018,3_distribution
+2859482793,Sarracenia,purpurea,NA,Lycoming County,Pennsylvania,United States,610,NA,41.514822,-76.887277,50,Sarracenia purpurea,2017,3_distribution
+2859080875,Sarracenia,purpurea,NA,Mercer County,Pennsylvania,United States,NA,NA,41.211631,-80.260221,2362,Sarracenia purpurea,1923,3_distribution
+2859508430,Sarracenia,purpurea,NA,Monroe County,Pennsylvania,United States,567,NA,41.137239,-75.456729,100,Sarracenia purpurea,2014,3_distribution
+2898485514,Sarracenia,purpurea,NA,Montgomery County,Pennsylvania,United States,NA,NA,40.033956,-75.284593,28000,Sarracenia purpurea,2020,3_distribution
+3865369894,Sarracenia,purpurea,NA,Northampton County,Pennsylvania,United States,NA,NA,40.898742,-75.152918,1185,Sarracenia purpurea,1910,3_distribution
+3955711851,Sarracenia,purpurea,NA,Philadelphia County,Pennsylvania,United States,26.74,0,40.097501,-74.972442,65,Sarracenia purpurea,2020,3_distribution
+3865098920,Sarracenia,purpurea,NA,Pike County,Pennsylvania,United States,NA,NA,41.285291,-75.077399,2014,Sarracenia purpurea,1890,3_distribution
+2859095495,Sarracenia,purpurea,NA,Somerset County,Pennsylvania,United States,NA,NA,39.766549,-79.186787,100,Sarracenia purpurea,1986,3_distribution
+2859080876,Sarracenia,purpurea,NA,Sullivan County,Pennsylvania,United States,NA,NA,41.464104,-76.259042,1500,Sarracenia purpurea,1909,3_distribution
+2859504498,Sarracenia,purpurea,NA,Susquehanna County,Pennsylvania,United States,439,NA,41.792955,-75.614932,631,Sarracenia purpurea,2005,3_distribution
+3865368968,Sarracenia,purpurea,NA,Tioga County,Pennsylvania,United States,555,NA,41.582069,-77.413376,932,Sarracenia purpurea,2004,3_distribution
+2859370862,Sarracenia,purpurea,NA,Warren County,Pennsylvania,United States,NA,NA,41.982031,-79.540791,500,Sarracenia purpurea,1934,3_distribution
+1291097143,Sarracenia,purpurea,NA,Wayne County,Pennsylvania,United States,NA,NA,41.577025,-75.187839,27770,Sarracenia purpurea,2016,3_distribution
+3067959288,Sarracenia,purpurea,NA,Westmoreland County,Pennsylvania,United States,NA,NA,40.177676,-79.150471,28000,Sarracenia purpurea,2020,3_distribution
+3966589486,Sarracenia,purpurea,NA,Berkeley County,South Carolina,United States,NA,NA,33.220177,-80.083664,28984,Sarracenia purpurea,2022,3_distribution
+1848761120,Sarracenia,purpurea,NA,Chesterfield County,South Carolina,United States,NA,NA,34.623758,-80.333176,28790,Sarracenia purpurea,2018,3_distribution
+3953856513,Sarracenia,purpurea,NA,Dorchester County,South Carolina,United States,-17,0,33.120957,-80.405613,13,Sarracenia purpurea,2020,3_distribution
+1935601756,Sarracenia,purpurea,NA,Horry County,South Carolina,United States,NA,NA,33.844798,-78.969121,28902,Sarracenia purpurea,2018,3_distribution
+3113632440,Sarracenia,purpurea,NA,Kershaw County,South Carolina,United States,NA,NA,34.11161,-80.71805,28874,Sarracenia purpurea,2021,3_distribution
+1024232396,Sarracenia,purpurea,NA,Lexington County,South Carolina,United States,NA,NA,33.907769,-81.203823,28902,Sarracenia purpurea,2014,3_distribution
+3302074070,Sarracenia,purpurea,NA,Oconee County,South Carolina,United States,NA,NA,34.672708,-82.992111,28790,Sarracenia purpurea,2021,3_distribution
+3902056086,Sarracenia,purpurea,NA,Pickens County,South Carolina,United States,NA,NA,35.006702,-82.583031,28734,Sarracenia purpurea,2022,3_distribution
+891039037,Sarracenia,purpurea,NA,Addison County,Vermont,United States,NA,NA,43.843769,-73.018126,10000,Sarracenia purpurea,1987,3_distribution
+1024225518,Sarracenia,purpurea,NA,Bennington County,Vermont,United States,NA,NA,43.252057,-72.855116,27505,Sarracenia purpurea,2014,3_distribution
+1323004017,Sarracenia,purpurea,NA,Caledonia County,Vermont,United States,NA,NA,44.22925,-72.220181,27332,Sarracenia purpurea,2016,3_distribution
+3499499303,Sarracenia,purpurea,NA,Chittenden County,Vermont,United States,NA,NA,44.557016,-73.341838,10000,Sarracenia purpurea,2015,3_distribution
+1305118046,Sarracenia,purpurea,NA,Essex County,Vermont,United States,NA,NA,44.729367,-71.63541,27269,Sarracenia purpurea,2010,3_distribution
+1052583088,Sarracenia,purpurea,NA,Franklin County,Vermont,United States,NA,NA,44.94844,-73.08609,27253,Sarracenia purpurea,2012,3_distribution
+1273855239,Sarracenia,purpurea,NA,Lamoille County,Vermont,United States,NA,NA,44.670293,-72.758119,27269,Sarracenia purpurea,2016,3_distribution
+3802594603,Sarracenia,purpurea,NA,Orange County,Vermont,United States,NA,NA,43.795581,-72.191541,27443,Sarracenia purpurea,2022,3_distribution
+1143547633,Sarracenia,purpurea,NA,Orleans County,Vermont,United States,NA,NA,44.757188,-71.962548,27285,Sarracenia purpurea,2015,3_distribution
+2859357140,Sarracenia,purpurea,NA,Rutland County,Vermont,United States,NA,NA,43.79812,-73.087612,2804,Sarracenia purpurea,1890,3_distribution
+891120714,Sarracenia,purpurea,NA,Washington County,Vermont,United States,NA,NA,44.379,-72.303394,10000,Sarracenia purpurea,2010,3_distribution
+1249301447,Sarracenia,purpurea,NA,Windham County,Vermont,United States,NA,NA,43.058201,-72.881524,10000,Sarracenia purpurea,2013,3_distribution
+923908826,Sarracenia,purpurea,NA,Windsor County,Vermont,United States,NA,NA,43.489587,-72.653821,10000,Sarracenia purpurea,2008,3_distribution
+2329884462,Sarracenia,purpurea,NA,Amherst County,Virginia,United States,NA,NA,37.60183,-79.397644,250,Sarracenia purpurea,1995,3_distribution
+3331193377,Sarracenia,purpurea,NA,Caroline County,Virginia,United States,NA,NA,37.949959,-77.429634,1,Sarracenia purpurea,2018,3_distribution
+3963505961,Sarracenia,purpurea,NA,Southampton County,Virginia,United States,NA,NA,36.850684,-76.871728,28476,Sarracenia purpurea,2019,3_distribution
+3314515636,Sarracenia,purpurea,NA,Sussex County,Virginia,United States,NA,NA,36.9746,-76.98802,28476,Sarracenia purpurea,2021,3_distribution
+1272111005,Sarracenia,purpurea,NA,Greenbrier County,West Virginia,United States,NA,NA,38.023121,-80.308903,28285,Sarracenia purpurea,2016,3_distribution
+3872962061,Sarracenia,purpurea,NA,Pocahontas County,West Virginia,United States,NA,NA,38.305437,-80.224678,28270,Sarracenia purpurea,2010,3_distribution
+3902661988,Sarracenia,purpurea,NA,Preston County,West Virginia,United States,NA,NA,39.481127,-79.579328,28090,Sarracenia purpurea,2014,3_distribution
+1986541789,Sarracenia,purpurea,NA,Randolph County,West Virginia,United States,NA,NA,38.708145,-79.880638,28210,Sarracenia purpurea,2018,3_distribution
+3949771181,Sarracenia,purpurea,NA,Tucker County,West Virginia,United States,943.29,0,39.149581,-79.504923,65,Sarracenia purpurea,2021,3_distribution
+3032151155,Sarracenia,purpurea,NA,Webster County,West Virginia,United States,NA,NA,38.370029,-80.30827,28270,Sarracenia purpurea,2020,3_distribution
+2234526461,Sarracenia,rosea,NA,Baldwin County,Alabama,United States,NA,NA,30.515195,-87.473869,3036,Sarracenia rosea,1966,3_distribution
+3079576059,Sarracenia,rosea,NA,Escambia County,Alabama,United States,NA,NA,31.145265,-86.766849,29278,Sarracenia rosea,2007,3_distribution
+3881608631,Sarracenia,rosea,NA,Mobile County,Alabama,United States,NA,NA,30.708263,-88.132016,29330,Sarracenia rosea,2004,3_distribution
+3327979070,Sarracenia,rosea,NA,Monroe County,Alabama,United States,NA,NA,31.363674,-87.543402,29252,Sarracenia rosea,2021,3_distribution
+2238913469,Sarracenia,rosea,NA,Washington County,Alabama,United States,NA,NA,31.181908,-88.374873,29278,Sarracenia rosea,2019,3_distribution
+3759279597,Sarracenia,rosea,NA,Bay County,Florida,United States,NA,NA,30.058463,-85.511223,29407,Sarracenia rosea,2022,3_distribution
+3307400197,Sarracenia,rosea,NA,Escambia County,Florida,United States,NA,NA,30.728951,-87.418739,29330,Sarracenia rosea,2021,3_distribution
+2992679805,Sarracenia,rosea,NA,Franklin County,Florida,United States,NA,NA,29.844249,-84.936521,29433,Sarracenia rosea,2008,3_distribution
+3320933232,Sarracenia,rosea,NA,Gulf County,Florida,United States,NA,NA,30.170994,-85.168919,29407,Sarracenia rosea,2021,3_distribution
+3079876688,Sarracenia,rosea,NA,Holmes County,Florida,United States,NA,NA,30.73804,-85.848175,29330,Sarracenia rosea,2021,3_distribution
+1802634420,Sarracenia,rosea,NA,Liberty County,Florida,United States,NA,NA,30.144083,-85.074477,29407,Sarracenia rosea,2017,3_distribution
+2234382771,Sarracenia,rosea,NA,Okaloosa County,Florida,United States,NA,NA,30.715531,-86.601275,969,Sarracenia rosea,1960,3_distribution
+1847521073,Sarracenia,rosea,NA,Santa Rosa County,Florida,United States,NA,NA,30.820326,-86.791491,29304,Sarracenia rosea,2018,3_distribution
+2234781125,Sarracenia,rosea,NA,Walton County,Florida,United States,NA,NA,30.26357,-86.018068,29382,Sarracenia rosea,2015,3_distribution
+3709965927,Sarracenia,rosea,NA,Randolph County,Georgia,United States,NA,NA,31.671576,-84.9096,3263,Sarracenia rosea,1948,3_distribution
+1990001001,Sarracenia,rosea,NA,Jackson County,Mississippi,United States,NA,NA,30.442221,-88.449243,1283,Sarracenia rosea,1963,3_distribution
+3873554605,Sarracenia,rubra,gulfensis,Holmes County,Florida,United States,NA,NA,30.79406,-85.873201,29330,Sarracenia rubra,2022,3_distribution
+3499620713,Sarracenia,rubra,gulfensis,Okaloosa County,Florida,United States,NA,NA,30.684696,-86.683728,29330,Sarracenia rubra,2017,3_distribution
+2234383764,Sarracenia,rubra,gulfensis,Santa Rosa County,Florida,United States,2,0,30.583333,-86.930278,100,Sarracenia rubra,1990,3_distribution
+2234382673,Sarracenia,rubra,gulfensis,Walton County,Florida,United States,33.5,6.5,30.614167,-86.348889,100,Sarracenia rubra,1990,3_distribution
+3873869889,Sarracenia,rubra,gulfensis,Washington County,Florida,United States,NA,NA,30.785848,-85.806165,29330,Sarracenia rubra,2022,3_distribution
+3709829134,Sarracenia,rubra,rubra,Bulloch County,Georgia,United States,NA,NA,32.48586,-81.928484,6909,Sarracenia rubra,1936,3_distribution
+2234382847,Sarracenia,rubra,rubra,Crawford County,Georgia,United States,121.5,0.5,32.713333,-83.8975,100,Sarracenia rubra,1990,3_distribution
+3709797737,Sarracenia,rubra,rubra,Early County,Georgia,United States,NA,NA,31.250281,-85.046245,3649,Sarracenia rubra,1947,3_distribution
+3709836289,Sarracenia,rubra,rubra,Macon County,Georgia,United States,NA,NA,32.46787,-83.98591,5711,Sarracenia rubra,1936,3_distribution
+2234382583,Sarracenia,rubra,rubra,Marion County,Georgia,United States,165,3,32.484722,-84.601389,300,Sarracenia rubra,1990,3_distribution
+3709808790,Sarracenia,rubra,rubra,Richmond County,Georgia,United States,NA,NA,33.408129,-82.187617,873,Sarracenia rubra,1991,3_distribution
+3709800655,Sarracenia,rubra,rubra,Tattnall County,Georgia,United States,NA,NA,32.097589,-82.127341,3409,Sarracenia rubra,1957,3_distribution
+3709966156,Sarracenia,rubra,rubra,Taylor County,Georgia,United States,117.5,1.5,32.6,-84.186944,300,Sarracenia rubra,1990,3_distribution
+3858355684,Sarracenia,rubra,rubra,Brunswick County,North Carolina,United States,NA,NA,34.067965,-78.26122,28874,Sarracenia rubra,2003,3_distribution
+3457110970,Sarracenia,rubra,rubra,Carteret County,North Carolina,United States,NA,NA,34.784568,-76.829462,28790,Sarracenia rubra,2014,3_distribution
+3061617371,Sarracenia,rubra,rubra,New Hanover County,North Carolina,United States,NA,NA,34.235556,-77.886357,28846,Sarracenia rubra,2020,3_distribution
+3391689018,Sarracenia,rubra,rubra,Pender County,North Carolina,United States,NA,NA,34.551164,-77.715131,28818,Sarracenia rubra,2021,3_distribution
+3963625123,Sarracenia,rubra,rubra,Richmond County,North Carolina,United States,NA,NA,35.073563,-79.74281,28734,Sarracenia rubra,2022,3_distribution
+3067667828,Sarracenia,rubra,rubra,Scotland County,North Carolina,United States,NA,NA,34.880745,-79.400059,28762,Sarracenia rubra,2020,3_distribution
+1990635905,Sarracenia,rubra,rubra,Aiken County,South Carolina,United States,NA,NA,33.556307,-81.422637,28957,Sarracenia rubra,2016,3_distribution
+3772868418,Sarracenia,rubra,rubra,Berkeley County,South Carolina,United States,NA,NA,33.181781,-79.666716,29012,Sarracenia rubra,2022,3_distribution
+3858328686,Sarracenia,rubra,rubra,Georgetown County,South Carolina,United States,NA,NA,33.332378,-79.590673,28984,Sarracenia rubra,2022,3_distribution
+3327890668,Sarracenia,rubra,rubra,Horry County,South Carolina,United States,NA,NA,33.868788,-78.966837,28902,Sarracenia rubra,2017,3_distribution
+2609141562,Sarracenia,rubra,rubra,Lexington County,South Carolina,United States,NA,NA,33.97414,-81.266512,28902,Sarracenia rubra,2007,3_distribution
+3709984725,Sarracenia,rubra,viatorum,Taylor County,Georgia,United States,NA,NA,32.618468,-84.154435,210,Sarracenia rubra,2003,3_distribution
+3466199888,Sarracenia,rubra,wherryi,Baldwin County,Alabama,United States,NA,NA,31.115679,-87.713999,29278,Sarracenia rubra,2014,3_distribution
+3090717821,Sarracenia,rubra,wherryi,Clarke County,Alabama,United States,NA,NA,31.36731,-87.777743,29252,Sarracenia rubra,2020,3_distribution
+2422891483,Sarracenia,rubra,wherryi,Escambia County,Alabama,United States,NA,NA,31.107934,-87.362384,29278,Sarracenia rubra,2019,3_distribution
+2244236578,Sarracenia,rubra,wherryi,Mobile County,Alabama,United States,NA,NA,30.600055,-88.035343,29330,Sarracenia rubra,2019,3_distribution
+2236887954,Sarracenia,rubra,wherryi,Washington County,Alabama,United States,NA,NA,31.201937,-88.109558,29252,Sarracenia rubra,2019,3_distribution
+1913179416,Sarracenia,rubra,NA,Autauga County,Alabama,United States,NA,NA,32.515191,-86.555888,17508,Sarracenia rubra,2016,3_distribution
+3067861066,Sarracenia,rubra,NA,Baldwin County,Alabama,United States,NA,NA,30.629706,-87.547774,29330,Sarracenia rubra,2020,3_distribution
+1990000978,Sarracenia,rubra,NA,Escambia County,Alabama,United States,NA,NA,31.079138,-87.54617,7652,Sarracenia rubra,1971,3_distribution
+1990000966,Sarracenia,rubra,NA,Washington County,Alabama,United States,NA,NA,31.395518,-88.356509,873,Sarracenia rubra,1987,3_distribution
+2234383379,Sarracenia,rubra,NA,Okaloosa County,Florida,United States,24,3,30.712778,-86.571667,300,Sarracenia rubra,1989,3_distribution
+3802500627,Sarracenia,rubra,NA,Santa Rosa County,Florida,United States,NA,NA,30.471607,-86.994002,29356,Sarracenia rubra,2022,3_distribution
+768794259,Sarracenia,rubra,NA,Walton County,Florida,United States,NA,NA,30.72083,-86.11527,5000,Sarracenia rubra,1898,3_distribution
+3773620483,Sarracenia,rubra,NA,Columbia County,Georgia,United States,NA,NA,33.59432,-82.1989,28957,Sarracenia rubra,2022,3_distribution
+3947207918,Sarracenia,rubra,NA,Marion County,Georgia,United States,NA,NA,32.437755,-84.486187,29093,Sarracenia rubra,2022,3_distribution
+2963780346,Sarracenia,rubra,NA,Oconee County,Georgia,United States,NA,NA,33.819316,-83.38607,28902,Sarracenia rubra,2017,3_distribution
+768794260,Sarracenia,rubra,NA,Richmond County,Georgia,United States,NA,NA,33.47083,-81.97472,5000,Sarracenia rubra,1903,3_distribution
+3455887447,Sarracenia,rubra,NA,Taylor County,Georgia,United States,NA,NA,32.52955,-84.278398,29093,Sarracenia rubra,2017,3_distribution
+2850905615,Sarracenia,rubra,NA,White County,Georgia,United States,NA,NA,34.716836,-83.687513,28790,Sarracenia rubra,2020,3_distribution
+2237413480,Sarracenia,rubra,NA,Brunswick County,North Carolina,United States,NA,NA,34.12779,-77.996793,28874,Sarracenia rubra,2008,3_distribution
+3067622688,Sarracenia,rubra,NA,Carteret County,North Carolina,United States,NA,NA,34.74378,-76.807426,28790,Sarracenia rubra,2019,3_distribution
+3963549691,Sarracenia,rubra,NA,Cumberland County,North Carolina,United States,NA,NA,35.105835,-79.021641,28734,Sarracenia rubra,2022,3_distribution
+2234381391,Sarracenia,rubra,NA,Henderson County,North Carolina,United States,NA,NA,35.271228,-82.441508,4584,Sarracenia rubra,1842,3_distribution
+1986512267,Sarracenia,rubra,NA,Hoke County,North Carolina,United States,NA,NA,35.029406,-79.220034,28734,Sarracenia rubra,2009,3_distribution
+1990642704,Sarracenia,rubra,NA,Jackson County,North Carolina,United States,NA,NA,35.044338,-83.121209,28734,Sarracenia rubra,2017,3_distribution
+1990492204,Sarracenia,rubra,NA,Jones County,North Carolina,United States,NA,NA,34.935241,-77.152827,28762,Sarracenia rubra,2008,3_distribution
+2901827679,Sarracenia,rubra,NA,Macon County,North Carolina,United States,NA,NA,35.028332,-83.179074,28734,Sarracenia rubra,2020,3_distribution
+3391319918,Sarracenia,rubra,NA,Montgomery County,North Carolina,United States,NA,NA,35.188089,-79.777665,28734,Sarracenia rubra,2021,3_distribution
+2856556367,Sarracenia,rubra,NA,Moore County,North Carolina,United States,NA,NA,35.190646,-79.152856,28734,Sarracenia rubra,2016,3_distribution
+2641518566,Sarracenia,rubra,NA,New Hanover County,North Carolina,United States,NA,NA,34.371988,-77.848768,28846,Sarracenia rubra,2020,3_distribution
+3773023469,Sarracenia,rubra,NA,Pender County,North Carolina,United States,NA,NA,34.493938,-77.725533,28818,Sarracenia rubra,2021,3_distribution
+1914377766,Sarracenia,rubra,NA,Richmond County,North Carolina,United States,NA,NA,35.057324,-79.765461,28734,Sarracenia rubra,2017,3_distribution
+1831159299,Sarracenia,rubra,NA,Scotland County,North Carolina,United States,NA,NA,34.800607,-79.416937,28762,Sarracenia rubra,2017,3_distribution
+2901813948,Sarracenia,rubra,NA,Transylvania County,North Carolina,United States,NA,NA,35.191291,-82.627874,28734,Sarracenia rubra,2020,3_distribution
+3302048852,Sarracenia,rubra,NA,Anderson County,South Carolina,United States,NA,NA,34.624324,-82.811428,28790,Sarracenia rubra,2021,3_distribution
+1841274722,Sarracenia,rubra,NA,Berkeley County,South Carolina,United States,NA,NA,33.117889,-79.793631,29012,Sarracenia rubra,2018,3_distribution
+2980851360,Sarracenia,rubra,NA,Charleston County,South Carolina,United States,NA,NA,33.112208,-79.629935,29012,Sarracenia rubra,2020,3_distribution
+1986499279,Sarracenia,rubra,NA,Chesterfield County,South Carolina,United States,NA,NA,34.604079,-80.207809,28790,Sarracenia rubra,2018,3_distribution
+2234586097,Sarracenia,rubra,NA,Greenville County,South Carolina,United States,351,NA,35.086933,-82.5798,300,Sarracenia rubra,2008,3_distribution
+3314511328,Sarracenia,rubra,NA,Horry County,South Carolina,United States,NA,NA,33.887997,-78.867184,28902,Sarracenia rubra,2020,3_distribution
+3061604367,Sarracenia,rubra,NA,Kershaw County,South Carolina,United States,NA,NA,34.310008,-80.495259,28846,Sarracenia rubra,2020,3_distribution
+3333065555,Sarracenia,rubra,NA,Lexington County,South Carolina,United States,NA,NA,33.877717,-81.278946,28902,Sarracenia rubra,2013,3_distribution
+3302344642,Sarracenia,rubra,NA,Oconee County,South Carolina,United States,NA,NA,34.601059,-82.900307,28790,Sarracenia rubra,2021,3_distribution
+2573857160,Sarracenia,rubra,NA,Pickens County,South Carolina,United States,NA,NA,34.886104,-82.870395,28762,Sarracenia rubra,2014,3_distribution
+3067961359,Sarracenia,rubra,NA,Spartanburg County,South Carolina,United States,NA,NA,34.58636,-81.863253,28818,Sarracenia rubra,2017,3_distribution
