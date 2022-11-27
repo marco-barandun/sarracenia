@@ -48,9 +48,9 @@ sarracenia_df <- my_plants %>%
 ```
 
 ```{r}
-datatable(sarracenia_df %>% select(scientificName, county, state))
+datatable(sarracenia_df %>% select(scientificName, subspecies, county, state, source) %>% filter(source != "3_distribution") %>% filter(!is.na(county)))
 ```
-```{r sarracenia function, include = FALSE}
+```{r sarracenia function, include = FALSE, out.width = '50%'}
 
 map_sarracenia <- function(species,
                            subspecies = NA,
@@ -119,7 +119,7 @@ jsCode <- paste0('
     paste0( '<p>', as.data.frame(in_collection[i, "NAME_2"])$NAME_2,  " ", as.data.frame(in_collection[i, "TYPE_2"])$TYPE_2, ", ", as.data.frame(in_collection[i, "NAME_1"])$NAME_1, '</p>') 
   })
   
-  m <- leaflet(sp_dist) %>% 
+  m <- leaflet(sp_dist, width = '100%') %>% 
     addMapPane(name = "polygons", zIndex = 410) %>% 
     addMapPane(name = "maplabels", zIndex = 420) %>% 
     addProviderTiles("CartoDB.PositronNoLabels") %>%
@@ -185,11 +185,16 @@ jsCode <- paste0('
 ```
 
 ```{r sarracenia map}
-map_sarracenia(species = "Sarracenia leucophylla",
+map_sarracenia(species = "Sarracenia flava",
                #subspecies = "alabamensis",
                df = sarracenia_df,
                l2_global = l2)
 ```
+
+
+
+
+
 
 ## R Markdown
 

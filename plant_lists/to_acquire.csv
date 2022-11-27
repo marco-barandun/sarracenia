@@ -1,3 +1,4 @@
+genus,species,subspecies,variety,country,state,county,source,comment
 Sarracenia,alata,,,United States,Louisiana,St. Tammany Parish,2_BCP,"Sarracenia alata {St. Tammany Parish, Louisiana, USA}"
 Sarracenia,flava,,,United States,Florida,Wakulla,2_BCP,"Sarracenia flava {Apalachicola National Forest, Wakulla Co., Florida, USA} [BCP ID# R-S7C]"
 Sarracenia,flava,,,United States,South Carolina,Lexington,2_BCP,"Sarracenia flava {cutthroat, near Edmund, SC, USA} "
@@ -54,4 +55,3 @@ Sarracenia,leucophylla,,leucophylla,United States,Florida,Wakulla,2_sarraceniaFR
 Sarracenia,leucophylla,,leucophylla,United States,Florida,,2_sarraceniaFR,Sarracenia leucophylla var.leucophylla Wilkerson Bog.FL
 Sarracenia,leucophylla,,leucophylla,United States,Alabama,Covington,2_sarraceniaFR,Sarracenia leucophylla var.leucophylla-Conecuh NF (also Escambia Co. Could be possible). AL SLE-052
 Sarracenia,oreophila,,,United States,Alabama,Cherokee,2_sarraceniaFR,Sarracenia oreophila var.oreophila- Cherokee Co. AL SOR-001 H
-genus,species,subspecies,variety,country,state,county,source,comment
